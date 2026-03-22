@@ -1,4 +1,4 @@
-# Orobic Precision Parts — Manufacturing KPI Dashboard
+# Orobic Precision Parts. Manufacturing KPI Dashboard
 
 **Fictional company notice:** Orobic Precision Parts S.r.l. is a fictional small manufacturing company created for portfolio and educational purposes. All production data is synthetic, generated with Python using statistically realistic distributions calibrated on real-world OEE benchmarks for job-shop machining. The part geometry, process, and specifications are technically accurate and based on ISO 8977 standard references.
 
