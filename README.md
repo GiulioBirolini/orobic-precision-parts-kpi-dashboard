@@ -1,4 +1,4 @@
-# Orobic Precision Parts. Manufacturing KPI Dashboard
+# Orobic Precision Parts: Manufacturing KPI Dashboard
 
 **Fictional company notice:** Orobic Precision Parts S.r.l. is a fictional small manufacturing company created for portfolio and educational purposes. All production data is synthetic, generated with Python using statistically realistic distributions calibrated on real-world OEE benchmarks for job-shop machining. The part geometry, process, and specifications are technically accurate and based on ISO 8977 standard references.
 
@@ -12,17 +12,17 @@ The project is designed to showcase a complete skill set across multiple discipl
 
 | Layer | Skill demonstrated |
 |---|---|
-| Part design | Engineering judgement — selecting a part that technically justifies every process step |
-| CAD | FreeCAD — 3D solid modelling and 2D orthographic drawing with title block |
-| Data engineering | Python ETL pipeline — raw to validated to aggregated KPI tables |
+| Part design | Engineering judgement: selecting a part that technically justifies every process step |
+| CAD | FreeCAD: 3D solid modelling and 2D orthographic drawing with title block |
+| Data engineering | Python ETL pipeline: raw to validated to aggregated KPI tables |
 | Data analysis | OEE decomposition, Pareto, scrap trend, machine benchmarking |
-| Visualisation | matplotlib / seaborn — publication-quality charts |
-| BI dashboard | Power BI — DAX measures, time-based calculations, drill-through |
+| Visualisation | matplotlib / seaborn: publication-quality charts |
+| BI dashboard | Power BI: DAX measures, time-based calculations, drill-through |
 | Documentation | Technical README with process rationale and engineering context |
 
 ---
 
-## The Company — Orobic Precision Parts S.r.l.
+## The Company: Orobic Precision Parts S.r.l.
 
 Fictional company, created for portfolio purposes only.
 
@@ -41,7 +41,7 @@ The name Orobic refers to the Orobie Alps, the mountain range that defines the l
 
 ---
 
-## Reference Part — Blanking Die with Collar (ISO 8977 / FIBRO 2627)
+## Reference Part: Blanking Die with Collar (ISO 8977 / FIBRO 2627)
 
 ### Why this part was chosen
 
@@ -52,9 +52,9 @@ The part selection was deliberate and technically grounded. A Blanking Die with 
 | Band Saw | Blank cut from flat tool steel bar stock |
 | CNC Lathe | Collar OD (Ø23), body OD (Ø20), and blind pocket Ø12 turned before hardening |
 | CNC Milling | Top and bottom faces, relief features |
-| **EDM Wire-Cut** | Square 4×3.2mm cutting profile with sharp 90° corners — mandatory after hardening to 62 HRC. No other process can produce sharp internal corners on hardened HSS |
+| **EDM Wire-Cut** | Square 4×3.2mm cutting profile with sharp 90° corners. Mandatory after hardening to 62 HRC. No other process can produce sharp internal corners on hardened HSS |
 | Surface Grinder | Mating faces ground to Ra 0.4 µm, flatness 0.01 mm |
-| CMM Inspection | Full dimensional report — tight profile tolerance +0.02/0 mm |
+| CMM Inspection | Full dimensional report. Tight profile tolerance +0.02/0 mm |
 
 The EDM step is the key design decision. The square internal profile cannot be milled (minimum fillet radius equals tool radius) and the material at 62 HRC cannot be conventionally machined after hardening. Wire EDM is the only viable process. This is standard industrial practice for blanking dies and stamping tooling.
 
@@ -65,21 +65,21 @@ The 2D and 3D drawings below were produced in FreeCAD (open-source CAD) as part 
 | | |
 |---|---|
 | ![3D View](technical/drawings/3D.png) | ![2D Drawing](technical/drawings/2D.png) |
-| Isometric 3D view — FreeCAD Part Design | Orthographic drawing with section A-A — FreeCAD TechDraw |
+| Isometric 3D view. FreeCAD Part Design | Orthographic drawing with section A-A. FreeCAD TechDraw |
 
 ### Part Specifications
 
 | Parameter | Value |
 |---|---|
 | **Standard** | ISO 8977 / FIBRO 2627 |
-| **Square cutting profile** | 4×3.2 mm (+0.02/0) — wire EDM |
-| **Blind pocket** | Ø12 mm, depth 12 mm — punch slug clearance |
+| **Square cutting profile** | 4×3.2 mm (+0.02/0), wire EDM |
+| **Blind pocket** | Ø12 mm, depth 12 mm. Punch slug clearance |
 | **Body diameter** | Ø20 mm |
 | **Collar diameter** | Ø23 mm (+0.25/0) |
 | **Body height** | 20 mm (+0.5/0) |
 | **Collar height** | 5 mm |
 | **Corner radius** | R1.5 mm |
-| **Material** | HSS 1.3343 / AISI M2 — 62 ±2 HRC |
+| **Material** | HSS 1.3343 / AISI M2, 62 ±2 HRC |
 | **Surface finish (ground faces)** | Ra 0.4 µm |
 | **Flatness** | 0.01 mm |
 | **General tolerances** | ISO 2768-m |
@@ -111,7 +111,7 @@ The 2D and 3D drawings below were produced in FreeCAD (open-source CAD) as part 
 | 1 | Band Saw #1 | HSS bar cut to blank thickness | 2.5 min | ±0.5 mm length |
 | 2 | CNC Lathe #1 | Collar Ø23, body Ø20, blind pocket Ø12×12 | 16 min | Ø h5 / m5 |
 | 3 | CNC Milling #1 | Face milling and relief features | 15 min | Reference faces |
-| 4 | EDM Wire-Cut #1 | 4×3.2mm square profile — after hardening | 45 min | +0.02/0 mm profile |
+| 4 | EDM Wire-Cut #1 | 4×3.2mm square profile, after hardening | 45 min | +0.02/0 mm profile |
 | 5 | Surface Grinder #1 | Top and bottom faces flat and parallel | 12 min | Ra 0.4, flat 0.01 mm |
 | 6 | CMM Inspection #1 | Full dimensional report per batch | 22 min | Pass / Fail |
 
@@ -131,12 +131,12 @@ The production dataset is fully synthetic, generated by `generate_dataset.py` us
 
 | Machine | Key inefficiency driver |
 |---|---|
-| Band Saw | Idle time between batches — low Performance |
-| CNC Lathe | Tool breakage and changeover — moderate Availability |
-| CNC Milling | Complex setups — low Availability |
-| EDM Wire-Cut | Inherently slow process — very low Performance (~62%) |
-| Surface Grinder | Wheel dressing cycles — moderate Availability |
-| CMM Inspection | Probe programming bottleneck — moderate Performance |
+| Band Saw | Idle time between batches: low Performance |
+| CNC Lathe | Tool breakage and changeover: moderate Availability |
+| CNC Milling | Complex setups: low Availability |
+| EDM Wire-Cut | Inherently slow process: very low Performance (~62%) |
+| Surface Grinder | Wheel dressing cycles: moderate Availability |
+| CMM Inspection | Probe programming bottleneck: moderate Performance |
 
 All values are rounded to 3 decimal places. No machine reaches 100% Quality, reflecting realistic scrap generation at each step. Downtime causes and defect types are machine-specific and technically grounded (e.g. Wire Break for EDM, Wheel Dressing for the grinder).
 
@@ -171,7 +171,7 @@ An OEE of 85% is considered world-class. Most real-world manufacturing operation
 | **Bottleneck** | **EDM Wire-Cut #1** | OEE 50.6% |
 | Best performer | CNC Lathe #1 | OEE 71.2% |
 
-The gap between EDM Performance (62%) and every other machine is structural, not operational. Wire EDM cutting speed is governed by material conductivity and cross-section, not operator efficiency. This bottleneck cannot be resolved through Lean interventions alone — capacity improvement would require a second EDM machine.
+The gap between EDM Performance (62%) and every other machine is structural, not operational. Wire EDM cutting speed is governed by material conductivity and cross-section, not operator efficiency. This bottleneck cannot be resolved through Lean interventions alone. Capacity improvement would require a second EDM machine.
 
 ---
 
@@ -180,7 +180,7 @@ The gap between EDM Performance (62%) and every other machine is structural, not
 | | |
 |---|---|
 | ![OEE Trend](reports/figures/01_oee_trend.png) | ![OEE Components](reports/figures/02_oee_components.png) |
-| Monthly OEE trend by machine | OEE components — Availability, Performance, Quality |
+| Monthly OEE trend by machine | OEE components: Availability, Performance, Quality |
 | ![Pareto](reports/figures/03_downtime_pareto.png) | ![Heatmap](reports/figures/04_downtime_heatmap.png) |
 | Downtime Pareto in hours | Downtime by machine and root cause |
 | ![Machine Heatmap](reports/figures/05_machine_heatmap.png) | ![Scatter](reports/figures/06_oee_vs_downtime.png) |
@@ -194,7 +194,7 @@ The OEE distribution chart shows, for each machine, how the daily OEE values are
 
 ## Power BI Dashboard
 
-Dashboard screenshots and `.pbix` file — coming soon.
+Dashboard screenshots and `.pbix` file: coming soon.
 
 The Power BI dashboard is built on the 5 processed CSV tables exported by the ETL pipeline and includes:
 
@@ -279,9 +279,9 @@ Then open Power BI Desktop and follow `powerbi/dashboard_guide.md`.
 
 ## Roadmap
 
-- [x] Part selection — Blanking Die ISO 8977 (FIBRO 2627)
-- [x] 3D model — FreeCAD Part Design
-- [x] 2D technical drawing — FreeCAD TechDraw (orthographic, section, title block)
+- [x] Part selection: Blanking Die ISO 8977 (FIBRO 2627)
+- [x] 3D model: FreeCAD Part Design
+- [x] 2D technical drawing: FreeCAD TechDraw (orthographic, section, title block)
 - [x] Process chain definition with cycle time rationale
 - [x] Synthetic dataset generation (13,158 records, 6 machines)
 - [x] ETL pipeline (5 processed KPI tables)
@@ -296,7 +296,7 @@ Then open Power BI Desktop and follow `powerbi/dashboard_guide.md`.
 
 FreeCAD 1.0 (open-source CAD) / Python: pandas, numpy, matplotlib, seaborn / Power BI Desktop / Git and GitHub
 
-Data is synthetic and fully reproducible — `numpy.random.seed(7)`
+Data is synthetic and fully reproducible. `numpy.random.seed(7)`
 
 ---
 
@@ -311,4 +311,4 @@ Mechanical Engineer | Continuous Improvement | Data Analytics
 
 ## License
 
-MIT — free to use, adapt, and extend with attribution.
+MIT. Free to use, adapt, and extend with attribution.
