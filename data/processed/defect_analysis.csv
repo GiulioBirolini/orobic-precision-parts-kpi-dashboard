@@ -1,0 +1,385 @@
+Machine,Defect_Type,Year,Month_Num,Occurrences,Total_Rejected,Avg_Scrap_Rate
+Band Saw #1,Out-of-Square Cut,2024,4,42,156,0.027
+Band Saw #1,Out-of-Square Cut,2023,1,36,137,0.028
+Band Saw #1,Out-of-Square Cut,2024,3,34,134,0.03
+Band Saw #1,Out-of-Square Cut,2023,9,37,129,0.026
+Band Saw #1,Out-of-Square Cut,2023,4,35,127,0.026
+Band Saw #1,Out-of-Square Cut,2024,2,34,127,0.028
+Band Saw #1,Out-of-Square Cut,2023,7,30,122,0.03
+Band Saw #1,Out-of-Square Cut,2024,12,36,119,0.025
+Band Saw #1,Out-of-Square Cut,2024,9,36,112,0.023
+Band Saw #1,Burr / Rough Edge,2024,8,27,111,0.03
+Band Saw #1,Out-of-Square Cut,2024,11,32,109,0.024
+Band Saw #1,Out-of-Square Cut,2023,3,31,107,0.026
+Band Saw #1,Out-of-Square Cut,2024,10,35,105,0.021
+Band Saw #1,Out-of-Square Cut,2023,11,27,104,0.028
+Band Saw #1,Out-of-Square Cut,2024,7,30,100,0.024
+Band Saw #1,Out-of-Square Cut,2023,6,31,100,0.025
+Band Saw #1,Out-of-Square Cut,2023,2,27,97,0.027
+Band Saw #1,Burr / Rough Edge,2023,3,26,97,0.027
+Band Saw #1,Out-of-Square Cut,2023,5,29,97,0.025
+Band Saw #1,Out-of-Square Cut,2023,12,27,96,0.025
+Band Saw #1,Out-of-Square Cut,2023,8,24,95,0.03
+Band Saw #1,Out-of-Square Cut,2023,10,29,95,0.024
+Band Saw #1,Out-of-Square Cut,2024,1,28,94,0.024
+Band Saw #1,Out-of-Square Cut,2024,5,29,87,0.023
+Band Saw #1,Burr / Rough Edge,2024,6,26,85,0.025
+Band Saw #1,Out-of-Square Cut,2024,6,28,84,0.022
+Band Saw #1,Burr / Rough Edge,2024,11,22,82,0.028
+Band Saw #1,Burr / Rough Edge,2023,10,18,82,0.032
+Band Saw #1,Burr / Rough Edge,2023,1,20,77,0.029
+Band Saw #1,Wrong Length,2023,2,19,77,0.029
+CNC Lathe #1,Diameter Out-of-Tol.,2023,11,46,74,0.037
+Band Saw #1,Out-of-Square Cut,2024,8,21,74,0.025
+Band Saw #1,Burr / Rough Edge,2023,6,18,72,0.028
+Band Saw #1,Burr / Rough Edge,2023,12,22,70,0.023
+CNC Lathe #1,Diameter Out-of-Tol.,2023,8,43,69,0.037
+CNC Lathe #1,Diameter Out-of-Tol.,2024,9,38,68,0.04
+Band Saw #1,Burr / Rough Edge,2024,4,17,68,0.03
+CNC Lathe #1,Diameter Out-of-Tol.,2024,12,42,68,0.037
+Band Saw #1,Burr / Rough Edge,2024,1,20,68,0.024
+CNC Lathe #1,Diameter Out-of-Tol.,2023,2,39,67,0.038
+Band Saw #1,Burr / Rough Edge,2024,12,20,66,0.026
+CNC Lathe #1,Diameter Out-of-Tol.,2023,5,37,66,0.04
+Band Saw #1,Wrong Length,2023,7,17,65,0.028
+Band Saw #1,Burr / Rough Edge,2023,11,18,64,0.026
+Band Saw #1,Wrong Length,2023,11,17,64,0.028
+Band Saw #1,Burr / Rough Edge,2024,3,18,63,0.026
+CNC Lathe #1,Diameter Out-of-Tol.,2024,1,38,62,0.037
+Band Saw #1,Burr / Rough Edge,2024,7,18,62,0.024
+Band Saw #1,Burr / Rough Edge,2024,5,18,61,0.026
+Band Saw #1,Wrong Length,2023,4,16,60,0.026
+CNC Lathe #1,Diameter Out-of-Tol.,2024,6,36,60,0.036
+Band Saw #1,Wrong Length,2024,7,19,59,0.023
+CNC Lathe #1,Diameter Out-of-Tol.,2024,4,38,59,0.035
+Band Saw #1,Burr / Rough Edge,2024,10,18,58,0.025
+CNC Lathe #1,Diameter Out-of-Tol.,2023,1,40,58,0.033
+Band Saw #1,Wrong Length,2023,9,16,58,0.027
+Band Saw #1,Burr / Rough Edge,2023,8,15,57,0.029
+Band Saw #1,Burr / Rough Edge,2023,7,16,57,0.025
+CNC Lathe #1,Diameter Out-of-Tol.,2024,5,34,55,0.036
+CNC Lathe #1,Diameter Out-of-Tol.,2023,9,36,55,0.034
+CNC Lathe #1,Diameter Out-of-Tol.,2023,12,36,55,0.034
+Band Saw #1,Wrong Length,2024,12,15,54,0.026
+Band Saw #1,Wrong Length,2023,6,15,53,0.026
+CNC Lathe #1,Diameter Out-of-Tol.,2024,3,32,53,0.037
+Band Saw #1,Wrong Length,2024,9,16,53,0.025
+CNC Lathe #1,Diameter Out-of-Tol.,2023,7,36,53,0.033
+Band Saw #1,Wrong Length,2024,1,14,52,0.027
+Band Saw #1,Wrong Length,2024,2,14,52,0.026
+Band Saw #1,Burr / Rough Edge,2024,2,18,52,0.021
+Band Saw #1,Wrong Length,2023,8,14,52,0.028
+Band Saw #1,Burr / Rough Edge,2023,4,15,51,0.027
+Band Saw #1,Burr / Rough Edge,2023,2,12,51,0.031
+CNC Lathe #1,Diameter Out-of-Tol.,2024,11,30,50,0.037
+CNC Lathe #1,Diameter Out-of-Tol.,2024,7,32,50,0.035
+CNC Lathe #1,Surface Finish Fail,2024,8,34,49,0.033
+Band Saw #1,Wrong Length,2024,10,12,49,0.028
+CNC Lathe #1,Diameter Out-of-Tol.,2024,2,30,48,0.036
+CNC Lathe #1,Diameter Out-of-Tol.,2023,6,31,47,0.035
+CNC Lathe #1,Diameter Out-of-Tol.,2024,10,32,47,0.033
+Band Saw #1,Wrong Length,2023,1,15,47,0.024
+CMM Inspection #1,Measurement Abort,2024,6,46,46,0.06
+CNC Lathe #1,Surface Finish Fail,2023,9,27,46,0.039
+CNC Lathe #1,Surface Finish Fail,2023,10,29,46,0.036
+Band Saw #1,Wrong Length,2023,5,15,46,0.024
+Band Saw #1,Wrong Length,2023,10,11,46,0.033
+Band Saw #1,Wrong Length,2024,6,12,46,0.027
+CNC Lathe #1,Surface Finish Fail,2023,4,30,46,0.035
+CNC Lathe #1,Surface Finish Fail,2024,7,31,44,0.032
+CMM Inspection #1,Measurement Abort,2023,1,43,43,0.061
+Band Saw #1,Wrong Length,2024,3,13,42,0.025
+Band Saw #1,Wrong Length,2023,3,12,42,0.025
+CMM Inspection #1,Measurement Abort,2024,12,42,42,0.06
+CMM Inspection #1,Measurement Abort,2024,9,42,42,0.061
+CNC Milling #1,Positional Error,2023,8,41,41,0.074
+Surface Grinder #1,Flatness Out-of-Tol.,2024,11,41,41,0.036
+CNC Lathe #1,Diameter Out-of-Tol.,2023,10,31,41,0.031
+Band Saw #1,Wrong Length,2023,12,13,41,0.023
+CMM Inspection #1,Measurement Abort,2024,4,41,41,0.061
+CNC Lathe #1,Diameter Out-of-Tol.,2023,4,29,41,0.031
+CNC Lathe #1,Diameter Out-of-Tol.,2024,8,24,41,0.038
+Surface Grinder #1,Flatness Out-of-Tol.,2023,4,40,40,0.036
+Surface Grinder #1,Flatness Out-of-Tol.,2024,7,40,40,0.036
+CNC Lathe #1,Surface Finish Fail,2024,1,26,40,0.036
+CNC Lathe #1,Surface Finish Fail,2024,11,26,40,0.034
+CMM Inspection #1,Measurement Abort,2023,7,40,40,0.062
+Surface Grinder #1,Flatness Out-of-Tol.,2024,9,39,39,0.035
+CNC Lathe #1,Surface Finish Fail,2024,4,25,39,0.034
+CMM Inspection #1,Measurement Abort,2024,3,39,39,0.061
+Surface Grinder #1,Flatness Out-of-Tol.,2023,8,39,39,0.036
+Surface Grinder #1,Flatness Out-of-Tol.,2023,7,39,39,0.035
+Surface Grinder #1,Flatness Out-of-Tol.,2024,1,39,39,0.036
+Band Saw #1,Burr / Rough Edge,2023,9,12,39,0.025
+Band Saw #1,Burr / Rough Edge,2024,9,14,39,0.022
+CNC Milling #1,Positional Error,2023,6,40,39,0.072
+CMM Inspection #1,Measurement Abort,2023,6,39,39,0.062
+CMM Inspection #1,Measurement Abort,2023,10,39,39,0.063
+Surface Grinder #1,Flatness Out-of-Tol.,2024,6,38,38,0.036
+CMM Inspection #1,Measurement Abort,2024,2,38,38,0.06
+CNC Lathe #1,Thread Error,2023,10,23,38,0.037
+Band Saw #1,Burr / Rough Edge,2023,5,12,38,0.024
+CNC Lathe #1,Surface Finish Fail,2024,3,27,37,0.031
+CMM Inspection #1,Measurement Abort,2023,8,37,37,0.06
+Surface Grinder #1,Flatness Out-of-Tol.,2023,11,37,37,0.035
+Surface Grinder #1,Flatness Out-of-Tol.,2023,12,37,37,0.035
+CMM Inspection #1,Measurement Abort,2024,5,37,37,0.063
+CNC Milling #1,Positional Error,2024,12,37,37,0.074
+CNC Milling #1,Positional Error,2024,3,37,37,0.072
+CMM Inspection #1,Measurement Abort,2024,7,37,37,0.062
+CNC Milling #1,Positional Error,2024,8,37,37,0.074
+CMM Inspection #1,Measurement Abort,2023,11,37,37,0.061
+CNC Lathe #1,Surface Finish Fail,2024,10,23,37,0.037
+CMM Inspection #1,Measurement Abort,2023,3,37,37,0.061
+CMM Inspection #1,Measurement Abort,2023,12,37,37,0.06
+Surface Grinder #1,Flatness Out-of-Tol.,2023,5,36,36,0.036
+CNC Lathe #1,Thread Error,2023,8,22,36,0.037
+CNC Milling #1,Positional Error,2023,9,36,36,0.074
+CNC Lathe #1,Surface Finish Fail,2023,1,21,36,0.038
+CNC Milling #1,Positional Error,2024,4,37,36,0.074
+CNC Milling #1,Positional Error,2023,5,36,36,0.076
+CNC Lathe #1,Diameter Out-of-Tol.,2023,3,26,36,0.032
+CMM Inspection #1,Measurement Abort,2024,10,36,36,0.063
+CNC Milling #1,Positional Error,2023,10,36,36,0.073
+CNC Milling #1,Surface Finish Fail,2024,6,36,36,0.074
+CMM Inspection #1,Measurement Abort,2024,1,36,36,0.061
+CMM Inspection #1,Measurement Abort,2023,2,36,36,0.062
+CNC Lathe #1,Thread Error,2024,11,20,35,0.039
+Surface Grinder #1,Flatness Out-of-Tol.,2024,4,35,35,0.037
+CNC Lathe #1,Surface Finish Fail,2024,5,24,35,0.033
+CNC Lathe #1,Thread Error,2024,5,21,35,0.037
+CNC Milling #1,Positional Error,2023,3,35,35,0.072
+CNC Milling #1,Positional Error,2024,9,35,35,0.077
+CNC Milling #1,Positional Error,2023,1,35,35,0.071
+CNC Lathe #1,Surface Finish Fail,2023,6,22,34,0.035
+CNC Lathe #1,Surface Finish Fail,2023,3,24,34,0.032
+CNC Lathe #1,Surface Finish Fail,2024,2,21,34,0.035
+CNC Lathe #1,Surface Finish Fail,2024,6,23,34,0.034
+CMM Inspection #1,Measurement Abort,2023,9,35,34,0.06
+CNC Milling #1,Surface Finish Fail,2023,7,34,34,0.074
+CNC Lathe #1,Thread Error,2023,3,23,34,0.034
+Surface Grinder #1,Flatness Out-of-Tol.,2024,10,34,34,0.035
+Band Saw #1,Wrong Length,2024,4,10,33,0.025
+CNC Milling #1,Positional Error,2023,12,33,33,0.071
+CNC Milling #1,Positional Error,2023,2,33,33,0.072
+CMM Inspection #1,Measurement Abort,2023,4,33,33,0.062
+CMM Inspection #1,Fixture Error,2024,8,33,33,0.062
+Surface Grinder #1,Flatness Out-of-Tol.,2024,12,33,33,0.036
+CNC Lathe #1,Surface Finish Fail,2023,5,20,33,0.037
+CNC Lathe #1,Surface Finish Fail,2024,12,21,32,0.033
+CNC Lathe #1,Thread Error,2024,10,21,32,0.033
+CNC Milling #1,Positional Error,2024,7,32,32,0.075
+Surface Grinder #1,Flatness Out-of-Tol.,2023,1,32,32,0.037
+Surface Grinder #1,Flatness Out-of-Tol.,2023,10,32,32,0.036
+Band Saw #1,Wrong Length,2024,8,11,32,0.02
+Surface Grinder #1,Flatness Out-of-Tol.,2023,2,32,32,0.035
+CNC Milling #1,Surface Finish Fail,2024,12,32,32,0.074
+CNC Lathe #1,Surface Finish Fail,2023,12,21,31,0.035
+CNC Milling #1,Positional Error,2023,11,32,31,0.073
+Band Saw #1,Wrong Length,2024,11,7,31,0.032
+CMM Inspection #1,Fixture Error,2023,12,31,31,0.059
+CNC Lathe #1,Thread Error,2023,9,18,31,0.039
+CNC Lathe #1,Surface Finish Fail,2024,9,22,31,0.033
+CNC Milling #1,Positional Error,2024,6,31,31,0.071
+Surface Grinder #1,Flatness Out-of-Tol.,2024,3,31,31,0.036
+Surface Grinder #1,Flatness Out-of-Tol.,2023,9,31,31,0.035
+CMM Inspection #1,Fixture Error,2024,10,31,31,0.06
+Surface Grinder #1,Flatness Out-of-Tol.,2024,5,31,31,0.035
+CNC Milling #1,Positional Error,2024,1,31,31,0.073
+CMM Inspection #1,Measurement Abort,2023,5,30,30,0.062
+CNC Milling #1,Dimensional Out-of-Tol.,2024,2,30,30,0.075
+CNC Milling #1,Dimensional Out-of-Tol.,2023,12,30,30,0.076
+CNC Lathe #1,Thread Error,2024,1,18,30,0.038
+CMM Inspection #1,Measurement Abort,2024,11,30,30,0.058
+CNC Milling #1,Positional Error,2024,11,30,30,0.073
+CNC Milling #1,Dimensional Out-of-Tol.,2024,7,30,30,0.075
+CMM Inspection #1,Fixture Error,2023,7,30,30,0.06
+CMM Inspection #1,Fixture Error,2024,1,30,30,0.061
+CMM Inspection #1,Fixture Error,2024,11,30,30,0.063
+Surface Grinder #1,Flatness Out-of-Tol.,2023,6,30,30,0.036
+CNC Milling #1,Positional Error,2023,4,31,30,0.073
+CNC Lathe #1,Thread Error,2023,11,18,30,0.038
+CNC Milling #1,Surface Finish Fail,2023,4,29,29,0.073
+CNC Milling #1,Surface Finish Fail,2024,10,29,29,0.076
+CNC Lathe #1,Thread Error,2024,2,19,29,0.035
+CNC Milling #1,Dimensional Out-of-Tol.,2024,10,29,29,0.076
+CNC Lathe #1,Thread Error,2024,7,17,29,0.038
+CNC Lathe #1,Thread Error,2023,7,20,29,0.032
+CNC Milling #1,Positional Error,2024,5,29,29,0.075
+CMM Inspection #1,Fixture Error,2023,5,29,29,0.062
+CNC Lathe #1,Surface Finish Fail,2023,8,17,29,0.038
+CNC Lathe #1,Thread Error,2024,4,17,28,0.037
+CNC Lathe #1,Thread Error,2023,2,15,28,0.042
+CNC Lathe #1,Thread Error,2023,12,19,28,0.034
+CNC Milling #1,Dimensional Out-of-Tol.,2024,1,28,28,0.076
+CNC Lathe #1,Thread Error,2023,6,20,28,0.033
+Surface Grinder #1,Flatness Out-of-Tol.,2024,8,28,28,0.035
+CNC Milling #1,Positional Error,2023,7,28,28,0.074
+CNC Milling #1,Surface Finish Fail,2023,10,28,28,0.075
+CNC Milling #1,Surface Finish Fail,2024,9,28,28,0.074
+CNC Milling #1,Positional Error,2024,10,27,27,0.075
+CNC Milling #1,Dimensional Out-of-Tol.,2023,3,27,27,0.074
+CNC Lathe #1,Surface Finish Fail,2023,2,18,27,0.036
+CNC Milling #1,Dimensional Out-of-Tol.,2024,11,27,27,0.075
+CNC Milling #1,Dimensional Out-of-Tol.,2024,5,28,27,0.07
+Surface Grinder #1,Surface Finish Fail,2024,3,27,27,0.036
+Surface Grinder #1,Flatness Out-of-Tol.,2024,2,27,27,0.036
+CNC Milling #1,Surface Finish Fail,2023,8,27,27,0.075
+CNC Milling #1,Surface Finish Fail,2024,5,27,27,0.074
+Surface Grinder #1,Flatness Out-of-Tol.,2023,3,27,27,0.036
+CNC Lathe #1,Thread Error,2023,5,16,27,0.039
+CNC Milling #1,Dimensional Out-of-Tol.,2023,4,27,27,0.074
+CNC Lathe #1,Surface Finish Fail,2023,7,20,27,0.03
+CNC Milling #1,Dimensional Out-of-Tol.,2024,3,26,26,0.074
+CNC Milling #1,Surface Finish Fail,2024,11,27,26,0.073
+CNC Milling #1,Dimensional Out-of-Tol.,2023,1,26,26,0.073
+CNC Lathe #1,Thread Error,2024,3,17,26,0.034
+CMM Inspection #1,Fixture Error,2024,5,26,26,0.061
+CMM Inspection #1,Fixture Error,2023,1,26,26,0.06
+CMM Inspection #1,Fixture Error,2024,4,26,26,0.063
+CMM Inspection #1,Fixture Error,2023,11,26,26,0.06
+CMM Inspection #1,Fixture Error,2024,7,26,26,0.062
+CNC Milling #1,Dimensional Out-of-Tol.,2023,9,26,26,0.074
+Surface Grinder #1,Surface Finish Fail,2024,6,26,26,0.036
+CNC Milling #1,Dimensional Out-of-Tol.,2023,7,26,26,0.074
+CMM Inspection #1,Measurement Abort,2024,8,26,26,0.061
+CNC Milling #1,Dimensional Out-of-Tol.,2023,11,26,26,0.076
+CNC Milling #1,Dimensional Out-of-Tol.,2023,5,27,26,0.072
+CMM Inspection #1,Fixture Error,2023,9,25,25,0.061
+CMM Inspection #1,Fixture Error,2023,3,25,25,0.062
+CMM Inspection #1,Fixture Error,2024,12,25,25,0.062
+CNC Lathe #1,Thread Error,2024,9,17,25,0.033
+CNC Milling #1,Dimensional Out-of-Tol.,2024,8,25,25,0.076
+CNC Milling #1,Dimensional Out-of-Tol.,2023,2,25,25,0.074
+CNC Lathe #1,Thread Error,2023,4,14,25,0.04
+CNC Lathe #1,Thread Error,2024,6,15,25,0.04
+Surface Grinder #1,Surface Finish Fail,2023,12,24,24,0.035
+CNC Lathe #1,Surface Finish Fail,2023,11,14,24,0.037
+CNC Milling #1,Surface Finish Fail,2024,1,24,24,0.078
+CNC Milling #1,Surface Finish Fail,2024,2,24,24,0.074
+CMM Inspection #1,Fixture Error,2024,6,24,24,0.063
+CMM Inspection #1,Fixture Error,2023,4,24,24,0.061
+Band Saw #1,Wrong Length,2024,5,8,23,0.02
+CMM Inspection #1,Fixture Error,2024,2,23,23,0.061
+CNC Milling #1,Surface Finish Fail,2023,3,23,23,0.073
+CNC Milling #1,Surface Finish Fail,2024,8,23,23,0.075
+CNC Milling #1,Surface Finish Fail,2024,3,23,23,0.074
+CNC Milling #1,Surface Finish Fail,2023,6,23,23,0.074
+CNC Milling #1,Surface Finish Fail,2023,1,23,23,0.074
+CNC Milling #1,Dimensional Out-of-Tol.,2023,10,23,23,0.078
+Surface Grinder #1,Surface Finish Fail,2024,5,23,23,0.035
+Surface Grinder #1,Surface Finish Fail,2023,3,23,23,0.035
+CNC Milling #1,Positional Error,2024,2,23,23,0.074
+CMM Inspection #1,Fixture Error,2023,10,22,22,0.063
+CNC Milling #1,Surface Finish Fail,2024,7,22,22,0.074
+CNC Milling #1,Surface Finish Fail,2023,11,22,22,0.073
+Surface Grinder #1,Surface Finish Fail,2024,9,22,22,0.036
+CNC Milling #1,Surface Finish Fail,2023,5,21,21,0.078
+CNC Milling #1,Surface Finish Fail,2024,4,21,21,0.074
+CNC Milling #1,Surface Finish Fail,2023,2,21,21,0.075
+Surface Grinder #1,Surface Finish Fail,2024,1,21,21,0.035
+Surface Grinder #1,Surface Finish Fail,2024,10,21,21,0.036
+CNC Milling #1,Dimensional Out-of-Tol.,2024,4,21,21,0.072
+CNC Milling #1,Dimensional Out-of-Tol.,2024,9,22,21,0.073
+Surface Grinder #1,Surface Finish Fail,2023,5,21,21,0.036
+CNC Milling #1,Surface Finish Fail,2023,12,21,21,0.075
+Surface Grinder #1,Surface Finish Fail,2023,4,21,21,0.035
+Surface Grinder #1,Surface Finish Fail,2024,7,21,21,0.036
+Surface Grinder #1,Burn Marks,2023,7,21,21,0.035
+CMM Inspection #1,Fixture Error,2023,2,21,21,0.063
+Surface Grinder #1,Surface Finish Fail,2024,2,20,20,0.036
+Surface Grinder #1,Surface Finish Fail,2023,7,20,20,0.037
+Surface Grinder #1,Surface Finish Fail,2023,1,20,20,0.036
+Surface Grinder #1,Surface Finish Fail,2023,2,20,20,0.036
+Surface Grinder #1,Burn Marks,2023,1,20,20,0.037
+CMM Inspection #1,Fixture Error,2023,8,20,20,0.06
+CMM Inspection #1,Fixture Error,2024,9,20,20,0.06
+CNC Milling #1,Dimensional Out-of-Tol.,2023,8,20,20,0.074
+CNC Lathe #1,Thread Error,2023,1,15,20,0.03
+CNC Lathe #1,Thread Error,2024,8,16,19,0.027
+CMM Inspection #1,Fixture Error,2024,3,19,19,0.063
+Surface Grinder #1,Burn Marks,2024,8,19,19,0.037
+Surface Grinder #1,Surface Finish Fail,2024,12,18,18,0.036
+Surface Grinder #1,Surface Finish Fail,2024,11,18,18,0.035
+Surface Grinder #1,Surface Finish Fail,2023,10,18,18,0.035
+CNC Lathe #1,Thread Error,2024,12,12,18,0.035
+CMM Inspection #1,Fixture Error,2023,6,18,18,0.059
+Surface Grinder #1,Burn Marks,2023,3,18,18,0.035
+Surface Grinder #1,Burn Marks,2024,10,17,17,0.035
+Surface Grinder #1,Burn Marks,2024,3,17,17,0.037
+Surface Grinder #1,Burn Marks,2023,9,17,17,0.036
+Surface Grinder #1,Burn Marks,2023,5,16,16,0.036
+Surface Grinder #1,Surface Finish Fail,2023,11,16,16,0.035
+Surface Grinder #1,Surface Finish Fail,2023,8,16,16,0.037
+Surface Grinder #1,Surface Finish Fail,2024,4,16,16,0.036
+CNC Milling #1,Surface Finish Fail,2023,9,16,16,0.073
+Surface Grinder #1,Burn Marks,2024,4,16,16,0.036
+Surface Grinder #1,Burn Marks,2023,6,15,15,0.035
+Surface Grinder #1,Surface Finish Fail,2024,8,15,15,0.036
+Surface Grinder #1,Surface Finish Fail,2023,6,15,15,0.035
+CNC Milling #1,Dimensional Out-of-Tol.,2023,6,15,15,0.08
+CNC Milling #1,Dimensional Out-of-Tol.,2024,12,15,15,0.073
+Surface Grinder #1,Burn Marks,2023,4,15,15,0.036
+Surface Grinder #1,Burn Marks,2023,2,15,15,0.035
+CNC Milling #1,Dimensional Out-of-Tol.,2024,6,14,14,0.075
+Surface Grinder #1,Surface Finish Fail,2023,9,14,14,0.035
+Surface Grinder #1,Burn Marks,2023,11,14,14,0.036
+Surface Grinder #1,Burn Marks,2023,10,13,13,0.035
+Surface Grinder #1,Burn Marks,2023,12,13,13,0.037
+Surface Grinder #1,Burn Marks,2024,12,12,12,0.035
+Surface Grinder #1,Burn Marks,2023,8,12,12,0.037
+Surface Grinder #1,Burn Marks,2024,9,12,12,0.034
+Surface Grinder #1,Burn Marks,2024,5,12,12,0.036
+Surface Grinder #1,Burn Marks,2024,2,12,12,0.037
+Surface Grinder #1,Burn Marks,2024,7,10,10,0.038
+Surface Grinder #1,Burn Marks,2024,6,10,10,0.038
+Surface Grinder #1,Burn Marks,2024,1,10,10,0.035
+Surface Grinder #1,Burn Marks,2024,11,9,9,0.035
+EDM Wire-Cut #1,Surface Recast Layer,2024,6,26,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,5,24,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,4,21,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,3,33,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,2,33,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,1,31,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,12,24,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,11,25,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,10,24,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,9,25,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,4,43,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,3,38,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,2,26,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,1,39,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,12,38,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,11,37,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,10,43,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,9,38,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,8,40,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,7,32,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,6,26,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,5,32,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,4,37,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,3,30,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,2,33,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2023,1,39,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,8,24,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,7,33,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,6,31,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,5,33,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,4,21,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,3,28,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,2,27,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2023,1,24,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,12,38,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,11,30,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,10,42,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,9,34,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,8,38,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,7,37,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,6,40,0,0.0
+EDM Wire-Cut #1,Contour Deviation,2024,5,39,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,8,30,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,7,27,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,9,26,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,10,30,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,11,26,0,0.0
+EDM Wire-Cut #1,Surface Recast Layer,2024,12,31,0,0.0

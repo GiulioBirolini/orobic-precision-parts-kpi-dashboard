@@ -1,0 +1,721 @@
+Machine,Downtime_Reason,Year,Month_Num,Occurrences,Total_Downtime,Avg_Downtime
+CNC Milling #1,Changeover / Setup,2023,6,44,4373.904,99.407
+CNC Milling #1,Changeover / Setup,2024,9,41,4257.816,103.849
+CNC Milling #1,Changeover / Setup,2023,12,43,4245.72,98.738
+CNC Milling #1,Changeover / Setup,2023,4,37,4201.755,113.561
+CNC Milling #1,Changeover / Setup,2024,4,41,4153.778,101.312
+CNC Milling #1,Changeover / Setup,2023,3,38,3906.415,102.8
+CNC Milling #1,Changeover / Setup,2024,7,37,3888.966,105.107
+EDM Wire-Cut #1,Wire Break,2024,9,43,3875.056,90.118
+CNC Milling #1,Changeover / Setup,2024,8,37,3719.176,100.518
+CNC Milling #1,Changeover / Setup,2023,10,32,3708.544,115.892
+CNC Milling #1,Changeover / Setup,2023,7,33,3588.082,108.73
+Surface Grinder #1,Wheel Dressing,2024,3,39,3571.359,91.573
+CNC Milling #1,Changeover / Setup,2024,1,35,3553.229,101.521
+CNC Milling #1,Changeover / Setup,2023,2,34,3532.78,103.905
+EDM Wire-Cut #1,Wire Break,2024,7,40,3516.592,87.915
+Surface Grinder #1,Wheel Dressing,2023,8,40,3515.67,87.892
+CNC Milling #1,Changeover / Setup,2024,11,35,3397.854,97.082
+Surface Grinder #1,Wheel Dressing,2023,1,39,3362.705,86.223
+CNC Milling #1,Changeover / Setup,2024,3,33,3356.649,101.717
+Surface Grinder #1,Wheel Dressing,2023,10,41,3334.905,81.339
+EDM Wire-Cut #1,Wire Break,2024,5,34,3296.903,96.968
+CNC Milling #1,Changeover / Setup,2023,9,32,3268.423,102.138
+CNC Milling #1,Changeover / Setup,2024,10,33,3217.037,97.486
+CNC Milling #1,Tool Breakage,2023,11,29,3191.955,110.067
+EDM Wire-Cut #1,Wire Break,2024,12,36,3176.102,88.225
+EDM Wire-Cut #1,Wire Break,2023,6,32,3162.691,98.834
+CNC Milling #1,Changeover / Setup,2023,1,36,3158.852,87.746
+Surface Grinder #1,Wheel Dressing,2023,5,39,3130.584,80.271
+CNC Milling #1,Changeover / Setup,2024,6,30,3129.94,104.331
+CNC Milling #1,Changeover / Setup,2023,11,28,3110.194,111.078
+Surface Grinder #1,Wheel Dressing,2024,1,36,3094.87,85.969
+EDM Wire-Cut #1,Wire Break,2023,11,33,3090.128,93.64
+EDM Wire-Cut #1,Wire Break,2024,1,37,3019.616,81.611
+EDM Wire-Cut #1,Wire Break,2023,1,36,3018.166,83.838
+CNC Milling #1,Changeover / Setup,2023,5,28,3009.959,107.499
+CNC Milling #1,Tool Breakage,2024,11,28,2983.521,106.554
+Surface Grinder #1,Wheel Dressing,2023,3,35,2979.123,85.118
+CNC Milling #1,Changeover / Setup,2024,12,32,2976.01,93.0
+CMM Inspection #1,Program / Fixture Setup,2023,5,44,2967.163,67.436
+CNC Milling #1,Changeover / Setup,2023,8,32,2965.849,92.683
+EDM Wire-Cut #1,Wire Break,2023,4,33,2961.5,89.742
+Surface Grinder #1,Wheel Dressing,2024,9,37,2907.328,78.576
+CNC Milling #1,Changeover / Setup,2024,5,28,2888.286,103.153
+EDM Wire-Cut #1,Wire Break,2024,10,33,2884.096,87.397
+Surface Grinder #1,Wheel Dressing,2024,8,37,2846.416,76.93
+CMM Inspection #1,Program / Fixture Setup,2023,7,43,2828.013,65.768
+EDM Wire-Cut #1,Planned Maintenance,2023,7,31,2819.05,90.937
+EDM Wire-Cut #1,Wire Break,2023,12,29,2808.567,96.847
+CMM Inspection #1,Program / Fixture Setup,2024,6,42,2789.831,66.425
+Surface Grinder #1,Wheel Dressing,2024,7,35,2768.438,79.098
+CNC Milling #1,Tool Breakage,2024,3,27,2759.326,102.197
+EDM Wire-Cut #1,Wire Break,2024,8,34,2745.008,80.736
+EDM Wire-Cut #1,Wire Break,2024,6,33,2735.757,82.902
+EDM Wire-Cut #1,Planned Maintenance,2023,8,30,2734.678,91.156
+CNC Lathe #1,Tool Breakage,2024,5,34,2703.252,79.507
+CNC Lathe #1,Tool Breakage,2024,8,37,2691.835,72.752
+EDM Wire-Cut #1,Wire Break,2023,3,28,2687.215,95.972
+EDM Wire-Cut #1,Planned Maintenance,2023,5,32,2661.51,83.172
+CNC Lathe #1,Tool Breakage,2023,5,35,2659.016,75.972
+Surface Grinder #1,Wheel Dressing,2023,9,36,2652.914,73.692
+CMM Inspection #1,Program / Fixture Setup,2023,3,42,2648.441,63.058
+Surface Grinder #1,Wheel Dressing,2024,11,34,2612.758,76.846
+EDM Wire-Cut #1,Wire Break,2024,4,29,2612.392,90.082
+Surface Grinder #1,Wheel Dressing,2023,4,32,2607.693,81.49
+CNC Lathe #1,Changeover / Setup,2023,8,34,2602.995,76.559
+Surface Grinder #1,Wheel Dressing,2023,11,35,2581.418,73.755
+EDM Wire-Cut #1,Wire Break,2023,2,30,2579.332,85.978
+EDM Wire-Cut #1,Wire Break,2024,3,30,2578.754,85.958
+CMM Inspection #1,Program / Fixture Setup,2023,12,38,2573.485,67.723
+Surface Grinder #1,Wheel Dressing,2024,5,35,2565.118,73.289
+Surface Grinder #1,Wheel Dressing,2024,2,30,2556.379,85.213
+Surface Grinder #1,Changeover / Setup,2023,12,29,2555.675,88.127
+CMM Inspection #1,Program / Fixture Setup,2024,9,38,2545.308,66.982
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,12,28,2538.584,90.664
+CNC Lathe #1,Changeover / Setup,2024,9,34,2514.318,73.951
+CMM Inspection #1,Program / Fixture Setup,2024,3,39,2513.457,64.448
+CNC Milling #1,Tool Breakage,2023,9,23,2496.519,108.544
+Surface Grinder #1,Wheel Dressing,2024,4,30,2493.473,83.116
+EDM Wire-Cut #1,Wire Break,2023,9,28,2493.392,89.05
+CMM Inspection #1,Program / Fixture Setup,2023,1,41,2478.985,60.463
+Surface Grinder #1,Changeover / Setup,2023,5,28,2476.291,88.439
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,1,25,2459.794,98.392
+CNC Milling #1,Tool Breakage,2024,10,25,2458.263,98.331
+CNC Milling #1,Unplanned Breakdown,2024,5,24,2458.099,102.421
+CNC Milling #1,Tool Breakage,2023,8,24,2451.573,102.149
+EDM Wire-Cut #1,Wire Break,2024,2,32,2447.883,76.496
+CNC Milling #1,Tool Breakage,2023,7,26,2410.666,92.718
+CMM Inspection #1,Program / Fixture Setup,2024,2,38,2408.564,63.383
+EDM Wire-Cut #1,Wire Break,2023,5,25,2407.709,96.308
+CMM Inspection #1,Program / Fixture Setup,2024,5,36,2398.308,66.62
+CMM Inspection #1,Program / Fixture Setup,2023,4,38,2394.038,63.001
+Surface Grinder #1,Wheel Dressing,2023,7,28,2379.849,84.995
+EDM Wire-Cut #1,Wire Break,2024,11,28,2369.943,84.641
+EDM Wire-Cut #1,Wire Break,2023,7,28,2358.829,84.244
+Surface Grinder #1,Wheel Dressing,2023,12,27,2356.307,87.271
+EDM Wire-Cut #1,Planned Maintenance,2024,12,27,2356.003,87.259
+CNC Milling #1,Tool Breakage,2023,3,22,2350.422,106.837
+CMM Inspection #1,Program / Fixture Setup,2023,9,42,2348.34,55.913
+EDM Wire-Cut #1,Wire Break,2023,10,32,2348.235,73.382
+CMM Inspection #1,Program / Fixture Setup,2023,10,34,2345.611,68.989
+Surface Grinder #1,Changeover / Setup,2023,6,29,2343.782,80.82
+CNC Milling #1,Tool Breakage,2024,2,25,2332.802,93.312
+Surface Grinder #1,Wheel Dressing,2023,2,28,2330.908,83.247
+CNC Milling #1,Tool Breakage,2023,5,22,2325.882,105.722
+CNC Milling #1,Changeover / Setup,2024,2,24,2305.113,96.046
+CMM Inspection #1,Program / Fixture Setup,2024,8,36,2298.361,63.843
+Surface Grinder #1,Wheel Dressing,2024,6,27,2275.291,84.27
+CMM Inspection #1,Program / Fixture Setup,2024,1,36,2273.175,63.144
+EDM Wire-Cut #1,Planned Maintenance,2023,11,24,2270.847,94.619
+CMM Inspection #1,Program / Fixture Setup,2024,11,40,2254.085,56.352
+CNC Milling #1,Tool Breakage,2024,7,22,2252.216,102.373
+CMM Inspection #1,Program / Fixture Setup,2024,12,39,2220.405,56.933
+CMM Inspection #1,Program / Fixture Setup,2023,11,36,2218.076,61.613
+CNC Lathe #1,Changeover / Setup,2024,7,32,2200.587,68.768
+CNC Lathe #1,Tool Breakage,2024,6,30,2200.438,73.348
+CNC Milling #1,Tool Breakage,2024,6,21,2195.353,104.541
+CMM Inspection #1,Planned Maintenance,2024,7,34,2194.99,64.559
+Surface Grinder #1,Changeover / Setup,2024,11,23,2177.143,94.658
+CMM Inspection #1,Program / Fixture Setup,2023,2,37,2168.401,58.605
+EDM Wire-Cut #1,Planned Maintenance,2024,10,24,2162.611,90.109
+EDM Wire-Cut #1,Planned Maintenance,2024,6,26,2159.378,83.053
+CNC Milling #1,Unplanned Breakdown,2024,2,19,2159.009,113.632
+CNC Milling #1,Tool Breakage,2024,1,23,2153.041,93.61
+CNC Lathe #1,Changeover / Setup,2023,2,26,2144.826,82.493
+CMM Inspection #1,Program / Fixture Setup,2024,4,35,2139.067,61.116
+CNC Milling #1,Tool Breakage,2024,5,21,2138.056,101.812
+CNC Lathe #1,Tool Breakage,2023,6,28,2137.955,76.356
+CNC Milling #1,Unplanned Breakdown,2024,1,21,2127.269,101.299
+CNC Lathe #1,Tool Breakage,2024,1,28,2126.175,75.935
+EDM Wire-Cut #1,Planned Maintenance,2024,8,22,2123.776,96.535
+CNC Milling #1,Unplanned Breakdown,2024,6,24,2117.83,88.243
+Surface Grinder #1,Wheel Dressing,2024,12,26,2113.338,81.282
+CNC Lathe #1,Tool Breakage,2023,1,29,2103.49,72.534
+CNC Lathe #1,Tool Breakage,2023,11,31,2097.995,67.677
+EDM Wire-Cut #1,Wire Break,2023,8,23,2091.63,90.94
+CNC Milling #1,Unplanned Breakdown,2023,4,20,2073.313,103.666
+Surface Grinder #1,Changeover / Setup,2023,8,23,2070.823,90.036
+Surface Grinder #1,Changeover / Setup,2024,4,24,2062.919,85.955
+CNC Lathe #1,Tool Breakage,2023,8,26,2060.075,79.234
+CMM Inspection #1,Program / Fixture Setup,2023,6,30,2059.656,68.655
+EDM Wire-Cut #1,Planned Maintenance,2023,4,22,2053.226,93.328
+Surface Grinder #1,Changeover / Setup,2024,9,26,2050.811,78.877
+CNC Milling #1,Unplanned Breakdown,2023,8,20,2046.717,102.336
+CNC Lathe #1,Changeover / Setup,2023,9,27,2040.249,75.565
+CNC Lathe #1,Changeover / Setup,2023,7,29,2033.794,70.131
+EDM Wire-Cut #1,Planned Maintenance,2024,4,24,2017.61,84.067
+Surface Grinder #1,Changeover / Setup,2024,6,21,2011.642,95.792
+Surface Grinder #1,Changeover / Setup,2023,4,25,2005.437,80.217
+CNC Lathe #1,Changeover / Setup,2024,4,35,2002.956,57.227
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,7,21,2002.401,95.352
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,5,21,1998.878,95.185
+CNC Milling #1,Tool Breakage,2023,1,20,1996.537,99.827
+CNC Lathe #1,Tool Breakage,2024,10,29,1993.148,68.729
+CNC Lathe #1,Tool Breakage,2023,4,27,1988.499,73.648
+EDM Wire-Cut #1,Planned Maintenance,2023,3,26,1988.451,76.479
+EDM Wire-Cut #1,Planned Maintenance,2023,6,23,1980.205,86.096
+Surface Grinder #1,Wheel Dressing,2023,6,25,1968.622,78.745
+CNC Lathe #1,Unplanned Breakdown,2024,11,27,1967.989,72.888
+CNC Lathe #1,Tool Breakage,2023,3,25,1966.355,78.654
+EDM Wire-Cut #1,Planned Maintenance,2023,9,23,1954.276,84.969
+CNC Lathe #1,Tool Breakage,2024,12,26,1952.043,75.079
+Surface Grinder #1,Coolant System Issue,2024,6,24,1939.739,80.822
+CNC Milling #1,Tool Breakage,2023,6,18,1934.217,107.456
+CNC Milling #1,Tool Breakage,2023,2,18,1933.936,107.441
+CNC Lathe #1,Tool Breakage,2023,10,26,1931.592,74.292
+CNC Lathe #1,Changeover / Setup,2024,6,28,1927.052,68.823
+CNC Milling #1,Tool Breakage,2024,8,19,1921.036,101.107
+CMM Inspection #1,Planned Maintenance,2023,10,27,1917.465,71.017
+Surface Grinder #1,Coolant System Issue,2024,10,23,1911.139,83.093
+CNC Lathe #1,Changeover / Setup,2023,12,25,1903.587,76.143
+Surface Grinder #1,Changeover / Setup,2024,3,23,1900.469,82.629
+CNC Lathe #1,Changeover / Setup,2024,1,27,1899.103,70.337
+CNC Milling #1,Unplanned Breakdown,2024,12,18,1896.826,105.379
+CNC Lathe #1,Changeover / Setup,2024,3,30,1893.821,63.127
+Surface Grinder #1,Coolant System Issue,2024,2,21,1877.61,89.41
+Surface Grinder #1,Changeover / Setup,2023,3,22,1875.531,85.251
+EDM Wire-Cut #1,Planned Maintenance,2024,2,19,1850.351,97.387
+CNC Lathe #1,Tool Breakage,2024,7,22,1846.76,83.944
+CNC Milling #1,Tool Breakage,2024,12,20,1837.98,91.899
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,4,19,1833.037,96.476
+CNC Milling #1,Program Error / Restart,2023,5,19,1832.084,96.425
+Surface Grinder #1,Changeover / Setup,2023,11,24,1831.258,76.302
+Band Saw #1,Blade Change,2024,10,36,1828.427,50.79
+EDM Wire-Cut #1,Planned Maintenance,2023,2,23,1823.29,79.273
+CNC Milling #1,Unplanned Breakdown,2023,1,18,1820.397,101.133
+CNC Lathe #1,Changeover / Setup,2023,4,26,1813.592,69.754
+Surface Grinder #1,Wheel Dressing,2024,10,26,1811.859,69.687
+CNC Lathe #1,Changeover / Setup,2023,6,23,1805.325,78.492
+CMM Inspection #1,Program / Fixture Setup,2024,7,26,1802.28,69.318
+CMM Inspection #1,Planned Maintenance,2024,11,28,1799.994,64.286
+CNC Lathe #1,Tool Breakage,2024,11,25,1799.358,71.974
+EDM Wire-Cut #1,Planned Maintenance,2023,12,20,1780.805,89.04
+Surface Grinder #1,Changeover / Setup,2024,7,22,1778.996,80.863
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,3,20,1770.938,88.547
+Surface Grinder #1,Changeover / Setup,2024,8,20,1768.341,88.417
+EDM Wire-Cut #1,Planned Maintenance,2024,7,19,1764.265,92.856
+Surface Grinder #1,Changeover / Setup,2023,7,23,1762.846,76.645
+CNC Lathe #1,Tool Breakage,2023,12,25,1760.075,70.403
+CNC Milling #1,Unplanned Breakdown,2023,5,17,1759.981,103.528
+CMM Inspection #1,Planned Maintenance,2024,12,29,1757.166,60.592
+CNC Milling #1,Unplanned Breakdown,2023,12,18,1752.307,97.35
+CNC Lathe #1,Changeover / Setup,2023,3,24,1750.469,72.936
+CNC Lathe #1,Changeover / Setup,2023,11,28,1749.246,62.473
+Surface Grinder #1,Coolant System Issue,2024,12,21,1749.229,83.297
+CNC Milling #1,Unplanned Breakdown,2024,10,17,1743.239,102.543
+CNC Milling #1,Program Error / Restart,2024,12,17,1737.748,102.22
+CMM Inspection #1,Planned Maintenance,2023,11,27,1736.227,64.305
+CNC Milling #1,Unplanned Breakdown,2024,7,15,1734.878,115.659
+CNC Milling #1,Unplanned Breakdown,2024,9,18,1731.552,96.197
+CNC Lathe #1,Tool Breakage,2023,9,25,1730.542,69.222
+Band Saw #1,Changeover / Setup,2023,5,31,1725.932,55.675
+CMM Inspection #1,Program / Fixture Setup,2023,8,30,1722.887,57.43
+CNC Lathe #1,Tool Breakage,2023,7,27,1721.834,63.772
+Surface Grinder #1,Coolant System Issue,2024,1,21,1719.863,81.898
+EDM Wire-Cut #1,Planned Maintenance,2024,1,22,1719.313,78.151
+EDM Wire-Cut #1,Planned Maintenance,2024,3,20,1709.702,85.485
+CNC Lathe #1,Unplanned Breakdown,2024,2,25,1703.539,68.142
+CNC Lathe #1,Unplanned Breakdown,2024,12,22,1701.337,77.334
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,8,21,1694.031,80.668
+Surface Grinder #1,Coolant System Issue,2023,10,18,1690.254,93.903
+CNC Milling #1,Tool Breakage,2023,4,17,1681.207,98.895
+CNC Lathe #1,Tool Breakage,2024,9,23,1680.318,73.057
+CNC Milling #1,Program Error / Restart,2023,10,16,1680.062,105.004
+CMM Inspection #1,Planned Maintenance,2024,8,28,1677.65,59.916
+CMM Inspection #1,Program / Fixture Setup,2024,10,28,1674.029,59.787
+CNC Lathe #1,Tool Breakage,2024,3,28,1666.685,59.524
+CNC Milling #1,Program Error / Restart,2023,3,17,1662.607,97.8
+CMM Inspection #1,Planned Maintenance,2023,8,24,1653.642,68.902
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,11,20,1645.088,82.254
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,3,20,1644.986,82.249
+Band Saw #1,Changeover / Setup,2024,2,30,1642.874,54.762
+EDM Wire-Cut #1,Planned Maintenance,2024,5,20,1640.146,82.007
+Surface Grinder #1,Changeover / Setup,2024,12,22,1634.752,74.307
+CNC Lathe #1,Changeover / Setup,2024,11,23,1632.035,70.958
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,9,18,1628.396,90.466
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,4,16,1626.704,101.669
+CNC Milling #1,Unplanned Breakdown,2024,8,17,1624.716,95.572
+CNC Milling #1,Unplanned Breakdown,2023,10,19,1624.353,85.492
+CMM Inspection #1,Planned Maintenance,2024,5,25,1624.35,64.974
+Surface Grinder #1,Changeover / Setup,2024,2,20,1620.659,81.033
+CMM Inspection #1,Planned Maintenance,2024,4,25,1619.353,64.774
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,10,19,1613.734,84.933
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,1,18,1610.633,89.48
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,10,21,1610.441,76.688
+CNC Milling #1,Tool Breakage,2024,4,15,1609.112,107.274
+EDM Wire-Cut #1,Changeover / Setup,2024,11,19,1607.791,84.621
+CNC Milling #1,Unplanned Breakdown,2024,11,14,1607.009,114.786
+CNC Milling #1,Program Error / Restart,2023,12,15,1606.719,107.115
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,7,20,1600.24,80.012
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,11,20,1599.911,79.996
+CNC Lathe #1,Changeover / Setup,2023,10,21,1596.695,76.033
+CNC Lathe #1,Tool Breakage,2024,2,23,1596.386,69.408
+Band Saw #1,Blade Change,2023,4,31,1590.754,51.315
+Band Saw #1,Blade Change,2024,12,30,1588.943,52.965
+CNC Lathe #1,Tool Breakage,2024,4,23,1583.189,68.834
+CNC Lathe #1,Unplanned Breakdown,2023,1,23,1569.927,68.258
+Surface Grinder #1,Changeover / Setup,2024,1,21,1567.754,74.655
+Surface Grinder #1,Changeover / Setup,2023,1,18,1566.869,87.048
+CMM Inspection #1,Probe Calibration,2024,10,25,1561.882,62.475
+CNC Lathe #1,Changeover / Setup,2024,10,23,1552.086,67.482
+CNC Lathe #1,Changeover / Setup,2024,12,23,1550.332,67.406
+Surface Grinder #1,Coolant System Issue,2024,8,18,1542.724,85.707
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,8,17,1526.439,89.791
+CNC Lathe #1,Changeover / Setup,2024,8,20,1520.595,76.03
+Band Saw #1,Blade Change,2024,8,33,1519.886,46.057
+Surface Grinder #1,Changeover / Setup,2024,10,18,1516.954,84.275
+CNC Milling #1,Unplanned Breakdown,2023,6,14,1514.299,108.164
+EDM Wire-Cut #1,Planned Maintenance,2023,10,18,1513.681,84.093
+CNC Lathe #1,Unplanned Breakdown,2024,10,19,1513.157,79.64
+Band Saw #1,Changeover / Setup,2024,5,31,1507.377,48.625
+Band Saw #1,Blade Change,2024,11,33,1507.237,45.674
+Surface Grinder #1,Coolant System Issue,2023,9,18,1501.814,83.434
+CNC Lathe #1,Unplanned Breakdown,2023,2,20,1498.408,74.92
+Band Saw #1,Changeover / Setup,2024,4,32,1491.576,46.612
+Band Saw #1,Blade Change,2023,8,33,1483.277,44.948
+Band Saw #1,Changeover / Setup,2024,6,29,1483.208,51.145
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,9,18,1483.05,82.392
+EDM Wire-Cut #1,Planned Maintenance,2024,11,18,1478.252,82.125
+CNC Lathe #1,Unplanned Breakdown,2023,10,20,1472.595,73.63
+Band Saw #1,Blade Change,2023,3,26,1465.939,56.382
+Surface Grinder #1,Coolant System Issue,2024,11,18,1463.037,81.28
+Surface Grinder #1,Coolant System Issue,2023,1,20,1461.302,73.065
+Surface Grinder #1,Changeover / Setup,2023,2,20,1457.597,72.88
+CNC Milling #1,Unplanned Breakdown,2023,11,15,1457.528,97.169
+CNC Milling #1,Program Error / Restart,2024,8,15,1452.735,96.849
+CNC Lathe #1,Changeover / Setup,2023,1,23,1451.186,63.095
+Band Saw #1,Blade Change,2024,1,30,1450.318,48.344
+Surface Grinder #1,Coolant System Issue,2024,7,18,1446.697,80.372
+CMM Inspection #1,Probe Calibration,2024,1,21,1445.576,68.837
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,2,16,1441.776,90.111
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,5,19,1435.357,75.545
+Surface Grinder #1,Coolant System Issue,2023,4,17,1434.928,84.408
+CMM Inspection #1,Probe Calibration,2023,5,20,1411.452,70.573
+CMM Inspection #1,Probe Calibration,2023,6,21,1411.439,67.211
+Surface Grinder #1,Coolant System Issue,2023,7,19,1408.669,74.14
+Surface Grinder #1,Changeover / Setup,2023,10,16,1407.43,87.964
+Band Saw #1,Changeover / Setup,2024,11,31,1405.593,45.342
+EDM Wire-Cut #1,Planned Maintenance,2024,9,17,1402.349,82.491
+Band Saw #1,Changeover / Setup,2023,3,30,1398.959,46.632
+Band Saw #1,Blade Change,2023,5,29,1380.699,47.61
+CMM Inspection #1,Probe Calibration,2024,3,22,1376.688,62.577
+CNC Lathe #1,Unplanned Breakdown,2023,7,19,1376.037,72.423
+CMM Inspection #1,Planned Maintenance,2023,9,22,1374.319,62.469
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,6,17,1371.337,80.667
+Surface Grinder #1,Coolant System Issue,2024,4,17,1368.317,80.489
+CNC Milling #1,Tool Breakage,2023,10,16,1363.775,85.236
+CMM Inspection #1,Probe Calibration,2024,4,22,1363.494,61.977
+CNC Milling #1,Unplanned Breakdown,2023,2,13,1362.249,104.788
+Band Saw #1,Blade Change,2024,3,30,1361.922,45.397
+CNC Milling #1,Tool Breakage,2024,9,13,1360.202,104.631
+CNC Lathe #1,Tool Breakage,2023,2,17,1359.72,79.984
+Band Saw #1,Blade Change,2023,9,28,1359.293,48.546
+EDM Wire-Cut #1,Changeover / Setup,2023,10,14,1352.4,96.6
+Surface Grinder #1,Coolant System Issue,2023,12,17,1346.449,79.203
+CMM Inspection #1,Planned Maintenance,2024,9,25,1342.024,53.681
+Surface Grinder #1,Changeover / Setup,2023,9,16,1338.503,83.656
+Surface Grinder #1,Planned Maintenance,2024,4,14,1328.397,94.886
+CNC Milling #1,Unplanned Breakdown,2023,9,13,1326.283,102.022
+CMM Inspection #1,Probe Calibration,2023,8,20,1325.665,66.283
+Surface Grinder #1,Coolant System Issue,2024,5,15,1325.087,88.339
+CMM Inspection #1,Planned Maintenance,2023,12,24,1318.767,54.949
+EDM Wire-Cut #1,Planned Maintenance,2023,1,15,1315.068,87.671
+Band Saw #1,Blade Change,2023,11,27,1313.864,48.662
+Band Saw #1,Changeover / Setup,2024,12,29,1312.831,45.27
+Surface Grinder #1,Planned Maintenance,2024,5,17,1312.672,77.216
+Surface Grinder #1,Planned Maintenance,2024,12,15,1311.84,87.456
+CMM Inspection #1,Planned Maintenance,2024,10,21,1309.084,62.337
+Surface Grinder #1,Coolant System Issue,2024,3,16,1300.937,81.309
+CNC Lathe #1,Changeover / Setup,2023,5,18,1298.809,72.156
+Surface Grinder #1,Coolant System Issue,2023,2,15,1296.024,86.402
+EDM Wire-Cut #1,Dielectric Fluid Change,2023,2,16,1293.618,80.851
+CNC Milling #1,Unplanned Breakdown,2024,4,13,1292.618,99.432
+CMM Inspection #1,Planned Maintenance,2024,3,19,1290.117,67.901
+Band Saw #1,Blade Change,2023,1,27,1282.975,47.518
+Band Saw #1,Changeover / Setup,2023,8,23,1279.634,55.636
+CMM Inspection #1,Probe Calibration,2023,3,18,1270.838,70.602
+CNC Milling #1,Unplanned Breakdown,2023,7,14,1269.656,90.69
+CNC Lathe #1,Changeover / Setup,2024,2,17,1266.768,74.516
+CNC Lathe #1,Planned Maintenance,2024,6,16,1265.591,79.099
+CMM Inspection #1,Planned Maintenance,2024,6,21,1261.698,60.081
+CNC Lathe #1,Planned Maintenance,2024,2,16,1257.303,78.581
+Band Saw #1,Changeover / Setup,2024,3,25,1257.054,50.282
+CMM Inspection #1,Planned Maintenance,2023,1,23,1256.121,54.614
+CMM Inspection #1,Probe Calibration,2024,7,19,1251.127,65.849
+CNC Lathe #1,Unplanned Breakdown,2024,7,17,1250.003,73.53
+CNC Lathe #1,Unplanned Breakdown,2023,9,17,1245.977,73.293
+CNC Lathe #1,Changeover / Setup,2024,5,20,1243.964,62.198
+CMM Inspection #1,Planned Maintenance,2024,1,23,1238.002,53.826
+EDM Wire-Cut #1,Changeover / Setup,2024,2,14,1237.135,88.367
+CNC Milling #1,Program Error / Restart,2024,3,14,1235.506,88.25
+CNC Milling #1,Unplanned Breakdown,2024,3,14,1233.073,88.077
+Surface Grinder #1,Planned Maintenance,2023,3,18,1230.048,68.336
+Surface Grinder #1,Planned Maintenance,2024,3,13,1228.462,94.497
+Surface Grinder #1,Changeover / Setup,2024,5,14,1227.656,87.69
+EDM Wire-Cut #1,Changeover / Setup,2024,6,12,1226.492,102.208
+CNC Milling #1,Program Error / Restart,2024,2,11,1225.958,111.451
+Band Saw #1,Changeover / Setup,2023,1,23,1221.155,53.094
+Band Saw #1,Changeover / Setup,2023,11,25,1220.966,48.839
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,12,13,1218.872,93.759
+CNC Lathe #1,Unplanned Breakdown,2023,8,16,1212.9,75.806
+CMM Inspection #1,Planned Maintenance,2023,6,20,1212.331,60.617
+CNC Lathe #1,Coolant System Issue,2023,5,18,1211.693,67.316
+Band Saw #1,Changeover / Setup,2023,2,25,1211.401,48.456
+CNC Milling #1,Program Error / Restart,2023,9,12,1198.742,99.895
+CNC Milling #1,Tool Breakage,2023,12,12,1188.754,99.063
+CNC Milling #1,Program Error / Restart,2024,10,12,1187.867,98.989
+CMM Inspection #1,Probe Calibration,2023,10,17,1186.37,69.786
+CNC Milling #1,Program Error / Restart,2023,8,11,1182.459,107.496
+Band Saw #1,Blade Change,2023,12,27,1180.017,43.704
+Surface Grinder #1,Planned Maintenance,2023,2,14,1178.731,84.195
+CNC Milling #1,Program Error / Restart,2024,9,11,1175.347,106.85
+Band Saw #1,Changeover / Setup,2023,6,27,1174.838,43.513
+CNC Milling #1,Planned Maintenance,2024,7,11,1174.341,106.758
+Surface Grinder #1,Planned Maintenance,2023,7,14,1172.776,83.77
+Band Saw #1,Changeover / Setup,2023,4,24,1172.011,48.834
+CNC Lathe #1,Unplanned Breakdown,2024,8,15,1161.498,77.433
+Band Saw #1,Changeover / Setup,2023,10,26,1154.994,44.423
+Band Saw #1,Blade Change,2024,7,27,1151.475,42.647
+Band Saw #1,Blade Change,2023,6,24,1148.31,47.846
+Surface Grinder #1,Coolant System Issue,2023,8,14,1145.622,81.83
+CNC Lathe #1,Planned Maintenance,2023,4,14,1144.399,81.743
+EDM Wire-Cut #1,Changeover / Setup,2024,12,12,1141.461,95.122
+CNC Lathe #1,Unplanned Breakdown,2023,12,15,1133.801,75.587
+CMM Inspection #1,Planned Maintenance,2023,3,19,1132.979,59.63
+CNC Lathe #1,Unplanned Breakdown,2024,9,16,1132.622,70.789
+Surface Grinder #1,Planned Maintenance,2024,10,15,1130.811,75.387
+EDM Wire-Cut #1,Changeover / Setup,2023,3,15,1128.112,75.207
+Band Saw #1,Changeover / Setup,2023,7,26,1126.326,43.32
+CNC Lathe #1,Unplanned Breakdown,2023,11,14,1118.834,79.917
+CNC Milling #1,Program Error / Restart,2024,5,11,1115.345,101.395
+CNC Lathe #1,Unplanned Breakdown,2024,4,16,1112.186,69.512
+EDM Wire-Cut #1,Changeover / Setup,2023,5,12,1111.501,92.625
+CMM Inspection #1,Probe Calibration,2023,7,19,1110.466,58.446
+CNC Lathe #1,Planned Maintenance,2023,10,15,1107.402,73.827
+Band Saw #1,Changeover / Setup,2024,7,23,1105.505,48.065
+EDM Wire-Cut #1,Changeover / Setup,2023,9,13,1104.911,84.993
+CNC Lathe #1,Unplanned Breakdown,2023,3,16,1101.229,68.827
+CMM Inspection #1,Probe Calibration,2023,4,20,1092.014,54.601
+EDM Wire-Cut #1,Changeover / Setup,2024,3,12,1091.135,90.928
+Surface Grinder #1,Planned Maintenance,2023,6,16,1086.219,67.889
+Band Saw #1,Blade Change,2023,2,25,1082.553,43.302
+Band Saw #1,Blade Change,2023,7,26,1080.266,41.549
+Band Saw #1,Blade Change,2024,9,26,1080.237,41.548
+Surface Grinder #1,Coolant System Issue,2023,5,13,1070.529,82.348
+CNC Lathe #1,Planned Maintenance,2023,6,15,1068.07,71.205
+CNC Milling #1,Planned Maintenance,2024,4,10,1064.981,106.498
+Band Saw #1,Blade Change,2024,4,26,1063.377,40.899
+Surface Grinder #1,Coolant System Issue,2023,11,13,1062.811,81.755
+CNC Lathe #1,Planned Maintenance,2024,1,15,1060.826,70.722
+CMM Inspection #1,Probe Calibration,2024,8,15,1057.491,70.499
+Band Saw #1,Blade Change,2024,2,23,1055.54,45.893
+CNC Lathe #1,Coolant System Issue,2023,3,13,1050.543,80.811
+CNC Lathe #1,Planned Maintenance,2023,12,13,1048.539,80.657
+Band Saw #1,Material Shortage,2023,12,23,1044.729,45.423
+Band Saw #1,Blade Change,2024,6,26,1040.82,40.032
+CNC Lathe #1,Unplanned Breakdown,2024,5,14,1035.407,73.958
+CNC Milling #1,Unplanned Breakdown,2023,3,9,1034.585,114.954
+Surface Grinder #1,Planned Maintenance,2023,12,13,1031.659,79.358
+CNC Lathe #1,Planned Maintenance,2023,3,14,1030.213,73.587
+CNC Milling #1,Planned Maintenance,2023,2,11,1028.709,93.519
+CMM Inspection #1,Planned Maintenance,2023,7,16,1023.713,63.982
+Surface Grinder #1,Planned Maintenance,2023,11,12,1022.15,85.179
+CMM Inspection #1,Operator Absence,2023,4,15,1020.18,68.012
+Surface Grinder #1,Planned Maintenance,2023,10,14,1019.063,72.79
+Surface Grinder #1,Coolant System Issue,2023,6,14,1016.589,72.614
+CMM Inspection #1,Probe Calibration,2024,9,16,1013.663,63.354
+CNC Lathe #1,Planned Maintenance,2024,12,11,1013.458,92.133
+CNC Milling #1,Program Error / Restart,2024,4,11,1013.456,92.132
+CNC Lathe #1,Unplanned Breakdown,2023,6,13,1013.305,77.947
+CNC Lathe #1,Planned Maintenance,2023,1,13,1005.362,77.336
+CNC Milling #1,Program Error / Restart,2023,11,10,1003.203,100.32
+Band Saw #1,Changeover / Setup,2024,8,22,994.737,45.215
+CNC Milling #1,Program Error / Restart,2023,1,10,994.322,99.432
+CMM Inspection #1,Planned Maintenance,2023,2,19,991.881,52.204
+EDM Wire-Cut #1,Changeover / Setup,2024,8,9,988.778,109.864
+CMM Inspection #1,Planned Maintenance,2023,5,15,988.12,65.875
+Band Saw #1,Material Shortage,2023,9,18,985.993,54.777
+CMM Inspection #1,Probe Calibration,2023,9,16,985.787,61.612
+CMM Inspection #1,Probe Calibration,2024,5,16,980.403,61.275
+CMM Inspection #1,Probe Calibration,2023,2,15,979.885,65.326
+CNC Lathe #1,Planned Maintenance,2023,2,14,974.161,69.583
+Surface Grinder #1,Unplanned Breakdown,2024,10,11,965.258,87.751
+EDM Wire-Cut #1,Changeover / Setup,2024,10,13,961.524,73.963
+Band Saw #1,Changeover / Setup,2023,12,23,961.481,41.804
+Band Saw #1,Changeover / Setup,2024,10,19,961.134,50.586
+Band Saw #1,Blade Change,2023,10,24,958.035,39.918
+EDM Wire-Cut #1,Changeover / Setup,2024,5,12,957.517,79.793
+Surface Grinder #1,Planned Maintenance,2023,9,13,955.585,73.507
+CNC Lathe #1,Planned Maintenance,2023,7,14,954.626,68.188
+CNC Milling #1,Planned Maintenance,2023,9,10,954.302,95.43
+Band Saw #1,Material Shortage,2024,8,19,949.423,49.97
+CMM Inspection #1,Operator Absence,2024,10,12,948.799,79.067
+EDM Wire-Cut #1,Unplanned Breakdown,2024,4,12,948.122,79.01
+Surface Grinder #1,Coolant System Issue,2023,3,11,945.751,85.977
+CNC Milling #1,Planned Maintenance,2023,7,9,944.737,104.971
+CMM Inspection #1,Probe Calibration,2023,11,16,944.172,59.011
+CNC Lathe #1,Planned Maintenance,2024,3,13,938.667,72.205
+Surface Grinder #1,Planned Maintenance,2023,8,11,938.191,85.29
+CMM Inspection #1,Probe Calibration,2023,12,14,936.075,66.862
+CMM Inspection #1,Planned Maintenance,2024,2,15,934.519,62.301
+CNC Milling #1,Planned Maintenance,2023,10,10,933.055,93.306
+Surface Grinder #1,Unplanned Breakdown,2024,5,12,932.709,77.726
+Band Saw #1,Blade Change,2024,5,19,926.979,48.788
+CNC Lathe #1,Planned Maintenance,2023,9,13,923.239,71.018
+EDM Wire-Cut #1,Unplanned Breakdown,2023,4,9,919.968,102.219
+CNC Lathe #1,Planned Maintenance,2024,5,12,919.095,76.591
+EDM Wire-Cut #1,Unplanned Breakdown,2024,8,10,914.438,91.444
+EDM Wire-Cut #1,Changeover / Setup,2023,6,12,907.354,75.613
+EDM Wire-Cut #1,Unplanned Breakdown,2024,6,9,893.642,99.294
+CNC Milling #1,Program Error / Restart,2024,1,8,885.178,110.647
+CMM Inspection #1,Probe Calibration,2023,1,12,876.701,73.058
+CNC Lathe #1,Coolant System Issue,2024,5,11,873.767,79.433
+Surface Grinder #1,Unplanned Breakdown,2024,7,10,872.739,87.274
+CMM Inspection #1,Planned Maintenance,2023,4,13,868.539,66.811
+CNC Milling #1,Planned Maintenance,2023,11,8,863.847,107.981
+Surface Grinder #1,Planned Maintenance,2023,4,10,862.857,86.286
+CNC Lathe #1,Planned Maintenance,2023,5,12,858.616,71.551
+EDM Wire-Cut #1,Dielectric Fluid Change,2024,6,10,857.793,85.779
+Surface Grinder #1,Unplanned Breakdown,2023,7,9,855.213,95.024
+CNC Milling #1,Program Error / Restart,2023,7,11,853.852,77.623
+CMM Inspection #1,Operator Absence,2023,8,14,850.569,60.755
+EDM Wire-Cut #1,Unplanned Breakdown,2024,3,11,849.813,77.256
+CMM Inspection #1,Probe Calibration,2024,2,15,849.247,56.616
+CNC Lathe #1,Planned Maintenance,2024,8,12,847.749,70.646
+EDM Wire-Cut #1,Changeover / Setup,2023,12,9,844.022,93.78
+CNC Lathe #1,Planned Maintenance,2024,10,13,843.87,64.913
+CNC Lathe #1,Coolant System Issue,2023,12,14,842.655,60.19
+Band Saw #1,Planned Maintenance,2024,6,17,841.583,49.505
+Surface Grinder #1,Planned Maintenance,2024,9,10,836.504,83.65
+EDM Wire-Cut #1,Unplanned Breakdown,2023,1,9,835.322,92.814
+CNC Lathe #1,Unplanned Breakdown,2024,3,11,834.107,75.828
+CNC Lathe #1,Unplanned Breakdown,2024,6,11,834.081,75.826
+EDM Wire-Cut #1,Unplanned Breakdown,2023,8,9,833.817,92.646
+EDM Wire-Cut #1,Changeover / Setup,2024,1,11,831.036,75.549
+CNC Lathe #1,Unplanned Breakdown,2023,4,11,830.157,75.469
+CMM Inspection #1,Operator Absence,2023,3,12,827.062,68.922
+Surface Grinder #1,Planned Maintenance,2023,1,8,826.894,103.362
+Band Saw #1,Material Shortage,2024,9,20,823.276,41.164
+CNC Lathe #1,Unplanned Breakdown,2024,1,9,821.736,91.304
+CNC Milling #1,Planned Maintenance,2024,5,9,820.772,91.197
+Band Saw #1,Changeover / Setup,2024,1,19,820.249,43.171
+Band Saw #1,Material Shortage,2024,7,18,817.734,45.43
+Band Saw #1,Changeover / Setup,2023,9,17,806.04,47.414
+CNC Milling #1,Planned Maintenance,2023,4,8,805.182,100.648
+Surface Grinder #1,Unplanned Breakdown,2024,12,9,804.201,89.356
+EDM Wire-Cut #1,Changeover / Setup,2023,2,10,798.124,79.812
+Surface Grinder #1,Planned Maintenance,2024,8,10,794.944,79.494
+Band Saw #1,Planned Maintenance,2024,12,16,787.882,49.243
+CNC Lathe #1,Planned Maintenance,2023,8,11,786.595,71.509
+Band Saw #1,Material Shortage,2023,11,19,784.541,41.292
+Band Saw #1,Planned Maintenance,2023,8,16,781.543,48.846
+CNC Milling #1,Planned Maintenance,2024,2,7,780.184,111.455
+EDM Wire-Cut #1,Changeover / Setup,2023,8,10,776.901,77.69
+CMM Inspection #1,Probe Calibration,2024,11,13,776.418,59.724
+CNC Lathe #1,Planned Maintenance,2023,11,10,775.647,77.565
+Surface Grinder #1,Coolant System Issue,2024,9,10,774.012,77.401
+CNC Lathe #1,Coolant System Issue,2023,4,11,771.344,70.122
+CNC Lathe #1,Planned Maintenance,2024,9,10,767.29,76.729
+CMM Inspection #1,Probe Calibration,2024,6,14,764.253,54.589
+CNC Lathe #1,Coolant System Issue,2024,3,11,764.06,69.46
+CNC Lathe #1,Planned Maintenance,2024,11,10,762.375,76.238
+CNC Milling #1,Program Error / Restart,2024,7,8,753.263,94.158
+Band Saw #1,Changeover / Setup,2024,9,19,752.332,39.596
+EDM Wire-Cut #1,Changeover / Setup,2024,4,8,749.371,93.671
+EDM Wire-Cut #1,Changeover / Setup,2023,1,8,744.155,93.019
+CNC Milling #1,Program Error / Restart,2024,11,8,742.953,92.869
+EDM Wire-Cut #1,Changeover / Setup,2024,7,9,741.983,82.443
+Band Saw #1,Material Shortage,2023,7,15,739.742,49.316
+CNC Milling #1,Program Error / Restart,2024,6,8,737.96,92.245
+Surface Grinder #1,Planned Maintenance,2024,6,9,736.824,81.869
+CNC Lathe #1,Planned Maintenance,2024,4,10,735.081,73.508
+Surface Grinder #1,Planned Maintenance,2024,2,9,730.838,81.204
+CMM Inspection #1,Operator Absence,2024,12,13,729.88,56.145
+Band Saw #1,Planned Maintenance,2024,1,15,728.495,48.566
+Surface Grinder #1,Unplanned Breakdown,2024,2,7,725.85,103.693
+EDM Wire-Cut #1,Changeover / Setup,2023,11,8,721.51,90.189
+CMM Inspection #1,Operator Absence,2024,3,10,718.138,71.814
+EDM Wire-Cut #1,Unplanned Breakdown,2023,10,8,713.292,89.162
+CNC Milling #1,Planned Maintenance,2023,6,8,711.411,88.926
+CNC Milling #1,Program Error / Restart,2023,2,8,706.086,88.261
+Band Saw #1,Material Shortage,2023,6,17,702.858,41.345
+CNC Milling #1,Program Error / Restart,2023,4,8,700.555,87.569
+Band Saw #1,Material Shortage,2024,2,15,695.794,46.386
+CMM Inspection #1,Operator Absence,2024,8,11,692.664,62.969
+CNC Lathe #1,Coolant System Issue,2023,10,9,692.64,76.96
+EDM Wire-Cut #1,Changeover / Setup,2024,9,7,688.251,98.322
+CNC Lathe #1,Coolant System Issue,2023,6,10,684.387,68.439
+CNC Milling #1,Planned Maintenance,2023,1,9,670.424,74.492
+CNC Milling #1,Planned Maintenance,2024,9,7,670.354,95.765
+Band Saw #1,Material Shortage,2024,3,14,669.436,47.817
+CNC Lathe #1,Coolant System Issue,2024,7,10,663.369,66.337
+CMM Inspection #1,Unplanned Breakdown,2024,5,9,661.896,73.544
+CNC Lathe #1,Coolant System Issue,2023,9,7,657.462,93.923
+CMM Inspection #1,Operator Absence,2024,6,9,655.669,72.852
+CNC Lathe #1,Coolant System Issue,2024,1,12,652.41,54.368
+Band Saw #1,Planned Maintenance,2024,10,11,650.164,59.106
+Band Saw #1,Material Shortage,2023,10,16,648.051,40.503
+CMM Inspection #1,Operator Absence,2023,6,10,647.12,64.712
+Surface Grinder #1,Unplanned Breakdown,2024,8,8,644.65,80.581
+Surface Grinder #1,Planned Maintenance,2024,1,9,643.685,71.521
+CNC Milling #1,Planned Maintenance,2024,10,6,641.877,106.979
+CMM Inspection #1,Probe Calibration,2024,12,11,641.07,58.279
+Band Saw #1,Planned Maintenance,2024,9,13,639.585,49.199
+Surface Grinder #1,Planned Maintenance,2024,7,8,637.459,79.682
+EDM Wire-Cut #1,Changeover / Setup,2023,4,7,630.778,90.111
+CNC Milling #1,Program Error / Restart,2023,6,6,630.367,105.061
+Surface Grinder #1,Planned Maintenance,2023,5,8,628.618,78.577
+CMM Inspection #1,Operator Absence,2023,7,10,624.347,62.435
+CNC Lathe #1,Coolant System Issue,2024,10,7,624.102,89.157
+EDM Wire-Cut #1,Unplanned Breakdown,2023,7,7,619.998,88.571
+Band Saw #1,Material Shortage,2023,1,14,618.806,44.2
+CMM Inspection #1,Operator Absence,2023,12,11,618.597,56.236
+Band Saw #1,Planned Maintenance,2023,10,14,615.84,43.989
+CNC Lathe #1,Coolant System Issue,2024,12,10,614.908,61.491
+Band Saw #1,Material Shortage,2024,5,11,612.11,55.646
+CNC Lathe #1,Planned Maintenance,2024,7,9,611.742,67.971
+Band Saw #1,Planned Maintenance,2023,1,13,608.438,46.803
+CNC Milling #1,Planned Maintenance,2023,12,5,605.226,121.045
+CNC Lathe #1,Unplanned Breakdown,2023,5,10,604.409,60.441
+CNC Lathe #1,Coolant System Issue,2024,8,8,602.764,75.346
+Band Saw #1,Planned Maintenance,2023,4,11,602.586,54.781
+Surface Grinder #1,Unplanned Breakdown,2024,6,8,601.805,75.226
+Band Saw #1,Planned Maintenance,2023,9,15,596.339,39.756
+CMM Inspection #1,Operator Absence,2023,2,10,593.263,59.326
+CNC Milling #1,Planned Maintenance,2023,5,7,587.47,83.924
+CNC Lathe #1,Coolant System Issue,2024,2,6,580.837,96.806
+Band Saw #1,Planned Maintenance,2024,5,15,571.146,38.076
+CNC Milling #1,Planned Maintenance,2024,8,5,570.162,114.032
+CMM Inspection #1,Operator Absence,2023,5,7,566.191,80.884
+Band Saw #1,Planned Maintenance,2024,3,13,566.085,43.545
+CMM Inspection #1,Operator Absence,2024,1,10,564.238,56.424
+EDM Wire-Cut #1,Unplanned Breakdown,2023,9,8,563.586,70.448
+Band Saw #1,Material Shortage,2023,3,15,563.042,37.536
+EDM Wire-Cut #1,Changeover / Setup,2023,7,7,559.923,79.989
+Surface Grinder #1,Unplanned Breakdown,2023,2,7,558.8,79.829
+EDM Wire-Cut #1,Unplanned Breakdown,2024,11,5,555.617,111.123
+Surface Grinder #1,Unplanned Breakdown,2023,9,7,551.918,78.845
+Surface Grinder #1,Unplanned Breakdown,2024,11,8,546.476,68.31
+CMM Inspection #1,Operator Absence,2023,1,10,545.011,54.501
+Band Saw #1,Planned Maintenance,2023,12,11,539.454,49.041
+CMM Inspection #1,Unplanned Breakdown,2023,1,7,539.386,77.055
+Band Saw #1,Material Shortage,2023,2,13,538.075,41.39
+Surface Grinder #1,Planned Maintenance,2024,11,7,534.673,76.382
+CMM Inspection #1,Operator Absence,2024,4,7,533.154,76.165
+CMM Inspection #1,Unplanned Breakdown,2023,6,9,529.592,58.844
+CMM Inspection #1,Unplanned Breakdown,2023,10,7,528.382,75.483
+Band Saw #1,Material Shortage,2024,11,11,523.001,47.546
+Band Saw #1,Planned Maintenance,2023,7,11,520.425,47.311
+Band Saw #1,Planned Maintenance,2023,3,14,517.446,36.96
+Surface Grinder #1,Unplanned Breakdown,2023,1,8,516.275,64.534
+CMM Inspection #1,Operator Absence,2024,7,8,515.812,64.476
+Band Saw #1,Unplanned Breakdown,2024,7,10,509.417,50.942
+Band Saw #1,Material Shortage,2024,1,13,507.883,39.068
+Band Saw #1,Unplanned Breakdown,2023,6,12,507.764,42.314
+EDM Wire-Cut #1,Unplanned Breakdown,2024,5,7,507.238,72.463
+Surface Grinder #1,Unplanned Breakdown,2023,3,7,506.288,72.327
+CNC Lathe #1,Coolant System Issue,2023,11,7,505.038,72.148
+CNC Milling #1,Planned Maintenance,2024,1,5,503.928,100.786
+Band Saw #1,Unplanned Breakdown,2023,2,9,503.247,55.916
+CNC Milling #1,Planned Maintenance,2024,12,6,501.694,83.616
+Surface Grinder #1,Unplanned Breakdown,2024,9,7,494.773,70.682
+CNC Lathe #1,Coolant System Issue,2023,2,7,487.429,69.633
+CMM Inspection #1,Operator Absence,2024,2,9,485.718,53.969
+Band Saw #1,Material Shortage,2023,8,10,484.989,48.499
+CNC Milling #1,Planned Maintenance,2023,3,6,481.22,80.203
+Band Saw #1,Unplanned Breakdown,2023,11,11,479.795,43.618
+Band Saw #1,Planned Maintenance,2023,2,9,479.482,53.276
+CMM Inspection #1,Unplanned Breakdown,2024,2,9,477.165,53.018
+Band Saw #1,Unplanned Breakdown,2024,4,10,475.001,47.5
+EDM Wire-Cut #1,Unplanned Breakdown,2023,6,6,472.024,78.671
+Band Saw #1,Planned Maintenance,2024,7,10,470.239,47.024
+Surface Grinder #1,Unplanned Breakdown,2023,11,6,459.834,76.639
+Band Saw #1,Material Shortage,2024,12,9,457.664,50.852
+Surface Grinder #1,Unplanned Breakdown,2024,4,5,456.306,91.261
+Band Saw #1,Material Shortage,2023,5,11,456.211,41.474
+CNC Lathe #1,Coolant System Issue,2024,9,7,455.552,65.079
+Band Saw #1,Unplanned Breakdown,2024,10,8,451.941,56.493
+Surface Grinder #1,Unplanned Breakdown,2023,4,6,451.438,75.24
+Band Saw #1,Planned Maintenance,2024,2,10,448.905,44.89
+CMM Inspection #1,Operator Absence,2023,11,7,448.1,64.014
+Band Saw #1,Unplanned Breakdown,2023,7,11,446.359,40.578
+CMM Inspection #1,Unplanned Breakdown,2024,10,7,445.954,63.708
+Surface Grinder #1,Unplanned Breakdown,2023,8,5,445.746,89.149
+EDM Wire-Cut #1,Unplanned Breakdown,2023,12,5,439.777,87.955
+CNC Milling #1,Planned Maintenance,2023,8,5,438.02,87.604
+Surface Grinder #1,Unplanned Breakdown,2023,6,6,436.991,72.832
+Surface Grinder #1,Unplanned Breakdown,2023,12,6,435.805,72.634
+Band Saw #1,Planned Maintenance,2024,8,9,434.341,48.26
+Band Saw #1,Unplanned Breakdown,2024,5,10,434.112,43.411
+CNC Lathe #1,Coolant System Issue,2023,8,6,431.866,71.978
+Band Saw #1,Unplanned Breakdown,2024,12,7,428.728,61.247
+CNC Milling #1,Planned Maintenance,2024,11,4,421.243,105.311
+EDM Wire-Cut #1,Unplanned Breakdown,2023,2,5,419.85,83.97
+EDM Wire-Cut #1,Unplanned Breakdown,2024,2,6,418.618,69.77
+CNC Milling #1,Planned Maintenance,2024,3,5,418.356,83.671
+Band Saw #1,Unplanned Breakdown,2024,6,7,415.874,59.411
+CMM Inspection #1,Operator Absence,2024,9,7,410.553,58.65
+EDM Wire-Cut #1,Unplanned Breakdown,2024,12,5,405.978,81.196
+CMM Inspection #1,Operator Absence,2023,9,7,405.143,57.878
+Band Saw #1,Planned Maintenance,2023,5,8,402.085,50.261
+Surface Grinder #1,Unplanned Breakdown,2024,1,5,401.87,80.374
+Surface Grinder #1,Unplanned Breakdown,2023,5,5,399.472,79.894
+Band Saw #1,Unplanned Breakdown,2023,1,10,399.262,39.926
+EDM Wire-Cut #1,Unplanned Breakdown,2024,10,4,397.613,99.403
+Band Saw #1,Unplanned Breakdown,2024,9,8,395.089,49.386
+Band Saw #1,Unplanned Breakdown,2023,9,8,395.072,49.384
+CNC Milling #1,Planned Maintenance,2024,6,6,394.514,65.752
+Band Saw #1,Material Shortage,2024,6,9,392.032,43.559
+Band Saw #1,Planned Maintenance,2024,11,9,390.983,43.443
+Surface Grinder #1,Unplanned Breakdown,2023,10,4,390.711,97.678
+Band Saw #1,Unplanned Breakdown,2023,10,9,389.115,43.235
+CMM Inspection #1,Unplanned Breakdown,2023,5,5,387.599,77.52
+Band Saw #1,Material Shortage,2024,10,9,384.644,42.738
+EDM Wire-Cut #1,Unplanned Breakdown,2024,1,5,383.037,76.607
+Band Saw #1,Unplanned Breakdown,2023,5,9,380.167,42.241
+CNC Lathe #1,Coolant System Issue,2024,4,5,377.09,75.418
+Band Saw #1,Unplanned Breakdown,2024,1,11,374.159,34.014
+Band Saw #1,Planned Maintenance,2024,4,10,360.369,36.037
+CMM Inspection #1,Operator Absence,2023,10,7,348.346,49.764
+Band Saw #1,Material Shortage,2024,4,8,340.746,42.593
+Band Saw #1,Unplanned Breakdown,2023,8,8,340.25,42.531
+CMM Inspection #1,Operator Absence,2024,5,6,328.661,54.777
+Band Saw #1,Planned Maintenance,2023,6,7,328.128,46.875
+Band Saw #1,Material Shortage,2023,4,8,326.402,40.8
+EDM Wire-Cut #1,Unplanned Breakdown,2023,3,4,321.488,80.372
+Band Saw #1,Unplanned Breakdown,2023,12,7,312.303,44.615
+CMM Inspection #1,Operator Absence,2024,11,6,311.499,51.917
+EDM Wire-Cut #1,Unplanned Breakdown,2024,7,4,306.951,76.738
+CMM Inspection #1,Unplanned Breakdown,2023,7,5,292.888,58.578
+CMM Inspection #1,Unplanned Breakdown,2024,7,5,292.012,58.402
+Band Saw #1,Unplanned Breakdown,2023,4,8,290.571,36.321
+CMM Inspection #1,Unplanned Breakdown,2023,4,4,281.358,70.34
+EDM Wire-Cut #1,Unplanned Breakdown,2024,9,5,280.602,56.12
+CMM Inspection #1,Unplanned Breakdown,2023,12,5,273.524,54.705
+Band Saw #1,Unplanned Breakdown,2024,3,6,261.563,43.594
+CMM Inspection #1,Unplanned Breakdown,2023,8,4,260.335,65.084
+CNC Lathe #1,Coolant System Issue,2023,1,4,255.398,63.85
+CMM Inspection #1,Unplanned Breakdown,2024,6,4,245.639,61.41
+CNC Lathe #1,Coolant System Issue,2024,6,4,238.289,59.572
+CMM Inspection #1,Unplanned Breakdown,2024,3,3,228.886,76.295
+Band Saw #1,Unplanned Breakdown,2024,2,7,225.667,32.238
+EDM Wire-Cut #1,Unplanned Breakdown,2023,11,4,223.461,55.865
+CMM Inspection #1,Unplanned Breakdown,2023,11,4,216.941,54.235
+CNC Lathe #1,Coolant System Issue,2023,7,3,209.795,69.932
+Band Saw #1,Unplanned Breakdown,2024,8,6,209.639,34.94
+Band Saw #1,Planned Maintenance,2023,11,4,208.065,52.016
+CMM Inspection #1,Unplanned Breakdown,2024,1,3,201.564,67.188
+CMM Inspection #1,Unplanned Breakdown,2024,11,3,187.307,62.436
+CMM Inspection #1,Unplanned Breakdown,2024,9,3,186.441,62.147
+CMM Inspection #1,Unplanned Breakdown,2023,9,3,179.524,59.841
+CNC Lathe #1,Coolant System Issue,2024,11,3,174.377,58.126
+CMM Inspection #1,Unplanned Breakdown,2023,2,2,172.265,86.132
+EDM Wire-Cut #1,Unplanned Breakdown,2023,5,3,151.919,50.64
+Band Saw #1,Unplanned Breakdown,2023,3,4,150.09,37.522
+Band Saw #1,Unplanned Breakdown,2024,11,3,146.801,48.934
+CMM Inspection #1,Unplanned Breakdown,2024,8,2,139.025,69.512
+CMM Inspection #1,Unplanned Breakdown,2023,3,2,102.703,51.352
+CMM Inspection #1,Unplanned Breakdown,2024,4,1,93.899,93.899
+Surface Grinder #1,Unplanned Breakdown,2024,3,2,90.842,45.421
+CMM Inspection #1,Unplanned Breakdown,2024,12,1,65.072,65.072
