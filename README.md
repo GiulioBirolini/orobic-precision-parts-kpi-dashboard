@@ -228,7 +228,7 @@ orobic-precision-parts-kpi-dashboard/
 │
 ├── data/
 │   ├── raw/
-│   │   └── production_log.csv          (13,158 shift-level records)
+│   │   └── production_log.csv          (13,158 shift-level records, generated locally — not tracked in git)
 │   └── processed/
 │       ├── kpi_daily.csv
 │       ├── kpi_monthly.csv
