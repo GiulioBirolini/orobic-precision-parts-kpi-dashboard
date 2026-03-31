@@ -1,0 +1,385 @@
+Machine;Defect_Type;Year;Month_Num;Occurrences;Total_Rejected;Avg_Scrap_Rate
+Surface Grinder;Flatness Out-of-Tol.;2023;1;32;32;37
+CNC Lathe;Thread Error;2023;1;15;20;3
+Surface Grinder;Burn Marks;2023;1;20;20;37
+Surface Grinder;Surface Finish Fail;2023;1;20;20;36
+CNC Lathe;Diameter Out-of-Tol.;2023;1;40;58;33
+CNC Milling;Surface Finish Fail;2023;1;23;23;74
+Band Saw;Burr / Rough Edge;2023;1;20;77;29
+CMM Inspection;Measurement Abort;2023;1;43;43;61
+CNC Milling;Positional Error;2023;1;35;35;71
+Band Saw;Wrong Length;2023;1;15;47;24
+CNC Milling;Dimensional Out-of-Tol.;2023;1;26;26;73
+EDM Wire-Cut;Contour Deviation;2023;1;39;0;0
+Band Saw;Out-of-Square Cut;2023;1;36;137;28
+EDM Wire-Cut;Surface Recast Layer;2023;1;24;0;0
+CNC Lathe;Surface Finish Fail;2023;1;21;36;38
+CMM Inspection;Fixture Error;2023;1;26;26;6
+Band Saw;Wrong Length;2023;2;19;77;29
+CNC Lathe;Diameter Out-of-Tol.;2023;2;39;67;38
+Surface Grinder;Surface Finish Fail;2023;2;20;20;36
+CNC Lathe;Thread Error;2023;2;15;28;42
+CNC Milling;Surface Finish Fail;2023;2;21;21;75
+Band Saw;Burr / Rough Edge;2023;2;12;51;31
+CNC Lathe;Surface Finish Fail;2023;2;18;27;36
+CNC Milling;Dimensional Out-of-Tol.;2023;2;25;25;74
+EDM Wire-Cut;Contour Deviation;2023;2;33;0;0
+CMM Inspection;Fixture Error;2023;2;21;21;63
+Surface Grinder;Flatness Out-of-Tol.;2023;2;32;32;35
+CMM Inspection;Measurement Abort;2023;2;36;36;62
+Band Saw;Out-of-Square Cut;2023;2;27;97;27
+Surface Grinder;Burn Marks;2023;2;15;15;35
+CNC Milling;Positional Error;2023;2;33;33;72
+EDM Wire-Cut;Surface Recast Layer;2023;2;27;0;0
+Surface Grinder;Surface Finish Fail;2023;3;23;23;35
+CNC Milling;Surface Finish Fail;2023;3;23;23;73
+CNC Lathe;Surface Finish Fail;2023;3;24;34;32
+EDM Wire-Cut;Surface Recast Layer;2023;3;28;0;0
+Band Saw;Out-of-Square Cut;2023;3;31;107;26
+EDM Wire-Cut;Contour Deviation;2023;3;30;0;0
+Band Saw;Wrong Length;2023;3;12;42;25
+CMM Inspection;Fixture Error;2023;3;25;25;62
+CNC Lathe;Thread Error;2023;3;23;34;34
+Band Saw;Burr / Rough Edge;2023;3;26;97;27
+CNC Lathe;Diameter Out-of-Tol.;2023;3;26;36;32
+Surface Grinder;Burn Marks;2023;3;18;18;35
+Surface Grinder;Flatness Out-of-Tol.;2023;3;27;27;36
+CNC Milling;Positional Error;2023;3;35;35;72
+CNC Milling;Dimensional Out-of-Tol.;2023;3;27;27;74
+CMM Inspection;Measurement Abort;2023;3;37;37;61
+Band Saw;Burr / Rough Edge;2023;4;15;51;27
+CNC Milling;Positional Error;2023;4;31;30;73
+CMM Inspection;Fixture Error;2023;4;24;24;61
+Band Saw;Out-of-Square Cut;2023;4;35;127;26
+CNC Milling;Surface Finish Fail;2023;4;29;29;73
+Surface Grinder;Flatness Out-of-Tol.;2023;4;40;40;36
+CNC Lathe;Thread Error;2023;4;14;25;4
+Surface Grinder;Surface Finish Fail;2023;4;21;21;35
+CNC Milling;Dimensional Out-of-Tol.;2023;4;27;27;74
+CMM Inspection;Measurement Abort;2023;4;33;33;62
+CNC Lathe;Diameter Out-of-Tol.;2023;4;29;41;31
+CNC Lathe;Surface Finish Fail;2023;4;30;46;35
+Band Saw;Wrong Length;2023;4;16;60;26
+Surface Grinder;Burn Marks;2023;4;15;15;36
+EDM Wire-Cut;Contour Deviation;2023;4;37;0;0
+EDM Wire-Cut;Surface Recast Layer;2023;4;21;0;0
+CNC Lathe;Surface Finish Fail;2023;5;20;33;37
+Band Saw;Wrong Length;2023;5;15;46;24
+EDM Wire-Cut;Contour Deviation;2023;5;32;0;0
+Surface Grinder;Burn Marks;2023;5;16;16;36
+Band Saw;Out-of-Square Cut;2023;5;29;97;25
+EDM Wire-Cut;Surface Recast Layer;2023;5;33;0;0
+Band Saw;Burr / Rough Edge;2023;5;12;38;24
+CMM Inspection;Fixture Error;2023;5;29;29;62
+CNC Milling;Dimensional Out-of-Tol.;2023;5;27;26;72
+CNC Lathe;Thread Error;2023;5;16;27;39
+Surface Grinder;Flatness Out-of-Tol.;2023;5;36;36;36
+CNC Milling;Surface Finish Fail;2023;5;21;21;78
+CNC Milling;Positional Error;2023;5;36;36;76
+CNC Lathe;Diameter Out-of-Tol.;2023;5;37;66;4
+Surface Grinder;Surface Finish Fail;2023;5;21;21;36
+CMM Inspection;Measurement Abort;2023;5;30;30;62
+CNC Lathe;Surface Finish Fail;2023;6;22;34;35
+CMM Inspection;Measurement Abort;2023;6;39;39;62
+Surface Grinder;Burn Marks;2023;6;15;15;35
+CMM Inspection;Fixture Error;2023;6;18;18;59
+EDM Wire-Cut;Contour Deviation;2023;6;26;0;0
+CNC Milling;Positional Error;2023;6;40;39;72
+Surface Grinder;Surface Finish Fail;2023;6;15;15;35
+Band Saw;Burr / Rough Edge;2023;6;18;72;28
+EDM Wire-Cut;Surface Recast Layer;2023;6;31;0;0
+CNC Lathe;Thread Error;2023;6;20;28;33
+CNC Lathe;Diameter Out-of-Tol.;2023;6;31;47;35
+CNC Milling;Surface Finish Fail;2023;6;23;23;74
+Band Saw;Out-of-Square Cut;2023;6;31;100;25
+Surface Grinder;Flatness Out-of-Tol.;2023;6;30;30;36
+Band Saw;Wrong Length;2023;6;15;53;26
+CNC Milling;Dimensional Out-of-Tol.;2023;6;15;15;8
+CNC Lathe;Surface Finish Fail;2023;7;20;27;3
+Band Saw;Out-of-Square Cut;2023;7;30;122;3
+EDM Wire-Cut;Surface Recast Layer;2023;7;33;0;0
+EDM Wire-Cut;Contour Deviation;2023;7;32;0;0
+CNC Lathe;Thread Error;2023;7;20;29;32
+CNC Milling;Positional Error;2023;7;28;28;74
+Surface Grinder;Flatness Out-of-Tol.;2023;7;39;39;35
+CMM Inspection;Measurement Abort;2023;7;40;40;62
+Surface Grinder;Burn Marks;2023;7;21;21;35
+Band Saw;Burr / Rough Edge;2023;7;16;57;25
+CNC Milling;Dimensional Out-of-Tol.;2023;7;26;26;74
+CNC Lathe;Diameter Out-of-Tol.;2023;7;36;53;33
+CNC Milling;Surface Finish Fail;2023;7;34;34;74
+Band Saw;Wrong Length;2023;7;17;65;28
+CMM Inspection;Fixture Error;2023;7;30;30;6
+Surface Grinder;Surface Finish Fail;2023;7;20;20;37
+Band Saw;Out-of-Square Cut;2023;8;24;95;3
+EDM Wire-Cut;Surface Recast Layer;2023;8;24;0;0
+Band Saw;Burr / Rough Edge;2023;8;15;57;29
+CNC Lathe;Thread Error;2023;8;22;36;37
+Surface Grinder;Surface Finish Fail;2023;8;16;16;37
+Band Saw;Wrong Length;2023;8;14;52;28
+CNC Lathe;Surface Finish Fail;2023;8;17;29;38
+CNC Lathe;Diameter Out-of-Tol.;2023;8;43;69;37
+CMM Inspection;Measurement Abort;2023;8;37;37;6
+Surface Grinder;Burn Marks;2023;8;12;12;37
+CMM Inspection;Fixture Error;2023;8;20;20;6
+CNC Milling;Dimensional Out-of-Tol.;2023;8;20;20;74
+Surface Grinder;Flatness Out-of-Tol.;2023;8;39;39;36
+CNC Milling;Surface Finish Fail;2023;8;27;27;75
+EDM Wire-Cut;Contour Deviation;2023;8;40;0;0
+CNC Milling;Positional Error;2023;8;41;41;74
+Surface Grinder;Flatness Out-of-Tol.;2023;9;31;31;35
+EDM Wire-Cut;Surface Recast Layer;2023;9;25;0;0
+CNC Milling;Dimensional Out-of-Tol.;2023;9;26;26;74
+CNC Milling;Surface Finish Fail;2023;9;16;16;73
+Band Saw;Out-of-Square Cut;2023;9;37;129;26
+CNC Milling;Positional Error;2023;9;36;36;74
+Surface Grinder;Burn Marks;2023;9;17;17;36
+CNC Lathe;Surface Finish Fail;2023;9;27;46;39
+CMM Inspection;Measurement Abort;2023;9;35;34;6
+CMM Inspection;Fixture Error;2023;9;25;25;61
+Band Saw;Wrong Length;2023;9;16;58;27
+Surface Grinder;Surface Finish Fail;2023;9;14;14;35
+EDM Wire-Cut;Contour Deviation;2023;9;38;0;0
+CNC Lathe;Thread Error;2023;9;18;31;39
+Band Saw;Burr / Rough Edge;2023;9;12;39;25
+CNC Lathe;Diameter Out-of-Tol.;2023;9;36;55;34
+Surface Grinder;Flatness Out-of-Tol.;2023;10;32;32;36
+Band Saw;Wrong Length;2023;10;11;46;33
+EDM Wire-Cut;Contour Deviation;2023;10;43;0;0
+CNC Milling;Surface Finish Fail;2023;10;28;28;75
+CNC Lathe;Thread Error;2023;10;23;38;37
+CMM Inspection;Measurement Abort;2023;10;39;39;63
+EDM Wire-Cut;Surface Recast Layer;2023;10;24;0;0
+CNC Lathe;Diameter Out-of-Tol.;2023;10;31;41;31
+CNC Lathe;Surface Finish Fail;2023;10;29;46;36
+Surface Grinder;Burn Marks;2023;10;13;13;35
+CNC Milling;Dimensional Out-of-Tol.;2023;10;23;23;78
+CMM Inspection;Fixture Error;2023;10;22;22;63
+CNC Milling;Positional Error;2023;10;36;36;73
+Surface Grinder;Surface Finish Fail;2023;10;18;18;35
+Band Saw;Out-of-Square Cut;2023;10;29;95;24
+Band Saw;Burr / Rough Edge;2023;10;18;82;32
+EDM Wire-Cut;Surface Recast Layer;2023;11;25;0;0
+Surface Grinder;Burn Marks;2023;11;14;14;36
+CNC Milling;Surface Finish Fail;2023;11;22;22;73
+EDM Wire-Cut;Contour Deviation;2023;11;37;0;0
+CNC Lathe;Surface Finish Fail;2023;11;14;24;37
+CNC Milling;Dimensional Out-of-Tol.;2023;11;26;26;76
+CMM Inspection;Fixture Error;2023;11;26;26;6
+Surface Grinder;Surface Finish Fail;2023;11;16;16;35
+CNC Lathe;Thread Error;2023;11;18;30;38
+CNC Milling;Positional Error;2023;11;32;31;73
+CNC Lathe;Diameter Out-of-Tol.;2023;11;46;74;37
+Surface Grinder;Flatness Out-of-Tol.;2023;11;37;37;35
+CMM Inspection;Measurement Abort;2023;11;37;37;61
+Band Saw;Out-of-Square Cut;2023;11;27;104;28
+Band Saw;Wrong Length;2023;11;17;64;28
+Band Saw;Burr / Rough Edge;2023;11;18;64;26
+CMM Inspection;Measurement Abort;2023;12;37;37;6
+Surface Grinder;Burn Marks;2023;12;13;13;37
+CNC Milling;Surface Finish Fail;2023;12;21;21;75
+Band Saw;Burr / Rough Edge;2023;12;22;70;23
+CNC Milling;Dimensional Out-of-Tol.;2023;12;30;30;76
+Surface Grinder;Surface Finish Fail;2023;12;24;24;35
+CNC Lathe;Thread Error;2023;12;19;28;34
+Band Saw;Out-of-Square Cut;2023;12;27;96;25
+Surface Grinder;Flatness Out-of-Tol.;2023;12;37;37;35
+CMM Inspection;Fixture Error;2023;12;31;31;59
+Band Saw;Wrong Length;2023;12;13;41;23
+CNC Lathe;Surface Finish Fail;2023;12;21;31;35
+CNC Milling;Positional Error;2023;12;33;33;71
+CNC Lathe;Diameter Out-of-Tol.;2023;12;36;55;34
+EDM Wire-Cut;Contour Deviation;2023;12;38;0;0
+EDM Wire-Cut;Surface Recast Layer;2023;12;24;0;0
+Surface Grinder;Surface Finish Fail;2024;1;21;21;35
+CNC Lathe;Surface Finish Fail;2024;1;26;40;36
+Band Saw;Burr / Rough Edge;2024;1;20;68;24
+Band Saw;Wrong Length;2024;1;14;52;27
+CNC Lathe;Diameter Out-of-Tol.;2024;1;38;62;37
+Band Saw;Out-of-Square Cut;2024;1;28;94;24
+CNC Milling;Dimensional Out-of-Tol.;2024;1;28;28;76
+Surface Grinder;Flatness Out-of-Tol.;2024;1;39;39;36
+CMM Inspection;Measurement Abort;2024;1;36;36;61
+EDM Wire-Cut;Contour Deviation;2024;1;39;0;0
+Surface Grinder;Burn Marks;2024;1;10;10;35
+CNC Lathe;Thread Error;2024;1;18;30;38
+CNC Milling;Surface Finish Fail;2024;1;24;24;78
+CNC Milling;Positional Error;2024;1;31;31;73
+EDM Wire-Cut;Surface Recast Layer;2024;1;31;0;0
+CMM Inspection;Fixture Error;2024;1;30;30;61
+Surface Grinder;Surface Finish Fail;2024;2;20;20;36
+Surface Grinder;Flatness Out-of-Tol.;2024;2;27;27;36
+CMM Inspection;Measurement Abort;2024;2;38;38;6
+EDM Wire-Cut;Contour Deviation;2024;2;26;0;0
+CNC Lathe;Surface Finish Fail;2024;2;21;34;35
+CNC Milling;Surface Finish Fail;2024;2;24;24;74
+Band Saw;Out-of-Square Cut;2024;2;34;127;28
+EDM Wire-Cut;Surface Recast Layer;2024;2;33;0;0
+CNC Milling;Dimensional Out-of-Tol.;2024;2;30;30;75
+CNC Milling;Positional Error;2024;2;23;23;74
+Band Saw;Wrong Length;2024;2;14;52;26
+Surface Grinder;Burn Marks;2024;2;12;12;37
+CNC Lathe;Thread Error;2024;2;19;29;35
+Band Saw;Burr / Rough Edge;2024;2;18;52;21
+CNC Lathe;Diameter Out-of-Tol.;2024;2;30;48;36
+CMM Inspection;Fixture Error;2024;2;23;23;61
+CNC Lathe;Thread Error;2024;3;17;26;34
+CNC Milling;Surface Finish Fail;2024;3;23;23;74
+CNC Milling;Dimensional Out-of-Tol.;2024;3;26;26;74
+CNC Lathe;Diameter Out-of-Tol.;2024;3;32;53;37
+CMM Inspection;Measurement Abort;2024;3;39;39;61
+Surface Grinder;Burn Marks;2024;3;17;17;37
+Band Saw;Wrong Length;2024;3;13;42;25
+CNC Lathe;Surface Finish Fail;2024;3;27;37;31
+EDM Wire-Cut;Contour Deviation;2024;3;38;0;0
+CMM Inspection;Fixture Error;2024;3;19;19;63
+Band Saw;Burr / Rough Edge;2024;3;18;63;26
+CNC Milling;Positional Error;2024;3;37;37;72
+Band Saw;Out-of-Square Cut;2024;3;34;134;3
+Surface Grinder;Surface Finish Fail;2024;3;27;27;36
+Surface Grinder;Flatness Out-of-Tol.;2024;3;31;31;36
+EDM Wire-Cut;Surface Recast Layer;2024;3;33;0;0
+EDM Wire-Cut;Contour Deviation;2024;4;43;0;0
+Surface Grinder;Surface Finish Fail;2024;4;16;16;36
+Surface Grinder;Burn Marks;2024;4;16;16;36
+Band Saw;Burr / Rough Edge;2024;4;17;68;3
+CNC Milling;Surface Finish Fail;2024;4;21;21;74
+CNC Milling;Dimensional Out-of-Tol.;2024;4;21;21;72
+EDM Wire-Cut;Surface Recast Layer;2024;4;21;0;0
+CNC Lathe;Diameter Out-of-Tol.;2024;4;38;59;35
+Band Saw;Out-of-Square Cut;2024;4;42;156;27
+CMM Inspection;Fixture Error;2024;4;26;26;63
+CNC Milling;Positional Error;2024;4;37;36;74
+CNC Lathe;Thread Error;2024;4;17;28;37
+CNC Lathe;Surface Finish Fail;2024;4;25;39;34
+Surface Grinder;Flatness Out-of-Tol.;2024;4;35;35;37
+CMM Inspection;Measurement Abort;2024;4;41;41;61
+Band Saw;Wrong Length;2024;4;10;33;25
+Surface Grinder;Flatness Out-of-Tol.;2024;5;31;31;35
+CNC Lathe;Thread Error;2024;5;21;35;37
+CNC Lathe;Surface Finish Fail;2024;5;24;35;33
+EDM Wire-Cut;Surface Recast Layer;2024;5;24;0;0
+CNC Milling;Dimensional Out-of-Tol.;2024;5;28;27;7
+CMM Inspection;Fixture Error;2024;5;26;26;61
+Band Saw;Burr / Rough Edge;2024;5;18;61;26
+EDM Wire-Cut;Contour Deviation;2024;5;39;0;0
+Surface Grinder;Burn Marks;2024;5;12;12;36
+CNC Milling;Positional Error;2024;5;29;29;75
+Band Saw;Out-of-Square Cut;2024;5;29;87;23
+CNC Lathe;Diameter Out-of-Tol.;2024;5;34;55;36
+CMM Inspection;Measurement Abort;2024;5;37;37;63
+CNC Milling;Surface Finish Fail;2024;5;27;27;74
+Surface Grinder;Surface Finish Fail;2024;5;23;23;35
+Band Saw;Wrong Length;2024;5;8;23;2
+CNC Milling;Surface Finish Fail;2024;6;36;36;74
+CNC Lathe;Thread Error;2024;6;15;25;4
+Band Saw;Wrong Length;2024;6;12;46;27
+CMM Inspection;Measurement Abort;2024;6;46;46;6
+Surface Grinder;Burn Marks;2024;6;10;10;38
+Band Saw;Out-of-Square Cut;2024;6;28;84;22
+CNC Lathe;Diameter Out-of-Tol.;2024;6;36;60;36
+CMM Inspection;Fixture Error;2024;6;24;24;63
+EDM Wire-Cut;Surface Recast Layer;2024;6;26;0;0
+EDM Wire-Cut;Contour Deviation;2024;6;40;0;0
+Surface Grinder;Flatness Out-of-Tol.;2024;6;38;38;36
+Surface Grinder;Surface Finish Fail;2024;6;26;26;36
+CNC Lathe;Surface Finish Fail;2024;6;23;34;34
+CNC Milling;Dimensional Out-of-Tol.;2024;6;14;14;75
+CNC Milling;Positional Error;2024;6;31;31;71
+Band Saw;Burr / Rough Edge;2024;6;26;85;25
+CNC Milling;Positional Error;2024;7;32;32;75
+CMM Inspection;Fixture Error;2024;7;26;26;62
+CNC Milling;Surface Finish Fail;2024;7;22;22;74
+Surface Grinder;Flatness Out-of-Tol.;2024;7;40;40;36
+Surface Grinder;Burn Marks;2024;7;10;10;38
+CNC Lathe;Thread Error;2024;7;17;29;38
+EDM Wire-Cut;Contour Deviation;2024;7;37;0;0
+EDM Wire-Cut;Surface Recast Layer;2024;7;27;0;0
+Band Saw;Burr / Rough Edge;2024;7;18;62;24
+CNC Lathe;Diameter Out-of-Tol.;2024;7;32;50;35
+Band Saw;Wrong Length;2024;7;19;59;23
+CNC Lathe;Surface Finish Fail;2024;7;31;44;32
+CNC Milling;Dimensional Out-of-Tol.;2024;7;30;30;75
+Band Saw;Out-of-Square Cut;2024;7;30;100;24
+Surface Grinder;Surface Finish Fail;2024;7;21;21;36
+CMM Inspection;Measurement Abort;2024;7;37;37;62
+Band Saw;Burr / Rough Edge;2024;8;27;111;3
+CNC Milling;Dimensional Out-of-Tol.;2024;8;25;25;76
+Band Saw;Out-of-Square Cut;2024;8;21;74;25
+Surface Grinder;Surface Finish Fail;2024;8;15;15;36
+CNC Lathe;Thread Error;2024;8;16;19;27
+EDM Wire-Cut;Surface Recast Layer;2024;8;30;0;0
+CMM Inspection;Fixture Error;2024;8;33;33;62
+Surface Grinder;Flatness Out-of-Tol.;2024;8;28;28;35
+EDM Wire-Cut;Contour Deviation;2024;8;38;0;0
+Surface Grinder;Burn Marks;2024;8;19;19;37
+Band Saw;Wrong Length;2024;8;11;32;2
+CMM Inspection;Measurement Abort;2024;8;26;26;61
+CNC Milling;Surface Finish Fail;2024;8;23;23;75
+CNC Lathe;Surface Finish Fail;2024;8;34;49;33
+CNC Milling;Positional Error;2024;8;37;37;74
+CNC Lathe;Diameter Out-of-Tol.;2024;8;24;41;38
+Surface Grinder;Burn Marks;2024;9;12;12;34
+Band Saw;Out-of-Square Cut;2024;9;36;112;23
+EDM Wire-Cut;Surface Recast Layer;2024;9;26;0;0
+CNC Milling;Positional Error;2024;9;35;35;77
+CNC Lathe;Surface Finish Fail;2024;9;22;31;33
+CNC Lathe;Thread Error;2024;9;17;25;33
+Surface Grinder;Flatness Out-of-Tol.;2024;9;39;39;35
+CMM Inspection;Measurement Abort;2024;9;42;42;61
+EDM Wire-Cut;Contour Deviation;2024;9;34;0;0
+CNC Lathe;Diameter Out-of-Tol.;2024;9;38;68;4
+CNC Milling;Surface Finish Fail;2024;9;28;28;74
+Surface Grinder;Surface Finish Fail;2024;9;22;22;36
+CMM Inspection;Fixture Error;2024;9;20;20;6
+Band Saw;Wrong Length;2024;9;16;53;25
+Band Saw;Burr / Rough Edge;2024;9;14;39;22
+CNC Milling;Dimensional Out-of-Tol.;2024;9;22;21;73
+CNC Lathe;Diameter Out-of-Tol.;2024;10;32;47;33
+Surface Grinder;Flatness Out-of-Tol.;2024;10;34;34;35
+Band Saw;Wrong Length;2024;10;12;49;28
+EDM Wire-Cut;Surface Recast Layer;2024;10;30;0;0
+EDM Wire-Cut;Contour Deviation;2024;10;42;0;0
+CMM Inspection;Measurement Abort;2024;10;36;36;63
+Surface Grinder;Surface Finish Fail;2024;10;21;21;36
+Band Saw;Out-of-Square Cut;2024;10;35;105;21
+Band Saw;Burr / Rough Edge;2024;10;18;58;25
+CNC Milling;Positional Error;2024;10;27;27;75
+Surface Grinder;Burn Marks;2024;10;17;17;35
+CNC Milling;Dimensional Out-of-Tol.;2024;10;29;29;76
+CNC Milling;Surface Finish Fail;2024;10;29;29;76
+CNC Lathe;Surface Finish Fail;2024;10;23;37;37
+CMM Inspection;Fixture Error;2024;10;31;31;6
+CNC Lathe;Thread Error;2024;10;21;32;33
+EDM Wire-Cut;Contour Deviation;2024;11;30;0;0
+CMM Inspection;Measurement Abort;2024;11;30;30;58
+CNC Milling;Positional Error;2024;11;30;30;73
+CNC Lathe;Diameter Out-of-Tol.;2024;11;30;50;37
+CNC Lathe;Thread Error;2024;11;20;35;39
+Surface Grinder;Burn Marks;2024;11;9;9;35
+Band Saw;Wrong Length;2024;11;7;31;32
+EDM Wire-Cut;Surface Recast Layer;2024;11;26;0;0
+CNC Lathe;Surface Finish Fail;2024;11;26;40;34
+CMM Inspection;Fixture Error;2024;11;30;30;63
+Surface Grinder;Flatness Out-of-Tol.;2024;11;41;41;36
+CNC Milling;Surface Finish Fail;2024;11;27;26;73
+Band Saw;Burr / Rough Edge;2024;11;22;82;28
+Surface Grinder;Surface Finish Fail;2024;11;18;18;35
+Band Saw;Out-of-Square Cut;2024;11;32;109;24
+CNC Milling;Dimensional Out-of-Tol.;2024;11;27;27;75
+CNC Lathe;Diameter Out-of-Tol.;2024;12;42;68;37
+Band Saw;Burr / Rough Edge;2024;12;20;66;26
+Band Saw;Wrong Length;2024;12;15;54;26
+Band Saw;Out-of-Square Cut;2024;12;36;119;25
+CMM Inspection;Measurement Abort;2024;12;42;42;6
+Surface Grinder;Burn Marks;2024;12;12;12;35
+Surface Grinder;Flatness Out-of-Tol.;2024;12;33;33;36
+EDM Wire-Cut;Contour Deviation;2024;12;38;0;0
+CNC Lathe;Surface Finish Fail;2024;12;21;32;33
+CNC Milling;Surface Finish Fail;2024;12;32;32;74
+CMM Inspection;Fixture Error;2024;12;25;25;62
+Surface Grinder;Surface Finish Fail;2024;12;18;18;36
+CNC Lathe;Thread Error;2024;12;12;18;35
+CNC Milling;Dimensional Out-of-Tol.;2024;12;15;15;73
+CNC Milling;Positional Error;2024;12;37;37;74
+EDM Wire-Cut;Surface Recast Layer;2024;12;31;0;0
