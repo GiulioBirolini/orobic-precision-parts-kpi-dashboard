@@ -115,17 +115,18 @@ The 2D and 3D drawings below were produced in FreeCAD (open-source CAD) as part 
 | 5 | Surface Grinder #1 | Top and bottom faces flat and parallel | 12 min | Ra 0.4, flat 0.01 mm |
 | 6 | CMM Inspection #1 | Full dimensional report per batch | 22 min | Pass / Fail |
 
-**EDM cycle time rationale:** Square perimeter = 2×(4+3.2) = 14.4 mm. Cutting speed on hardened HSS approximately 0.5 mm/min gives ~29 min of cutting. Wire threading and setup add ~16 min, for a total of ~45 min per part. This makes EDM the process bottleneck, which is clearly visible in the OEE data (EDM OEE: 50.6%).
+**EDM cycle time rationale:** Square perimeter = 2×(4+3.2) = 14.4 mm. Cutting speed on hardened HSS approximately 0.5 mm/min gives ~29 min of cutting. Wire threading and setup add ~16 min, for a total of ~45 min per part. This makes EDM the process bottleneck, which is clearly visible in the OEE data (EDM OEE: 48.5%).
 
 ---
 
 ## About the Data
 
-The production dataset is fully synthetic. Running `python python/etl/generate_dataset.py` creates `data/raw/production_log.csv` locally — this file is not tracked in git and must be generated before running the ETL pipeline. The script uses statistically realistic distributions calibrated on published OEE benchmarks for job-shop precision machining.
+The production dataset is fully synthetic. Running `python python/etl/generate_dataset.py` creates `data/raw/production_log.csv` locally; this file is not tracked in git and must be generated before running the ETL pipeline. The script uses statistically realistic distributions calibrated on published OEE benchmarks for job-shop precision machining.
 
 **Dataset overview:**
-- 13,158 shift-level records covering 3 shifts/day × 6 machines × 731 days (2023–2024)
+- 4,386 daily records covering 1 shift/day × 6 machines × 731 days (2023–2024)
 - Each machine has its own OEE profile modelled on realistic inefficiency drivers
+- Each shift is modelled as an 8-hour day (planned time: 28,800 sec)
 
 **Machine profiles:**
 
@@ -134,13 +135,13 @@ The production dataset is fully synthetic. Running `python python/etl/generate_d
 | Band Saw | Idle time between batches: low Performance |
 | CNC Lathe | Tool breakage and changeover: moderate Availability |
 | CNC Milling | Complex setups: low Availability |
-| EDM Wire-Cut | Inherently slow process: very low Performance (~62%) |
+| EDM Wire-Cut | Inherently slow process: very low Performance (~56%) |
 | Surface Grinder | Wheel dressing cycles: moderate Availability |
 | CMM Inspection | Probe programming bottleneck: moderate Performance |
 
 All values are rounded to 3 decimal places. No machine reaches 100% Quality, reflecting realistic scrap generation at each step. Downtime causes and defect types are machine-specific and technically grounded (e.g. Wire Break for EDM, Wheel Dressing for the grinder).
 
-The synthetic approach was chosen because real production data from small manufacturers is confidential. The distributions produce an average plant OEE of ~63.6%, consistent with published benchmarks for job-shop machining (typically 55–75%).
+The synthetic approach was chosen because real production data from small manufacturers is confidential. The distributions produce an average plant OEE of ~61.3%, consistent with published benchmarks for job-shop machining (typically 55–75%).
 
 ---
 
@@ -164,14 +165,25 @@ An OEE of 85% is considered world-class. Most real-world manufacturing operation
 
 | Metric | Value | Note |
 |---|---|---|
-| Plant OEE (avg) | **63.6%** | Typical for a job shop |
-| Availability | 84.5% | Changeover and setup main driver |
-| Performance | 78.2% | EDM process-limited |
-| Quality / FPY | 96.1% | Scrap rate 3.07% |
-| **Bottleneck** | **EDM Wire-Cut #1** | OEE 50.6% |
-| Best performer | CNC Lathe #1 | OEE 71.2% |
+| Plant OEE (avg) | **61.3%** | Typical for a job shop |
+| Availability | 84.8% | Changeover and setup main driver |
+| Performance | 80.0% | EDM process-limited |
+| Quality / FPY | 90.9% | Scrap rate 9.1% |
+| **Bottleneck** | **EDM Wire-Cut #1** | OEE 48.5% |
+| Best performer | CNC Lathe #1 | OEE 66.7% |
 
-The gap between EDM Performance (62%) and every other machine is structural, not operational. Wire EDM cutting speed is governed by material conductivity and cross-section, not operator efficiency. This bottleneck cannot be resolved through Lean interventions alone. Capacity improvement would require a second EDM machine.
+**Per-machine OEE summary (2023–2024 average):**
+
+| Machine | OEE | Availability | Performance | Quality |
+|---|---|---|---|---|
+| Band Saw | 65.2% | 84.8% | 84.4% | 91.0% |
+| CNC Lathe | 66.2% | 85.7% | 86.4% | 89.4% |
+| CNC Milling | 63.0% | 84.0% | 84.5% | 88.7% |
+| EDM Wire-Cut | 48.5% | 86.4% | 56.3% | 99.6% |
+| Surface Grinder | 65.0% | 85.0% | 85.6% | 89.3% |
+| CMM Inspection | 60.2% | 83.0% | 83.1% | 87.2% |
+
+The gap between EDM Performance (56%) and every other machine is structural, not operational. Wire EDM cutting speed is governed by material conductivity and cross-section, not operator efficiency. This bottleneck cannot be resolved through Lean interventions alone. Capacity improvement would require a second EDM machine.
 
 ---
 
@@ -228,7 +240,7 @@ orobic-precision-parts-kpi-dashboard/
 │
 ├── data/
 │   ├── raw/
-│   │   └── production_log.csv          (13,158 shift-level records, generated locally — not tracked in git)
+│   │   └── production_log.csv          (4,386 daily records, generated locally — not tracked in git)
 │   └── processed/
 │       ├── kpi_daily.csv
 │       ├── kpi_monthly.csv
@@ -262,6 +274,20 @@ orobic-precision-parts-kpi-dashboard/
 
 ---
 
+## Processed Data Tables
+
+| File | Rows | Description |
+|---|---|---|
+| `kpi_daily.csv` | 4,386 | One row per machine per day (6 machines × 731 days) |
+| `kpi_monthly.csv` | 144 | One row per machine per month (6 × 24 months) |
+| `downtime_analysis.csv` | 720 | Downtime by machine, cause, and month |
+| `defect_analysis.csv` | 384 | Defect occurrences by machine, type, and month |
+| `machine_performance.csv` | 12 | Annual summary per machine (6 × 2 years) |
+
+All tables are internally consistent: daily totals aggregate exactly to monthly totals, which in turn aggregate to the annual machine_performance summary. Downtime by cause (downtime_analysis) reconciles to the total downtime in kpi_monthly within rounding tolerance.
+
+---
+
 ## Quick Start
 
 ```bash
@@ -283,7 +309,7 @@ Then open Power BI Desktop and follow `powerbi/dashboard_guide.md`.
 - [x] 3D model: FreeCAD Part Design
 - [x] 2D technical drawing: FreeCAD TechDraw (orthographic, section, title block)
 - [x] Process chain definition with cycle time rationale
-- [x] Synthetic dataset generation (13,158 records, 6 machines)
+- [x] Synthetic dataset generation (4,386 records, 6 machines)
 - [x] ETL pipeline (5 processed KPI tables)
 - [x] Python KPI analysis (8 charts)
 - [x] Power BI DAX measures and dashboard guide
@@ -296,7 +322,7 @@ Then open Power BI Desktop and follow `powerbi/dashboard_guide.md`.
 
 FreeCAD 1.0 (open-source CAD) / Python: pandas, numpy, matplotlib, seaborn / Power BI Desktop / Git and GitHub
 
-Data is synthetic and fully reproducible. `numpy.random.seed(7)`
+Data is synthetic and fully reproducible. `numpy.random.seed(42)`
 
 ---
 
