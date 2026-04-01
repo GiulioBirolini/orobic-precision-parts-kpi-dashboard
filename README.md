@@ -313,8 +313,8 @@ Then open Power BI Desktop and follow `powerbi/dashboard_guide.md`.
 - [x] ETL pipeline (5 processed KPI tables)
 - [x] Python KPI analysis (8 charts)
 - [x] Power BI DAX measures and dashboard guide
-- [ ] Power BI dashboard screenshots
-- [ ] Power BI .pbix file (public version)
+- [x] Power BI dashboard screenshots
+- [x] Power BI .pbix file (public version)
 
 ---
 
