@@ -163,10 +163,24 @@ pareto["Cumulative %"] = (pareto["Hours"].cumsum()
 fig, ax1 = plt.subplots(figsize=(12, 5))
 ax2 = ax1.twinx()
 
-bars = ax1.bar(pareto["Downtime_Reason"], pareto["Hours"],
+x = np.arange(len(pareto))
+
+# Bars (centrate)
+bars = ax1.bar(x, pareto["Hours"],
                color="#4C72B0", alpha=0.85)
-ax2.plot(pareto["Downtime_Reason"], pareto["Cumulative %"],
-         color="red", marker="D", markersize=5, linewidth=1.5)
+
+# Linea cumulata allineata ai bordi (Lean Six Sigma style)
+cum = pareto["Cumulative %"].values
+cum = np.insert(cum, 0, 0)              # parte da 0%
+x_line = np.arange(len(cum)) - 0.5      # shift a sinistra → bordo barre
+
+ax2.plot(x_line, cum,
+         color="red", marker="D",
+         markersize=5, linewidth=1.5)
+
+# Ripristina le label corrette
+ax1.set_xticks(x)
+ax1.set_xticklabels(pareto["Downtime_Reason"])
 ax2.axhline(80, color="orange", linestyle="--", linewidth=1.0, alpha=0.7)
 
 ax1.set_title("Downtime Pareto by Cause — All Machines 2023–2024 (hours)")
