@@ -98,12 +98,12 @@ The 2D and 3D drawings below were produced in FreeCAD (open-source CAD) as part 
 ## Production Process
 
 ```
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
+┌──────────┐    ┌──────────┐     ┌──────────┐    ┌──────────┐     ┌──────────┐    ┌──────────┐
 │ Band Saw │───▶│CNC Lathe │───▶│CNC Mill  │───▶│EDM Wire- │───▶│ Surface  │───▶│   CMM    │
-│   #1     │    │   #1     │    │   #1     │    │  Cut #1  │    │Grinder#1 │    │Inspect.#1│
-└──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
-  Bar stock      Collar, OD,    Faces and       Square profile   Ground faces     100% dimen-
-  cut to blank   blind pocket   relief          after hardening  Ra 0.4 / 0.01mm  sional check
+│   #1     │    │   #1     │     │   #1     │    │  Cut #1  │     │Grinder#1 │    │Inspect.#1│
+└──────────┘    └──────────┘     └──────────┘    └──────────┘     └──────────┘    └──────────┘
+Bar stock       Collar, OD,       Faces and      Square profile    Ground faces     100% dimen-
+cut to blank    blind pocket      relief         after hardening   Ra 0.4/0.01mm    sional check
 ```
 
 | Step | Machine | Operation | Cycle Time | Key output |
