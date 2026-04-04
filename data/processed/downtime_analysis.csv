@@ -1,721 +1,721 @@
-Machine;Downtime_Reason;Year;Month_Num;Occurrences;Total_Downtime [sec];Avg_Downtime [sec]
-Band Saw;Blade Change;2023;1;23;43700;1900
-Band Saw;Planned Maintenance;2023;1;3;8400;2800
-Band Saw;Unplanned Breakdown;2023;1;10;29000;2900
-Band Saw;Material Shortage;2023;1;7;15750;2250
-Band Saw;Changeover / Setup;2023;1;20;44000;2200
-Band Saw;Blade Change;2023;2;7;12600;1800
-Band Saw;Planned Maintenance;2023;2;7;21350;3050
-Band Saw;Unplanned Breakdown;2023;2;10;33500;3350
-Band Saw;Material Shortage;2023;2;14;28700;2050
-Band Saw;Changeover / Setup;2023;2;20;34000;1700
-Band Saw;Blade Change;2023;3;27;54000;2000
-Band Saw;Planned Maintenance;2023;3;6;17700;2950
-Band Saw;Unplanned Breakdown;2023;3;7;21000;3000
-Band Saw;Material Shortage;2023;3;3;6000;2000
-Band Saw;Changeover / Setup;2023;3;16;32000;2000
-Band Saw;Blade Change;2023;4;27;52650;1950
-Band Saw;Planned Maintenance;2023;4;8;23200;2900
-Band Saw;Unplanned Breakdown;2023;4;5;14250;2850
-Band Saw;Material Shortage;2023;4;8;12400;1550
-Band Saw;Changeover / Setup;2023;4;12;27000;2250
-Band Saw;Blade Change;2023;5;20;40000;2000
-Band Saw;Planned Maintenance;2023;5;11;30800;2800
-Band Saw;Unplanned Breakdown;2023;5;6;19800;3300
-Band Saw;Material Shortage;2023;5;8;17600;2200
-Band Saw;Changeover / Setup;2023;5;11;25300;2300
-Band Saw;Blade Change;2023;6;6;10500;1750
-Band Saw;Planned Maintenance;2023;6;10;29500;2950
-Band Saw;Unplanned Breakdown;2023;6;10;30000;3000
-Band Saw;Material Shortage;2023;6;6;12600;2100
-Band Saw;Changeover / Setup;2023;6;22;40700;1850
-Band Saw;Blade Change;2023;7;32;68800;2150
-Band Saw;Planned Maintenance;2023;7;11;30800;2800
-Band Saw;Unplanned Breakdown;2023;7;6;17100;2850
-Band Saw;Material Shortage;2023;7;4;7600;1900
-Band Saw;Changeover / Setup;2023;7;5;10000;2000
-Band Saw;Blade Change;2023;8;14;26600;1900
-Band Saw;Planned Maintenance;2023;8;10;28500;2850
-Band Saw;Unplanned Breakdown;2023;8;3;8850;2950
-Band Saw;Material Shortage;2023;8;14;37100;2650
-Band Saw;Changeover / Setup;2023;8;18;37800;2100
-Band Saw;Blade Change;2023;9;13;28600;2200
-Band Saw;Planned Maintenance;2023;9;12;34200;2850
-Band Saw;Unplanned Breakdown;2023;9;7;22050;3150
-Band Saw;Material Shortage;2023;9;9;17550;1950
-Band Saw;Changeover / Setup;2023;9;18;33300;1850
-Band Saw;Blade Change;2023;10;42;84000;2000
-Band Saw;Planned Maintenance;2023;10;6;13500;2250
-Band Saw;Unplanned Breakdown;2023;10;2;6300;3150
-Band Saw;Material Shortage;2023;10;5;10500;2100
-Band Saw;Changeover / Setup;2023;10;9;18000;2000
-Band Saw;Blade Change;2023;11;15;27750;1850
-Band Saw;Planned Maintenance;2023;11;10;30500;3050
-Band Saw;Unplanned Breakdown;2023;11;4;11600;2900
-Band Saw;Material Shortage;2023;11;17;31450;1850
-Band Saw;Changeover / Setup;2023;11;15;30750;2050
-Band Saw;Blade Change;2023;12;16;32000;2000
-Band Saw;Planned Maintenance;2023;12;9;28800;3200
-Band Saw;Unplanned Breakdown;2023;12;4;13600;3400
-Band Saw;Material Shortage;2023;12;6;13200;2200
-Band Saw;Changeover / Setup;2023;12;25;43750;1750
-Band Saw;Blade Change;2024;1;14;25900;1850
-Band Saw;Planned Maintenance;2024;1;18;48600;2700
-Band Saw;Unplanned Breakdown;2024;1;8;22400;2800
-Band Saw;Material Shortage;2024;1;6;13800;2300
-Band Saw;Changeover / Setup;2024;1;24;38400;1600
-Band Saw;Blade Change;2024;2;20;40000;2000
-Band Saw;Planned Maintenance;2024;2;6;15900;2650
-Band Saw;Unplanned Breakdown;2024;2;1;2650;2650
-Band Saw;Material Shortage;2024;2;11;23100;2100
-Band Saw;Changeover / Setup;2024;2;21;45150;2150
-Band Saw;Blade Change;2024;3;29;58000;2000
-Band Saw;Planned Maintenance;2024;3;10;28500;2850
-Band Saw;Unplanned Breakdown;2024;3;2;6200;3100
-Band Saw;Material Shortage;2024;3;14;29400;2100
-Band Saw;Changeover / Setup;2024;3;6;10800;1800
-Band Saw;Blade Change;2024;4;14;31500;2250
-Band Saw;Planned Maintenance;2024;4;19;49400;2600
-Band Saw;Unplanned Breakdown;2024;4;4;13800;3450
-Band Saw;Material Shortage;2024;4;8;16400;2050
-Band Saw;Changeover / Setup;2024;4;13;26000;2000
-Band Saw;Blade Change;2024;5;10;19500;1950
-Band Saw;Planned Maintenance;2024;5;14;39900;2850
-Band Saw;Unplanned Breakdown;2024;5;4;10000;2500
-Band Saw;Material Shortage;2024;5;28;53200;1900
-Band Saw;Changeover / Setup;2024;5;4;8800;2200
-Band Saw;Blade Change;2024;6;20;42000;2100
-Band Saw;Planned Maintenance;2024;6;4;12000;3000
-Band Saw;Unplanned Breakdown;2024;6;3;10350;3450
-Band Saw;Material Shortage;2024;6;17;38250;2250
-Band Saw;Changeover / Setup;2024;6;15;32250;2150
-Band Saw;Blade Change;2024;7;22;45100;2050
-Band Saw;Planned Maintenance;2024;7;9;25200;2800
-Band Saw;Unplanned Breakdown;2024;7;10;31000;3100
-Band Saw;Material Shortage;2024;7;5;13000;2600
-Band Saw;Changeover / Setup;2024;7;14;24500;1750
-Band Saw;Blade Change;2024;8;15;30750;2050
-Band Saw;Planned Maintenance;2024;8;10;26500;2650
-Band Saw;Unplanned Breakdown;2024;8;1;3200;3200
-Band Saw;Material Shortage;2024;8;16;35200;2200
-Band Saw;Changeover / Setup;2024;8;27;48600;1800
-Band Saw;Blade Change;2024;9;30;52500;1750
-Band Saw;Planned Maintenance;2024;9;5;15500;3100
-Band Saw;Unplanned Breakdown;2024;9;3;8550;2850
-Band Saw;Material Shortage;2024;9;6;10800;1800
-Band Saw;Changeover / Setup;2024;9;23;43700;1900
-Band Saw;Blade Change;2024;10;33;67650;2050
-Band Saw;Planned Maintenance;2024;10;6;18000;3000
-Band Saw;Unplanned Breakdown;2024;10;1;3000;3000
-Band Saw;Material Shortage;2024;10;4;7600;1900
-Band Saw;Changeover / Setup;2024;10;19;39900;2100
-Band Saw;Blade Change;2024;11;25;41250;1650
-Band Saw;Planned Maintenance;2024;11;12;32400;2700
-Band Saw;Unplanned Breakdown;2024;11;6;17400;2900
-Band Saw;Material Shortage;2024;11;1;1850;1850
-Band Saw;Changeover / Setup;2024;11;20;39000;1950
-Band Saw;Blade Change;2024;12;21;40950;1950
-Band Saw;Planned Maintenance;2024;12;5;14250;2850
-Band Saw;Unplanned Breakdown;2024;12;1;2800;2800
-Band Saw;Material Shortage;2024;12;12;29400;2450
-Band Saw;Changeover / Setup;2024;12;20;47000;2350
-CMM Inspection;Program / Fixture Setup;2023;1;6;11400;1900
-CMM Inspection;Planned Maintenance;2023;1;8;22800;2850
-CMM Inspection;Probe Calibration;2023;1;10;27500;2750
-CMM Inspection;Operator Absence;2023;1;13;39650;3050
-CMM Inspection;Unplanned Breakdown;2023;1;10;32500;3250
-CMM Inspection;Program / Fixture Setup;2023;2;15;34500;2300
-CMM Inspection;Planned Maintenance;2023;2;9;23850;2650
-CMM Inspection;Probe Calibration;2023;2;10;26000;2600
-CMM Inspection;Operator Absence;2023;2;6;15600;2600
-CMM Inspection;Unplanned Breakdown;2023;2;12;32400;2700
-CMM Inspection;Program / Fixture Setup;2023;3;11;22550;2050
-CMM Inspection;Planned Maintenance;2023;3;11;31350;2850
-CMM Inspection;Probe Calibration;2023;3;8;21600;2700
-CMM Inspection;Operator Absence;2023;3;12;30000;2500
-CMM Inspection;Unplanned Breakdown;2023;3;15;47250;3150
-CMM Inspection;Program / Fixture Setup;2023;4;37;70300;1900
-CMM Inspection;Planned Maintenance;2023;4;9;25650;2850
-CMM Inspection;Probe Calibration;2023;4;7;19600;2800
-CMM Inspection;Operator Absence;2023;4;3;8550;2850
-CMM Inspection;Unplanned Breakdown;2023;4;10;32000;3200
-CMM Inspection;Program / Fixture Setup;2023;5;20;41000;2050
-CMM Inspection;Planned Maintenance;2023;5;11;31900;2900
-CMM Inspection;Probe Calibration;2023;5;15;35250;2350
-CMM Inspection;Operator Absence;2023;5;11;24200;2200
-CMM Inspection;Unplanned Breakdown;2023;5;3;11250;3750
-CMM Inspection;Program / Fixture Setup;2023;6;15;31500;2100
-CMM Inspection;Planned Maintenance;2023;6;2;6000;3000
-CMM Inspection;Probe Calibration;2023;6;17;37400;2200
-CMM Inspection;Operator Absence;2023;6;23;52900;2300
-CMM Inspection;Unplanned Breakdown;2023;6;5;15250;3050
-CMM Inspection;Program / Fixture Setup;2023;7;23;44850;1950
-CMM Inspection;Planned Maintenance;2023;7;9;26550;2950
-CMM Inspection;Probe Calibration;2023;7;9;24300;2700
-CMM Inspection;Operator Absence;2023;7;14;37800;2700
-CMM Inspection;Unplanned Breakdown;2023;7;6;17400;2900
-CMM Inspection;Program / Fixture Setup;2023;8;23;58650;2550
-CMM Inspection;Planned Maintenance;2023;8;11;33550;3050
-CMM Inspection;Probe Calibration;2023;8;15;33750;2250
-CMM Inspection;Operator Absence;2023;8;6;14100;2350
-CMM Inspection;Unplanned Breakdown;2023;8;3;8550;2850
-CMM Inspection;Program / Fixture Setup;2023;9;26;58500;2250
-CMM Inspection;Planned Maintenance;2023;9;12;30600;2550
-CMM Inspection;Probe Calibration;2023;9;9;21600;2400
-CMM Inspection;Operator Absence;2023;9;9;22050;2450
-CMM Inspection;Unplanned Breakdown;2023;9;4;13200;3300
-CMM Inspection;Program / Fixture Setup;2023;10;6;12600;2100
-CMM Inspection;Planned Maintenance;2023;10;6;16500;2750
-CMM Inspection;Probe Calibration;2023;10;10;26500;2650
-CMM Inspection;Operator Absence;2023;10;34;64600;1900
-CMM Inspection;Unplanned Breakdown;2023;10;9;30150;3350
-CMM Inspection;Program / Fixture Setup;2023;11;16;34400;2150
-CMM Inspection;Planned Maintenance;2023;11;7;19250;2750
-CMM Inspection;Probe Calibration;2023;11;22;57200;2600
-CMM Inspection;Operator Absence;2023;11;7;20300;2900
-CMM Inspection;Unplanned Breakdown;2023;11;7;23100;3300
-CMM Inspection;Program / Fixture Setup;2023;12;30;70500;2350
-CMM Inspection;Planned Maintenance;2023;12;17;42500;2500
-CMM Inspection;Probe Calibration;2023;12;4;8800;2200
-CMM Inspection;Operator Absence;2023;12;5;9500;1900
-CMM Inspection;Unplanned Breakdown;2023;12;5;13750;2750
-CMM Inspection;Program / Fixture Setup;2024;1;23;43700;1900
-CMM Inspection;Planned Maintenance;2024;1;12;33000;2750
-CMM Inspection;Probe Calibration;2024;1;13;29250;2250
-CMM Inspection;Operator Absence;2024;1;15;33000;2200
-CMM Inspection;Unplanned Breakdown;2024;1;3;10950;3650
-CMM Inspection;Program / Fixture Setup;2024;2;41;79950;1950
-CMM Inspection;Planned Maintenance;2024;2;9;27450;3050
-CMM Inspection;Probe Calibration;2024;2;6;16500;2750
-CMM Inspection;Operator Absence;2024;2;4;9200;2300
-CMM Inspection;Unplanned Breakdown;2024;2;3;8850;2950
-CMM Inspection;Program / Fixture Setup;2024;3;32;67200;2100
-CMM Inspection;Planned Maintenance;2024;3;10;26500;2650
-CMM Inspection;Probe Calibration;2024;3;6;13500;2250
-CMM Inspection;Operator Absence;2024;3;2;5000;2500
-CMM Inspection;Unplanned Breakdown;2024;3;10;33500;3350
-CMM Inspection;Program / Fixture Setup;2024;4;35;68250;1950
-CMM Inspection;Planned Maintenance;2024;4;7;22400;3200
-CMM Inspection;Probe Calibration;2024;4;13;32500;2500
-CMM Inspection;Operator Absence;2024;4;8;18000;2250
-CMM Inspection;Unplanned Breakdown;2024;4;2;6100;3050
-CMM Inspection;Program / Fixture Setup;2024;5;18;36900;2050
-CMM Inspection;Planned Maintenance;2024;5;21;60900;2900
-CMM Inspection;Probe Calibration;2024;5;9;24750;2750
-CMM Inspection;Operator Absence;2024;5;5;12250;2450
-CMM Inspection;Unplanned Breakdown;2024;5;6;18300;3050
-CMM Inspection;Program / Fixture Setup;2024;6;24;42000;1750
-CMM Inspection;Planned Maintenance;2024;6;6;15000;2500
-CMM Inspection;Probe Calibration;2024;6;23;60950;2650
-CMM Inspection;Operator Absence;2024;6;6;14100;2350
-CMM Inspection;Unplanned Breakdown;2024;6;3;10650;3550
-CMM Inspection;Program / Fixture Setup;2024;7;27;59400;2200
-CMM Inspection;Planned Maintenance;2024;7;13;36400;2800
-CMM Inspection;Probe Calibration;2024;7;13;35750;2750
-CMM Inspection;Operator Absence;2024;7;7;19250;2750
-CMM Inspection;Unplanned Breakdown;2024;7;4;10800;2700
-CMM Inspection;Program / Fixture Setup;2024;8;27;58050;2150
-CMM Inspection;Planned Maintenance;2024;8;13;36400;2800
-CMM Inspection;Probe Calibration;2024;8;9;24300;2700
-CMM Inspection;Operator Absence;2024;8;5;14500;2900
-CMM Inspection;Unplanned Breakdown;2024;8;7;23450;3350
-CMM Inspection;Program / Fixture Setup;2024;9;37;68450;1850
-CMM Inspection;Planned Maintenance;2024;9;10;30500;3050
-CMM Inspection;Probe Calibration;2024;9;4;10400;2600
-CMM Inspection;Operator Absence;2024;9;11;27500;2500
-CMM Inspection;Unplanned Breakdown;2024;9;5;15750;3150
-CMM Inspection;Program / Fixture Setup;2024;10;14;27300;1950
-CMM Inspection;Planned Maintenance;2024;10;16;50400;3150
-CMM Inspection;Probe Calibration;2024;10;9;25650;2850
-CMM Inspection;Operator Absence;2024;10;12;31200;2600
-CMM Inspection;Unplanned Breakdown;2024;10;6;17700;2950
-CMM Inspection;Program / Fixture Setup;2024;11;21;35700;1700
-CMM Inspection;Planned Maintenance;2024;11;13;38350;2950
-CMM Inspection;Probe Calibration;2024;11;4;10800;2700
-CMM Inspection;Operator Absence;2024;11;18;51300;2850
-CMM Inspection;Unplanned Breakdown;2024;11;5;14000;2800
-CMM Inspection;Program / Fixture Setup;2024;12;15;35250;2350
-CMM Inspection;Planned Maintenance;2024;12;7;21000;3000
-CMM Inspection;Probe Calibration;2024;12;32;64000;2000
-CMM Inspection;Operator Absence;2024;12;6;14700;2450
-CMM Inspection;Unplanned Breakdown;2024;12;7;23800;3400
-CNC Lathe;Tool Breakage;2023;1;19;26600;1400
-CNC Lathe;Changeover / Setup;2023;1;29;59450;2050
-CNC Lathe;Planned Maintenance;2023;1;5;15750;3150
-CNC Lathe;Coolant System Issue;2023;1;3;7200;2400
-CNC Lathe;Unplanned Breakdown;2023;1;6;15900;2650
-CNC Lathe;Tool Breakage;2023;2;38;45600;1200
-CNC Lathe;Changeover / Setup;2023;2;14;24500;1750
-CNC Lathe;Planned Maintenance;2023;2;12;34800;2900
-CNC Lathe;Coolant System Issue;2023;2;1;2600;2600
-CNC Lathe;Unplanned Breakdown;2023;2;3;8850;2950
-CNC Lathe;Tool Breakage;2023;3;41;65600;1600
-CNC Lathe;Changeover / Setup;2023;3;5;9500;1900
-CNC Lathe;Planned Maintenance;2023;3;11;29150;2650
-CNC Lathe;Coolant System Issue;2023;3;1;2400;2400
-CNC Lathe;Unplanned Breakdown;2023;3;6;18600;3100
-CNC Lathe;Tool Breakage;2023;4;26;35100;1350
-CNC Lathe;Changeover / Setup;2023;4;7;15050;2150
-CNC Lathe;Planned Maintenance;2023;4;19;53200;2800
-CNC Lathe;Coolant System Issue;2023;4;4;13000;3250
-CNC Lathe;Unplanned Breakdown;2023;4;4;9400;2350
-CNC Lathe;Tool Breakage;2023;5;32;56000;1750
-CNC Lathe;Changeover / Setup;2023;5;10;19500;1950
-CNC Lathe;Planned Maintenance;2023;5;8;22800;2850
-CNC Lathe;Coolant System Issue;2023;5;8;19200;2400
-CNC Lathe;Unplanned Breakdown;2023;5;2;6100;3050
-CNC Lathe;Tool Breakage;2023;6;25;37500;1500
-CNC Lathe;Changeover / Setup;2023;6;19;37050;1950
-CNC Lathe;Planned Maintenance;2023;6;9;25200;2800
-CNC Lathe;Coolant System Issue;2023;6;2;3700;1850
-CNC Lathe;Unplanned Breakdown;2023;6;9;27000;3000
-CNC Lathe;Tool Breakage;2023;7;20;30000;1500
-CNC Lathe;Changeover / Setup;2023;7;19;33250;1750
-CNC Lathe;Planned Maintenance;2023;7;15;39000;2600
-CNC Lathe;Coolant System Issue;2023;7;5;14250;2850
-CNC Lathe;Unplanned Breakdown;2023;7;2;6300;3150
-CNC Lathe;Tool Breakage;2023;8;36;64800;1800
-CNC Lathe;Changeover / Setup;2023;8;5;13000;2600
-CNC Lathe;Planned Maintenance;2023;8;15;37500;2500
-CNC Lathe;Coolant System Issue;2023;8;1;2400;2400
-CNC Lathe;Unplanned Breakdown;2023;8;2;5200;2600
-CNC Lathe;Tool Breakage;2023;9;24;37200;1550
-CNC Lathe;Changeover / Setup;2023;9;9;14400;1600
-CNC Lathe;Planned Maintenance;2023;9;12;33000;2750
-CNC Lathe;Coolant System Issue;2023;9;10;26500;2650
-CNC Lathe;Unplanned Breakdown;2023;9;5;15500;3100
-CNC Lathe;Tool Breakage;2023;10;26;35100;1350
-CNC Lathe;Changeover / Setup;2023;10;9;17550;1950
-CNC Lathe;Planned Maintenance;2023;10;8;20800;2600
-CNC Lathe;Coolant System Issue;2023;10;18;38700;2150
-CNC Lathe;Unplanned Breakdown;2023;10;5;16250;3250
-CNC Lathe;Tool Breakage;2023;11;13;18200;1400
-CNC Lathe;Changeover / Setup;2023;11;10;22000;2200
-CNC Lathe;Planned Maintenance;2023;11;8;24000;3000
-CNC Lathe;Coolant System Issue;2023;11;18;38700;2150
-CNC Lathe;Unplanned Breakdown;2023;11;4;13600;3400
-CNC Lathe;Tool Breakage;2023;12;27;41850;1550
-CNC Lathe;Changeover / Setup;2023;12;17;32300;1900
-CNC Lathe;Planned Maintenance;2023;12;6;17400;2900
-CNC Lathe;Coolant System Issue;2023;12;1;2350;2350
-CNC Lathe;Unplanned Breakdown;2023;12;8;26000;3250
-CNC Lathe;Tool Breakage;2024;1;17;28900;1700
-CNC Lathe;Changeover / Setup;2024;1;15;27750;1850
-CNC Lathe;Planned Maintenance;2024;1;12;33000;2750
-CNC Lathe;Coolant System Issue;2024;1;4;10600;2650
-CNC Lathe;Unplanned Breakdown;2024;1;10;31500;3150
-CNC Lathe;Tool Breakage;2024;2;13;14950;1150
-CNC Lathe;Changeover / Setup;2024;2;12;25200;2100
-CNC Lathe;Planned Maintenance;2024;2;16;48800;3050
-CNC Lathe;Coolant System Issue;2024;2;7;14000;2000
-CNC Lathe;Unplanned Breakdown;2024;2;7;23100;3300
-CNC Lathe;Tool Breakage;2024;3;23;29900;1300
-CNC Lathe;Changeover / Setup;2024;3;16;32000;2000
-CNC Lathe;Planned Maintenance;2024;3;9;26550;2950
-CNC Lathe;Coolant System Issue;2024;3;2;5500;2750
-CNC Lathe;Unplanned Breakdown;2024;3;9;28350;3150
-CNC Lathe;Tool Breakage;2024;4;21;27300;1300
-CNC Lathe;Changeover / Setup;2024;4;11;26400;2400
-CNC Lathe;Planned Maintenance;2024;4;18;46800;2600
-CNC Lathe;Coolant System Issue;2024;4;8;20800;2600
-CNC Lathe;Unplanned Breakdown;2024;4;3;9300;3100
-CNC Lathe;Tool Breakage;2024;5;17;31450;1850
-CNC Lathe;Changeover / Setup;2024;5;8;19200;2400
-CNC Lathe;Planned Maintenance;2024;5;18;50400;2800
-CNC Lathe;Coolant System Issue;2024;5;4;12400;3100
-CNC Lathe;Unplanned Breakdown;2024;5;5;14500;2900
-CNC Lathe;Tool Breakage;2024;6;36;41400;1150
-CNC Lathe;Changeover / Setup;2024;6;13;24700;1900
-CNC Lathe;Planned Maintenance;2024;6;14;37800;2700
-CNC Lathe;Coolant System Issue;2024;6;1;2550;2550
-CNC Lathe;Unplanned Breakdown;2024;6;9;27450;3050
-CNC Lathe;Tool Breakage;2024;7;31;43400;1400
-CNC Lathe;Changeover / Setup;2024;7;6;14400;2400
-CNC Lathe;Planned Maintenance;2024;7;8;21200;2650
-CNC Lathe;Coolant System Issue;2024;7;12;30600;2550
-CNC Lathe;Unplanned Breakdown;2024;7;7;21350;3050
-CNC Lathe;Tool Breakage;2024;8;37;46250;1250
-CNC Lathe;Changeover / Setup;2024;8;12;23400;1950
-CNC Lathe;Planned Maintenance;2024;8;10;29000;2900
-CNC Lathe;Coolant System Issue;2024;8;6;13500;2250
-CNC Lathe;Unplanned Breakdown;2024;8;5;9750;1950
-CNC Lathe;Tool Breakage;2024;9;39;60450;1550
-CNC Lathe;Changeover / Setup;2024;9;11;23650;2150
-CNC Lathe;Planned Maintenance;2024;9;8;20400;2550
-CNC Lathe;Coolant System Issue;2024;9;5;11500;2300
-CNC Lathe;Unplanned Breakdown;2024;9;1;3050;3050
-CNC Lathe;Tool Breakage;2024;10;27;51300;1900
-CNC Lathe;Changeover / Setup;2024;10;13;24050;1850
-CNC Lathe;Planned Maintenance;2024;10;9;25650;2850
-CNC Lathe;Coolant System Issue;2024;10;3;8700;2900
-CNC Lathe;Unplanned Breakdown;2024;10;7;24150;3450
-CNC Lathe;Tool Breakage;2024;11;10;13500;1350
-CNC Lathe;Changeover / Setup;2024;11;19;35150;1850
-CNC Lathe;Planned Maintenance;2024;11;15;40500;2700
-CNC Lathe;Coolant System Issue;2024;11;4;9200;2300
-CNC Lathe;Unplanned Breakdown;2024;11;10;33000;3300
-CNC Lathe;Tool Breakage;2024;12;14;22400;1600
-CNC Lathe;Changeover / Setup;2024;12;13;24700;1900
-CNC Lathe;Planned Maintenance;2024;12;4;12000;3000
-CNC Lathe;Coolant System Issue;2024;12;11;30800;2800
-CNC Lathe;Unplanned Breakdown;2024;12;12;31200;2600
-CNC Milling;Changeover / Setup;2023;1;32;67200;2100
-CNC Milling;Program Error / Restart;2023;1;6;20400;3400
-CNC Milling;Tool Breakage;2023;1;12;16800;1400
-CNC Milling;Planned Maintenance;2023;1;10;28000;2800
-CNC Milling;Unplanned Breakdown;2023;1;3;8850;2950
-CNC Milling;Changeover / Setup;2023;2;21;48300;2300
-CNC Milling;Program Error / Restart;2023;2;6;17700;2950
-CNC Milling;Tool Breakage;2023;2;19;29450;1550
-CNC Milling;Planned Maintenance;2023;2;10;26000;2600
-CNC Milling;Unplanned Breakdown;2023;2;4;11800;2950
-CNC Milling;Changeover / Setup;2023;3;21;46200;2200
-CNC Milling;Program Error / Restart;2023;3;4;12000;3000
-CNC Milling;Tool Breakage;2023;3;26;45500;1750
-CNC Milling;Planned Maintenance;2023;3;9;24300;2700
-CNC Milling;Unplanned Breakdown;2023;3;3;9600;3200
-CNC Milling;Changeover / Setup;2023;4;22;40700;1850
-CNC Milling;Program Error / Restart;2023;4;6;18900;3150
-CNC Milling;Tool Breakage;2023;4;17;28050;1650
-CNC Milling;Planned Maintenance;2023;4;10;28500;2850
-CNC Milling;Unplanned Breakdown;2023;4;5;17250;3450
-CNC Milling;Changeover / Setup;2023;5;34;68000;2000
-CNC Milling;Program Error / Restart;2023;5;10;32000;3200
-CNC Milling;Tool Breakage;2023;5;10;12500;1250
-CNC Milling;Planned Maintenance;2023;5;4;12400;3100
-CNC Milling;Unplanned Breakdown;2023;5;8;22000;2750
-CNC Milling;Changeover / Setup;2023;6;6;13200;2200
-CNC Milling;Program Error / Restart;2023;6;12;36600;3050
-CNC Milling;Tool Breakage;2023;6;15;24000;1600
-CNC Milling;Planned Maintenance;2023;6;2;6300;3150
-CNC Milling;Unplanned Breakdown;2023;6;21;53550;2550
-CNC Milling;Changeover / Setup;2023;7;12;27600;2300
-CNC Milling;Program Error / Restart;2023;7;14;44100;3150
-CNC Milling;Tool Breakage;2023;7;19;28500;1500
-CNC Milling;Planned Maintenance;2023;7;11;30250;2750
-CNC Milling;Unplanned Breakdown;2023;7;2;7100;3550
-CNC Milling;Changeover / Setup;2023;8;25;53750;2150
-CNC Milling;Program Error / Restart;2023;8;4;13000;3250
-CNC Milling;Tool Breakage;2023;8;19;25650;1350
-CNC Milling;Planned Maintenance;2023;8;7;19950;2850
-CNC Milling;Unplanned Breakdown;2023;8;9;27000;3000
-CNC Milling;Changeover / Setup;2023;9;16;34400;2150
-CNC Milling;Program Error / Restart;2023;9;11;40150;3650
-CNC Milling;Tool Breakage;2023;9;10;15000;1500
-CNC Milling;Planned Maintenance;2023;9;10;30500;3050
-CNC Milling;Unplanned Breakdown;2023;9;4;10600;2650
-CNC Milling;Changeover / Setup;2023;10;26;53300;2050
-CNC Milling;Program Error / Restart;2023;10;13;35750;2750
-CNC Milling;Tool Breakage;2023;10;16;30400;1900
-CNC Milling;Planned Maintenance;2023;10;5;14000;2800
-CNC Milling;Unplanned Breakdown;2023;10;3;8400;2800
-CNC Milling;Changeover / Setup;2023;11;34;69700;2050
-CNC Milling;Program Error / Restart;2023;11;6;19500;3250
-CNC Milling;Tool Breakage;2023;11;11;17600;1600
-CNC Milling;Planned Maintenance;2023;11;3;8850;2950
-CNC Milling;Unplanned Breakdown;2023;11;7;19250;2750
-CNC Milling;Changeover / Setup;2023;12;26;45500;1750
-CNC Milling;Program Error / Restart;2023;12;6;17100;2850
-CNC Milling;Tool Breakage;2023;12;4;6600;1650
-CNC Milling;Planned Maintenance;2023;12;14;42000;3000
-CNC Milling;Unplanned Breakdown;2023;12;12;35400;2950
-CNC Milling;Changeover / Setup;2024;1;13;25350;1950
-CNC Milling;Program Error / Restart;2024;1;6;19800;3300
-CNC Milling;Tool Breakage;2024;1;25;42500;1700
-CNC Milling;Planned Maintenance;2024;1;9;27000;3000
-CNC Milling;Unplanned Breakdown;2024;1;16;38400;2400
-CNC Milling;Changeover / Setup;2024;2;14;27300;1950
-CNC Milling;Program Error / Restart;2024;2;5;14750;2950
-CNC Milling;Tool Breakage;2024;2;39;52650;1350
-CNC Milling;Planned Maintenance;2024;2;7;21700;3100
-CNC Milling;Unplanned Breakdown;2024;2;6;21300;3550
-CNC Milling;Changeover / Setup;2024;3;13;26000;2000
-CNC Milling;Program Error / Restart;2024;3;16;51200;3200
-CNC Milling;Tool Breakage;2024;3;27;36450;1350
-CNC Milling;Planned Maintenance;2024;3;11;30800;2800
-CNC Milling;Unplanned Breakdown;2024;3;5;14250;2850
-CNC Milling;Changeover / Setup;2024;4;21;35700;1700
-CNC Milling;Program Error / Restart;2024;4;7;21350;3050
-CNC Milling;Tool Breakage;2024;4;9;13500;1500
-CNC Milling;Planned Maintenance;2024;4;17;49300;2900
-CNC Milling;Unplanned Breakdown;2024;4;3;9450;3150
-CNC Milling;Changeover / Setup;2024;5;24;55200;2300
-CNC Milling;Program Error / Restart;2024;5;7;22750;3250
-CNC Milling;Tool Breakage;2024;5;22;31900;1450
-CNC Milling;Planned Maintenance;2024;5;10;30000;3000
-CNC Milling;Unplanned Breakdown;2024;5;1;2900;2900
-CNC Milling;Changeover / Setup;2024;6;21;38850;1850
-CNC Milling;Program Error / Restart;2024;6;10;31500;3150
-CNC Milling;Tool Breakage;2024;6;9;13950;1550
-CNC Milling;Planned Maintenance;2024;6;13;37700;2900
-CNC Milling;Unplanned Breakdown;2024;6;5;15250;3050
-CNC Milling;Changeover / Setup;2024;7;22;45100;2050
-CNC Milling;Program Error / Restart;2024;7;8;24400;3050
-CNC Milling;Tool Breakage;2024;7;9;19350;2150
-CNC Milling;Planned Maintenance;2024;7;5;13000;2600
-CNC Milling;Unplanned Breakdown;2024;7;18;47700;2650
-CNC Milling;Changeover / Setup;2024;8;29;50750;1750
-CNC Milling;Program Error / Restart;2024;8;18;56700;3150
-CNC Milling;Tool Breakage;2024;8;4;5400;1350
-CNC Milling;Planned Maintenance;2024;8;1;3100;3100
-CNC Milling;Unplanned Breakdown;2024;8;8;25200;3150
-CNC Milling;Changeover / Setup;2024;9;27;51300;1900
-CNC Milling;Program Error / Restart;2024;9;6;18900;3150
-CNC Milling;Tool Breakage;2024;9;12;15600;1300
-CNC Milling;Planned Maintenance;2024;9;11;31350;2850
-CNC Milling;Unplanned Breakdown;2024;9;5;16500;3300
-CNC Milling;Changeover / Setup;2024;10;22;49500;2250
-CNC Milling;Program Error / Restart;2024;10;4;10600;2650
-CNC Milling;Tool Breakage;2024;10;35;57750;1650
-CNC Milling;Planned Maintenance;2024;10;8;22800;2850
-CNC Milling;Unplanned Breakdown;2024;10;2;5400;2700
-CNC Milling;Changeover / Setup;2024;11;16;32800;2050
-CNC Milling;Program Error / Restart;2024;11;7;24500;3500
-CNC Milling;Tool Breakage;2024;11;26;44200;1700
-CNC Milling;Planned Maintenance;2024;11;4;12000;3000
-CNC Milling;Unplanned Breakdown;2024;11;8;26400;3300
-CNC Milling;Changeover / Setup;2024;12;12;26400;2200
-CNC Milling;Program Error / Restart;2024;12;6;19200;3200
-CNC Milling;Tool Breakage;2024;12;18;27900;1550
-CNC Milling;Planned Maintenance;2024;12;9;23850;2650
-CNC Milling;Unplanned Breakdown;2024;12;12;39600;3300
-EDM Wire-Cut;Wire Break;2023;1;12;32400;2700
-EDM Wire-Cut;Planned Maintenance;2023;1;4;10800;2700
-EDM Wire-Cut;Changeover / Setup;2023;1;17;36550;2150
-EDM Wire-Cut;Dielectric Fluid Change;2023;1;12;29400;2450
-EDM Wire-Cut;Unplanned Breakdown;2023;1;3;7500;2500
-EDM Wire-Cut;Wire Break;2023;2;10;22000;2200
-EDM Wire-Cut;Planned Maintenance;2023;2;19;48450;2550
-EDM Wire-Cut;Changeover / Setup;2023;2;4;7000;1750
-EDM Wire-Cut;Dielectric Fluid Change;2023;2;7;17150;2450
-EDM Wire-Cut;Unplanned Breakdown;2023;2;5;18250;3650
-EDM Wire-Cut;Wire Break;2023;3;16;39200;2450
-EDM Wire-Cut;Planned Maintenance;2023;3;6;15600;2600
-EDM Wire-Cut;Changeover / Setup;2023;3;8;17200;2150
-EDM Wire-Cut;Dielectric Fluid Change;2023;3;16;32800;2050
-EDM Wire-Cut;Unplanned Breakdown;2023;3;4;13200;3300
-EDM Wire-Cut;Wire Break;2023;4;10;21000;2100
-EDM Wire-Cut;Planned Maintenance;2023;4;11;28600;2600
-EDM Wire-Cut;Changeover / Setup;2023;4;17;28900;1700
-EDM Wire-Cut;Dielectric Fluid Change;2023;4;6;14700;2450
-EDM Wire-Cut;Unplanned Breakdown;2023;4;9;26100;2900
-EDM Wire-Cut;Wire Break;2023;5;13;37050;2850
-EDM Wire-Cut;Planned Maintenance;2023;5;8;22800;2850
-EDM Wire-Cut;Changeover / Setup;2023;5;7;14350;2050
-EDM Wire-Cut;Dielectric Fluid Change;2023;5;10;23500;2350
-EDM Wire-Cut;Unplanned Breakdown;2023;5;9;25200;2800
-EDM Wire-Cut;Wire Break;2023;6;17;41650;2450
-EDM Wire-Cut;Planned Maintenance;2023;6;9;25650;2850
-EDM Wire-Cut;Changeover / Setup;2023;6;11;21450;1950
-EDM Wire-Cut;Dielectric Fluid Change;2023;6;4;9200;2300
-EDM Wire-Cut;Unplanned Breakdown;2023;6;5;15500;3100
-EDM Wire-Cut;Wire Break;2023;7;20;54000;2700
-EDM Wire-Cut;Planned Maintenance;2023;7;3;8400;2800
-EDM Wire-Cut;Changeover / Setup;2023;7;9;18000;2000
-EDM Wire-Cut;Dielectric Fluid Change;2023;7;6;15300;2550
-EDM Wire-Cut;Unplanned Breakdown;2023;7;5;16500;3300
-EDM Wire-Cut;Wire Break;2023;8;11;25850;2350
-EDM Wire-Cut;Planned Maintenance;2023;8;12;30600;2550
-EDM Wire-Cut;Changeover / Setup;2023;8;4;8600;2150
-EDM Wire-Cut;Dielectric Fluid Change;2023;8;13;35750;2750
-EDM Wire-Cut;Unplanned Breakdown;2023;8;7;20300;2900
-EDM Wire-Cut;Wire Break;2023;9;12;33000;2750
-EDM Wire-Cut;Planned Maintenance;2023;9;7;20300;2900
-EDM Wire-Cut;Changeover / Setup;2023;9;4;6400;1600
-EDM Wire-Cut;Dielectric Fluid Change;2023;9;10;26000;2600
-EDM Wire-Cut;Unplanned Breakdown;2023;9;9;31500;3500
-EDM Wire-Cut;Wire Break;2023;10;5;10250;2050
-EDM Wire-Cut;Planned Maintenance;2023;10;13;37050;2850
-EDM Wire-Cut;Changeover / Setup;2023;10;15;30000;2000
-EDM Wire-Cut;Dielectric Fluid Change;2023;10;8;18000;2250
-EDM Wire-Cut;Unplanned Breakdown;2023;10;11;26400;2400
-EDM Wire-Cut;Wire Break;2023;11;15;45750;3050
-EDM Wire-Cut;Planned Maintenance;2023;11;4;11200;2800
-EDM Wire-Cut;Changeover / Setup;2023;11;6;15000;2500
-EDM Wire-Cut;Dielectric Fluid Change;2023;11;3;7650;2550
-EDM Wire-Cut;Unplanned Breakdown;2023;11;10;31500;3150
-EDM Wire-Cut;Wire Break;2023;12;20;50000;2500
-EDM Wire-Cut;Planned Maintenance;2023;12;11;29700;2700
-EDM Wire-Cut;Changeover / Setup;2023;12;1;1950;1950
-EDM Wire-Cut;Dielectric Fluid Change;2023;12;11;28050;2550
-EDM Wire-Cut;Unplanned Breakdown;2023;12;2;6000;3000
-EDM Wire-Cut;Wire Break;2024;1;20;53000;2650
-EDM Wire-Cut;Planned Maintenance;2024;1;3;8700;2900
-EDM Wire-Cut;Changeover / Setup;2024;1;1;1850;1850
-EDM Wire-Cut;Dielectric Fluid Change;2024;1;7;19950;2850
-EDM Wire-Cut;Unplanned Breakdown;2024;1;10;29000;2900
-EDM Wire-Cut;Wire Break;2024;2;14;32200;2300
-EDM Wire-Cut;Planned Maintenance;2024;2;8;22000;2750
-EDM Wire-Cut;Changeover / Setup;2024;2;4;8800;2200
-EDM Wire-Cut;Dielectric Fluid Change;2024;2;18;38700;2150
-EDM Wire-Cut;Unplanned Breakdown;2024;2;7;19600;2800
-EDM Wire-Cut;Wire Break;2024;3;13;36400;2800
-EDM Wire-Cut;Planned Maintenance;2024;3;8;22400;2800
-EDM Wire-Cut;Changeover / Setup;2024;3;11;22550;2050
-EDM Wire-Cut;Dielectric Fluid Change;2024;3;12;33000;2750
-EDM Wire-Cut;Unplanned Breakdown;2024;3;4;11400;2850
-EDM Wire-Cut;Wire Break;2024;4;9;16650;1850
-EDM Wire-Cut;Planned Maintenance;2024;4;13;35750;2750
-EDM Wire-Cut;Changeover / Setup;2024;4;8;17600;2200
-EDM Wire-Cut;Dielectric Fluid Change;2024;4;17;39950;2350
-EDM Wire-Cut;Unplanned Breakdown;2024;4;2;6500;3250
-EDM Wire-Cut;Wire Break;2024;5;21;49350;2350
-EDM Wire-Cut;Planned Maintenance;2024;5;10;30000;3000
-EDM Wire-Cut;Changeover / Setup;2024;5;10;17500;1750
-EDM Wire-Cut;Dielectric Fluid Change;2024;5;4;11000;2750
-EDM Wire-Cut;Unplanned Breakdown;2024;5;7;20300;2900
-EDM Wire-Cut;Wire Break;2024;6;21;63000;3000
-EDM Wire-Cut;Planned Maintenance;2024;6;3;8250;2750
-EDM Wire-Cut;Changeover / Setup;2024;6;5;9500;1900
-EDM Wire-Cut;Dielectric Fluid Change;2024;6;12;27600;2300
-EDM Wire-Cut;Unplanned Breakdown;2024;6;4;11400;2850
-EDM Wire-Cut;Wire Break;2024;7;7;19600;2800
-EDM Wire-Cut;Planned Maintenance;2024;7;14;42000;3000
-EDM Wire-Cut;Changeover / Setup;2024;7;4;8200;2050
-EDM Wire-Cut;Dielectric Fluid Change;2024;7;6;14700;2450
-EDM Wire-Cut;Unplanned Breakdown;2024;7;13;46800;3600
-EDM Wire-Cut;Wire Break;2024;8;17;37400;2200
-EDM Wire-Cut;Planned Maintenance;2024;8;9;28350;3150
-EDM Wire-Cut;Changeover / Setup;2024;8;2;3700;1850
-EDM Wire-Cut;Dielectric Fluid Change;2024;8;18;44100;2450
-EDM Wire-Cut;Unplanned Breakdown;2024;8;1;2800;2800
-EDM Wire-Cut;Wire Break;2024;9;18;41400;2300
-EDM Wire-Cut;Planned Maintenance;2024;9;7;21000;3000
-EDM Wire-Cut;Changeover / Setup;2024;9;9;21150;2350
-EDM Wire-Cut;Dielectric Fluid Change;2024;9;5;12000;2400
-EDM Wire-Cut;Unplanned Breakdown;2024;9;7;23800;3400
-EDM Wire-Cut;Wire Break;2024;10;16;39200;2450
-EDM Wire-Cut;Planned Maintenance;2024;10;9;26100;2900
-EDM Wire-Cut;Changeover / Setup;2024;10;18;32400;1800
-EDM Wire-Cut;Dielectric Fluid Change;2024;10;10;21500;2150
-EDM Wire-Cut;Unplanned Breakdown;2024;10;2;5900;2950
-EDM Wire-Cut;Wire Break;2024;11;10;26000;2600
-EDM Wire-Cut;Planned Maintenance;2024;11;8;23200;2900
-EDM Wire-Cut;Changeover / Setup;2024;11;11;25300;2300
-EDM Wire-Cut;Dielectric Fluid Change;2024;11;9;18900;2100
-EDM Wire-Cut;Unplanned Breakdown;2024;11;9;27900;3100
-EDM Wire-Cut;Wire Break;2024;12;18;44100;2450
-EDM Wire-Cut;Planned Maintenance;2024;12;7;21350;3050
-EDM Wire-Cut;Changeover / Setup;2024;12;3;6150;2050
-EDM Wire-Cut;Dielectric Fluid Change;2024;12;9;22500;2500
-EDM Wire-Cut;Unplanned Breakdown;2024;12;8;26000;3250
-Surface Grinder;Wheel Dressing;2023;1;8;19200;2400
-Surface Grinder;Planned Maintenance;2023;1;4;10800;2700
-Surface Grinder;Coolant System Issue;2023;1;4;10200;2550
-Surface Grinder;Changeover / Setup;2023;1;21;40950;1950
-Surface Grinder;Unplanned Breakdown;2023;1;17;50150;2950
-Surface Grinder;Wheel Dressing;2023;2;16;41600;2600
-Surface Grinder;Planned Maintenance;2023;2;12;34800;2900
-Surface Grinder;Coolant System Issue;2023;2;13;35750;2750
-Surface Grinder;Changeover / Setup;2023;2;3;5250;1750
-Surface Grinder;Unplanned Breakdown;2023;2;3;10650;3550
-Surface Grinder;Wheel Dressing;2023;3;26;61100;2350
-Surface Grinder;Planned Maintenance;2023;3;4;11800;2950
-Surface Grinder;Coolant System Issue;2023;3;13;34450;2650
-Surface Grinder;Changeover / Setup;2023;3;6;11400;1900
-Surface Grinder;Unplanned Breakdown;2023;3;5;13500;2700
-Surface Grinder;Wheel Dressing;2023;4;12;31200;2600
-Surface Grinder;Planned Maintenance;2023;4;6;16800;2800
-Surface Grinder;Coolant System Issue;2023;4;2;4900;2450
-Surface Grinder;Changeover / Setup;2023;4;31;65100;2100
-Surface Grinder;Unplanned Breakdown;2023;4;2;5500;2750
-Surface Grinder;Wheel Dressing;2023;5;26;65000;2500
-Surface Grinder;Planned Maintenance;2023;5;7;21000;3000
-Surface Grinder;Coolant System Issue;2023;5;9;20250;2250
-Surface Grinder;Changeover / Setup;2023;5;15;31500;2100
-Surface Grinder;Unplanned Breakdown;2023;5;2;6300;3150
-Surface Grinder;Wheel Dressing;2023;6;14;39900;2850
-Surface Grinder;Planned Maintenance;2023;6;5;15000;3000
-Surface Grinder;Coolant System Issue;2023;6;11;29150;2650
-Surface Grinder;Changeover / Setup;2023;6;4;8800;2200
-Surface Grinder;Unplanned Breakdown;2023;6;11;28600;2600
-Surface Grinder;Wheel Dressing;2023;7;8;19200;2400
-Surface Grinder;Planned Maintenance;2023;7;3;8250;2750
-Surface Grinder;Coolant System Issue;2023;7;15;34500;2300
-Surface Grinder;Changeover / Setup;2023;7;8;16800;2100
-Surface Grinder;Unplanned Breakdown;2023;7;17;53550;3150
-Surface Grinder;Wheel Dressing;2023;8;9;23400;2600
-Surface Grinder;Planned Maintenance;2023;8;10;28500;2850
-Surface Grinder;Coolant System Issue;2023;8;23;54050;2350
-Surface Grinder;Changeover / Setup;2023;8;8;16400;2050
-Surface Grinder;Unplanned Breakdown;2023;8;3;10050;3350
-Surface Grinder;Wheel Dressing;2023;9;3;6900;2300
-Surface Grinder;Planned Maintenance;2023;9;14;37800;2700
-Surface Grinder;Coolant System Issue;2023;9;5;11750;2350
-Surface Grinder;Changeover / Setup;2023;9;19;38950;2050
-Surface Grinder;Unplanned Breakdown;2023;9;11;31900;2900
-Surface Grinder;Wheel Dressing;2023;10;18;48600;2700
-Surface Grinder;Planned Maintenance;2023;10;6;18600;3100
-Surface Grinder;Coolant System Issue;2023;10;13;31850;2450
-Surface Grinder;Changeover / Setup;2023;10;9;18000;2000
-Surface Grinder;Unplanned Breakdown;2023;10;4;11400;2850
-Surface Grinder;Wheel Dressing;2023;11;21;55650;2650
-Surface Grinder;Planned Maintenance;2023;11;11;31350;2850
-Surface Grinder;Coolant System Issue;2023;11;2;5000;2500
-Surface Grinder;Changeover / Setup;2023;11;4;8600;2150
-Surface Grinder;Unplanned Breakdown;2023;11;11;29700;2700
-Surface Grinder;Wheel Dressing;2023;12;18;53100;2950
-Surface Grinder;Planned Maintenance;2023;12;8;22000;2750
-Surface Grinder;Coolant System Issue;2023;12;7;16800;2400
-Surface Grinder;Changeover / Setup;2023;12;9;15300;1700
-Surface Grinder;Unplanned Breakdown;2023;12;7;21000;3000
-Surface Grinder;Wheel Dressing;2024;1;19;42750;2250
-Surface Grinder;Planned Maintenance;2024;1;5;12250;2450
-Surface Grinder;Coolant System Issue;2024;1;17;39100;2300
-Surface Grinder;Changeover / Setup;2024;1;12;22200;1850
-Surface Grinder;Unplanned Breakdown;2024;1;7;19250;2750
-Surface Grinder;Wheel Dressing;2024;2;19;44650;2350
-Surface Grinder;Planned Maintenance;2024;2;10;25000;2500
-Surface Grinder;Coolant System Issue;2024;2;14;35000;2500
-Surface Grinder;Changeover / Setup;2024;2;7;11550;1650
-Surface Grinder;Unplanned Breakdown;2024;2;4;10400;2600
-Surface Grinder;Wheel Dressing;2024;3;23;48300;2100
-Surface Grinder;Planned Maintenance;2024;3;7;20650;2950
-Surface Grinder;Coolant System Issue;2024;3;7;17500;2500
-Surface Grinder;Changeover / Setup;2024;3;11;21450;1950
-Surface Grinder;Unplanned Breakdown;2024;3;7;21700;3100
-Surface Grinder;Wheel Dressing;2024;4;25;50000;2000
-Surface Grinder;Planned Maintenance;2024;4;3;8100;2700
-Surface Grinder;Coolant System Issue;2024;4;17;41650;2450
-Surface Grinder;Changeover / Setup;2024;4;2;5000;2500
-Surface Grinder;Unplanned Breakdown;2024;4;5;15250;3050
-Surface Grinder;Wheel Dressing;2024;5;14;36400;2600
-Surface Grinder;Planned Maintenance;2024;5;6;16500;2750
-Surface Grinder;Coolant System Issue;2024;5;17;42500;2500
-Surface Grinder;Changeover / Setup;2024;5;8;18000;2250
-Surface Grinder;Unplanned Breakdown;2024;5;7;24150;3450
-Surface Grinder;Wheel Dressing;2024;6;26;74100;2850
-Surface Grinder;Planned Maintenance;2024;6;10;30500;3050
-Surface Grinder;Coolant System Issue;2024;6;3;6600;2200
-Surface Grinder;Changeover / Setup;2024;6;2;4900;2450
-Surface Grinder;Unplanned Breakdown;2024;6;7;19600;2800
-Surface Grinder;Wheel Dressing;2024;7;11;25850;2350
-Surface Grinder;Planned Maintenance;2024;7;14;37800;2700
-Surface Grinder;Coolant System Issue;2024;7;11;27500;2500
-Surface Grinder;Changeover / Setup;2024;7;16;32800;2050
-Surface Grinder;Unplanned Breakdown;2024;7;4;12000;3000
-Surface Grinder;Wheel Dressing;2024;8;16;50400;3150
-Surface Grinder;Planned Maintenance;2024;8;12;32400;2700
-Surface Grinder;Coolant System Issue;2024;8;11;23650;2150
-Surface Grinder;Changeover / Setup;2024;8;5;10250;2050
-Surface Grinder;Unplanned Breakdown;2024;8;5;17250;3450
-Surface Grinder;Wheel Dressing;2024;9;11;27500;2500
-Surface Grinder;Planned Maintenance;2024;9;8;22400;2800
-Surface Grinder;Coolant System Issue;2024;9;13;33800;2600
-Surface Grinder;Changeover / Setup;2024;9;11;18150;1650
-Surface Grinder;Unplanned Breakdown;2024;9;13;37050;2850
-Surface Grinder;Wheel Dressing;2024;10;30;75000;2500
-Surface Grinder;Planned Maintenance;2024;10;12;30600;2550
-Surface Grinder;Coolant System Issue;2024;10;5;11750;2350
-Surface Grinder;Changeover / Setup;2024;10;6;12600;2100
-Surface Grinder;Unplanned Breakdown;2024;10;4;12000;3000
-Surface Grinder;Wheel Dressing;2024;11;12;30600;2550
-Surface Grinder;Planned Maintenance;2024;11;21;57750;2750
-Surface Grinder;Coolant System Issue;2024;11;7;15050;2150
-Surface Grinder;Changeover / Setup;2024;11;9;18000;2000
-Surface Grinder;Unplanned Breakdown;2024;11;4;12200;3050
-Surface Grinder;Wheel Dressing;2024;12;31;71300;2300
-Surface Grinder;Planned Maintenance;2024;12;10;29500;2950
-Surface Grinder;Coolant System Issue;2024;12;5;10250;2050
-Surface Grinder;Changeover / Setup;2024;12;4;7400;1850
-Surface Grinder;Unplanned Breakdown;2024;12;3;8850;2950
+Machine,Downtime_Reason,Year,Month_Num,Occurrences,Total_Downtime [sec],Avg_Downtime [sec]
+Band Saw,Blade Change,2023,1,23,43700,1900
+Band Saw,Planned Maintenance,2023,1,3,8400,2800
+Band Saw,Unplanned Breakdown,2023,1,10,29000,2900
+Band Saw,Material Shortage,2023,1,7,15750,2250
+Band Saw,Changeover / Setup,2023,1,20,44000,2200
+Band Saw,Blade Change,2023,2,7,12600,1800
+Band Saw,Planned Maintenance,2023,2,7,21350,3050
+Band Saw,Unplanned Breakdown,2023,2,10,33500,3350
+Band Saw,Material Shortage,2023,2,14,28700,2050
+Band Saw,Changeover / Setup,2023,2,20,34000,1700
+Band Saw,Blade Change,2023,3,27,54000,2000
+Band Saw,Planned Maintenance,2023,3,6,17700,2950
+Band Saw,Unplanned Breakdown,2023,3,7,21000,3000
+Band Saw,Material Shortage,2023,3,3,6000,2000
+Band Saw,Changeover / Setup,2023,3,16,32000,2000
+Band Saw,Blade Change,2023,4,27,52650,1950
+Band Saw,Planned Maintenance,2023,4,8,23200,2900
+Band Saw,Unplanned Breakdown,2023,4,5,14250,2850
+Band Saw,Material Shortage,2023,4,8,12400,1550
+Band Saw,Changeover / Setup,2023,4,12,27000,2250
+Band Saw,Blade Change,2023,5,20,40000,2000
+Band Saw,Planned Maintenance,2023,5,11,30800,2800
+Band Saw,Unplanned Breakdown,2023,5,6,19800,3300
+Band Saw,Material Shortage,2023,5,8,17600,2200
+Band Saw,Changeover / Setup,2023,5,11,25300,2300
+Band Saw,Blade Change,2023,6,6,10500,1750
+Band Saw,Planned Maintenance,2023,6,10,29500,2950
+Band Saw,Unplanned Breakdown,2023,6,10,30000,3000
+Band Saw,Material Shortage,2023,6,6,12600,2100
+Band Saw,Changeover / Setup,2023,6,22,40700,1850
+Band Saw,Blade Change,2023,7,32,68800,2150
+Band Saw,Planned Maintenance,2023,7,11,30800,2800
+Band Saw,Unplanned Breakdown,2023,7,6,17100,2850
+Band Saw,Material Shortage,2023,7,4,7600,1900
+Band Saw,Changeover / Setup,2023,7,5,10000,2000
+Band Saw,Blade Change,2023,8,14,26600,1900
+Band Saw,Planned Maintenance,2023,8,10,28500,2850
+Band Saw,Unplanned Breakdown,2023,8,3,8850,2950
+Band Saw,Material Shortage,2023,8,14,37100,2650
+Band Saw,Changeover / Setup,2023,8,18,37800,2100
+Band Saw,Blade Change,2023,9,13,28600,2200
+Band Saw,Planned Maintenance,2023,9,12,34200,2850
+Band Saw,Unplanned Breakdown,2023,9,7,22050,3150
+Band Saw,Material Shortage,2023,9,9,17550,1950
+Band Saw,Changeover / Setup,2023,9,18,33300,1850
+Band Saw,Blade Change,2023,10,42,84000,2000
+Band Saw,Planned Maintenance,2023,10,6,13500,2250
+Band Saw,Unplanned Breakdown,2023,10,2,6300,3150
+Band Saw,Material Shortage,2023,10,5,10500,2100
+Band Saw,Changeover / Setup,2023,10,9,18000,2000
+Band Saw,Blade Change,2023,11,15,27750,1850
+Band Saw,Planned Maintenance,2023,11,10,30500,3050
+Band Saw,Unplanned Breakdown,2023,11,4,11600,2900
+Band Saw,Material Shortage,2023,11,17,31450,1850
+Band Saw,Changeover / Setup,2023,11,15,30750,2050
+Band Saw,Blade Change,2023,12,16,32000,2000
+Band Saw,Planned Maintenance,2023,12,9,28800,3200
+Band Saw,Unplanned Breakdown,2023,12,4,13600,3400
+Band Saw,Material Shortage,2023,12,6,13200,2200
+Band Saw,Changeover / Setup,2023,12,25,43750,1750
+Band Saw,Blade Change,2024,1,14,25900,1850
+Band Saw,Planned Maintenance,2024,1,18,48600,2700
+Band Saw,Unplanned Breakdown,2024,1,8,22400,2800
+Band Saw,Material Shortage,2024,1,6,13800,2300
+Band Saw,Changeover / Setup,2024,1,24,38400,1600
+Band Saw,Blade Change,2024,2,20,40000,2000
+Band Saw,Planned Maintenance,2024,2,6,15900,2650
+Band Saw,Unplanned Breakdown,2024,2,1,2650,2650
+Band Saw,Material Shortage,2024,2,11,23100,2100
+Band Saw,Changeover / Setup,2024,2,21,45150,2150
+Band Saw,Blade Change,2024,3,29,58000,2000
+Band Saw,Planned Maintenance,2024,3,10,28500,2850
+Band Saw,Unplanned Breakdown,2024,3,2,6200,3100
+Band Saw,Material Shortage,2024,3,14,29400,2100
+Band Saw,Changeover / Setup,2024,3,6,10800,1800
+Band Saw,Blade Change,2024,4,14,31500,2250
+Band Saw,Planned Maintenance,2024,4,19,49400,2600
+Band Saw,Unplanned Breakdown,2024,4,4,13800,3450
+Band Saw,Material Shortage,2024,4,8,16400,2050
+Band Saw,Changeover / Setup,2024,4,13,26000,2000
+Band Saw,Blade Change,2024,5,10,19500,1950
+Band Saw,Planned Maintenance,2024,5,14,39900,2850
+Band Saw,Unplanned Breakdown,2024,5,4,10000,2500
+Band Saw,Material Shortage,2024,5,28,53200,1900
+Band Saw,Changeover / Setup,2024,5,4,8800,2200
+Band Saw,Blade Change,2024,6,20,42000,2100
+Band Saw,Planned Maintenance,2024,6,4,12000,3000
+Band Saw,Unplanned Breakdown,2024,6,3,10350,3450
+Band Saw,Material Shortage,2024,6,17,38250,2250
+Band Saw,Changeover / Setup,2024,6,15,32250,2150
+Band Saw,Blade Change,2024,7,22,45100,2050
+Band Saw,Planned Maintenance,2024,7,9,25200,2800
+Band Saw,Unplanned Breakdown,2024,7,10,31000,3100
+Band Saw,Material Shortage,2024,7,5,13000,2600
+Band Saw,Changeover / Setup,2024,7,14,24500,1750
+Band Saw,Blade Change,2024,8,15,30750,2050
+Band Saw,Planned Maintenance,2024,8,10,26500,2650
+Band Saw,Unplanned Breakdown,2024,8,1,3200,3200
+Band Saw,Material Shortage,2024,8,16,35200,2200
+Band Saw,Changeover / Setup,2024,8,27,48600,1800
+Band Saw,Blade Change,2024,9,30,52500,1750
+Band Saw,Planned Maintenance,2024,9,5,15500,3100
+Band Saw,Unplanned Breakdown,2024,9,3,8550,2850
+Band Saw,Material Shortage,2024,9,6,10800,1800
+Band Saw,Changeover / Setup,2024,9,23,43700,1900
+Band Saw,Blade Change,2024,10,33,67650,2050
+Band Saw,Planned Maintenance,2024,10,6,18000,3000
+Band Saw,Unplanned Breakdown,2024,10,1,3000,3000
+Band Saw,Material Shortage,2024,10,4,7600,1900
+Band Saw,Changeover / Setup,2024,10,19,39900,2100
+Band Saw,Blade Change,2024,11,25,41250,1650
+Band Saw,Planned Maintenance,2024,11,12,32400,2700
+Band Saw,Unplanned Breakdown,2024,11,6,17400,2900
+Band Saw,Material Shortage,2024,11,1,1850,1850
+Band Saw,Changeover / Setup,2024,11,20,39000,1950
+Band Saw,Blade Change,2024,12,21,40950,1950
+Band Saw,Planned Maintenance,2024,12,5,14250,2850
+Band Saw,Unplanned Breakdown,2024,12,1,2800,2800
+Band Saw,Material Shortage,2024,12,12,29400,2450
+Band Saw,Changeover / Setup,2024,12,20,47000,2350
+CMM Inspection,Program / Fixture Setup,2023,1,6,11400,1900
+CMM Inspection,Planned Maintenance,2023,1,8,22800,2850
+CMM Inspection,Probe Calibration,2023,1,10,27500,2750
+CMM Inspection,Operator Absence,2023,1,13,39650,3050
+CMM Inspection,Unplanned Breakdown,2023,1,10,32500,3250
+CMM Inspection,Program / Fixture Setup,2023,2,15,34500,2300
+CMM Inspection,Planned Maintenance,2023,2,9,23850,2650
+CMM Inspection,Probe Calibration,2023,2,10,26000,2600
+CMM Inspection,Operator Absence,2023,2,6,15600,2600
+CMM Inspection,Unplanned Breakdown,2023,2,12,32400,2700
+CMM Inspection,Program / Fixture Setup,2023,3,11,22550,2050
+CMM Inspection,Planned Maintenance,2023,3,11,31350,2850
+CMM Inspection,Probe Calibration,2023,3,8,21600,2700
+CMM Inspection,Operator Absence,2023,3,12,30000,2500
+CMM Inspection,Unplanned Breakdown,2023,3,15,47250,3150
+CMM Inspection,Program / Fixture Setup,2023,4,37,70300,1900
+CMM Inspection,Planned Maintenance,2023,4,9,25650,2850
+CMM Inspection,Probe Calibration,2023,4,7,19600,2800
+CMM Inspection,Operator Absence,2023,4,3,8550,2850
+CMM Inspection,Unplanned Breakdown,2023,4,10,32000,3200
+CMM Inspection,Program / Fixture Setup,2023,5,20,41000,2050
+CMM Inspection,Planned Maintenance,2023,5,11,31900,2900
+CMM Inspection,Probe Calibration,2023,5,15,35250,2350
+CMM Inspection,Operator Absence,2023,5,11,24200,2200
+CMM Inspection,Unplanned Breakdown,2023,5,3,11250,3750
+CMM Inspection,Program / Fixture Setup,2023,6,15,31500,2100
+CMM Inspection,Planned Maintenance,2023,6,2,6000,3000
+CMM Inspection,Probe Calibration,2023,6,17,37400,2200
+CMM Inspection,Operator Absence,2023,6,23,52900,2300
+CMM Inspection,Unplanned Breakdown,2023,6,5,15250,3050
+CMM Inspection,Program / Fixture Setup,2023,7,23,44850,1950
+CMM Inspection,Planned Maintenance,2023,7,9,26550,2950
+CMM Inspection,Probe Calibration,2023,7,9,24300,2700
+CMM Inspection,Operator Absence,2023,7,14,37800,2700
+CMM Inspection,Unplanned Breakdown,2023,7,6,17400,2900
+CMM Inspection,Program / Fixture Setup,2023,8,23,58650,2550
+CMM Inspection,Planned Maintenance,2023,8,11,33550,3050
+CMM Inspection,Probe Calibration,2023,8,15,33750,2250
+CMM Inspection,Operator Absence,2023,8,6,14100,2350
+CMM Inspection,Unplanned Breakdown,2023,8,3,8550,2850
+CMM Inspection,Program / Fixture Setup,2023,9,26,58500,2250
+CMM Inspection,Planned Maintenance,2023,9,12,30600,2550
+CMM Inspection,Probe Calibration,2023,9,9,21600,2400
+CMM Inspection,Operator Absence,2023,9,9,22050,2450
+CMM Inspection,Unplanned Breakdown,2023,9,4,13200,3300
+CMM Inspection,Program / Fixture Setup,2023,10,6,12600,2100
+CMM Inspection,Planned Maintenance,2023,10,6,16500,2750
+CMM Inspection,Probe Calibration,2023,10,10,26500,2650
+CMM Inspection,Operator Absence,2023,10,34,64600,1900
+CMM Inspection,Unplanned Breakdown,2023,10,9,30150,3350
+CMM Inspection,Program / Fixture Setup,2023,11,16,34400,2150
+CMM Inspection,Planned Maintenance,2023,11,7,19250,2750
+CMM Inspection,Probe Calibration,2023,11,22,57200,2600
+CMM Inspection,Operator Absence,2023,11,7,20300,2900
+CMM Inspection,Unplanned Breakdown,2023,11,7,23100,3300
+CMM Inspection,Program / Fixture Setup,2023,12,30,70500,2350
+CMM Inspection,Planned Maintenance,2023,12,17,42500,2500
+CMM Inspection,Probe Calibration,2023,12,4,8800,2200
+CMM Inspection,Operator Absence,2023,12,5,9500,1900
+CMM Inspection,Unplanned Breakdown,2023,12,5,13750,2750
+CMM Inspection,Program / Fixture Setup,2024,1,23,43700,1900
+CMM Inspection,Planned Maintenance,2024,1,12,33000,2750
+CMM Inspection,Probe Calibration,2024,1,13,29250,2250
+CMM Inspection,Operator Absence,2024,1,15,33000,2200
+CMM Inspection,Unplanned Breakdown,2024,1,3,10950,3650
+CMM Inspection,Program / Fixture Setup,2024,2,41,79950,1950
+CMM Inspection,Planned Maintenance,2024,2,9,27450,3050
+CMM Inspection,Probe Calibration,2024,2,6,16500,2750
+CMM Inspection,Operator Absence,2024,2,4,9200,2300
+CMM Inspection,Unplanned Breakdown,2024,2,3,8850,2950
+CMM Inspection,Program / Fixture Setup,2024,3,32,67200,2100
+CMM Inspection,Planned Maintenance,2024,3,10,26500,2650
+CMM Inspection,Probe Calibration,2024,3,6,13500,2250
+CMM Inspection,Operator Absence,2024,3,2,5000,2500
+CMM Inspection,Unplanned Breakdown,2024,3,10,33500,3350
+CMM Inspection,Program / Fixture Setup,2024,4,35,68250,1950
+CMM Inspection,Planned Maintenance,2024,4,7,22400,3200
+CMM Inspection,Probe Calibration,2024,4,13,32500,2500
+CMM Inspection,Operator Absence,2024,4,8,18000,2250
+CMM Inspection,Unplanned Breakdown,2024,4,2,6100,3050
+CMM Inspection,Program / Fixture Setup,2024,5,18,36900,2050
+CMM Inspection,Planned Maintenance,2024,5,21,60900,2900
+CMM Inspection,Probe Calibration,2024,5,9,24750,2750
+CMM Inspection,Operator Absence,2024,5,5,12250,2450
+CMM Inspection,Unplanned Breakdown,2024,5,6,18300,3050
+CMM Inspection,Program / Fixture Setup,2024,6,24,42000,1750
+CMM Inspection,Planned Maintenance,2024,6,6,15000,2500
+CMM Inspection,Probe Calibration,2024,6,23,60950,2650
+CMM Inspection,Operator Absence,2024,6,6,14100,2350
+CMM Inspection,Unplanned Breakdown,2024,6,3,10650,3550
+CMM Inspection,Program / Fixture Setup,2024,7,27,59400,2200
+CMM Inspection,Planned Maintenance,2024,7,13,36400,2800
+CMM Inspection,Probe Calibration,2024,7,13,35750,2750
+CMM Inspection,Operator Absence,2024,7,7,19250,2750
+CMM Inspection,Unplanned Breakdown,2024,7,4,10800,2700
+CMM Inspection,Program / Fixture Setup,2024,8,27,58050,2150
+CMM Inspection,Planned Maintenance,2024,8,13,36400,2800
+CMM Inspection,Probe Calibration,2024,8,9,24300,2700
+CMM Inspection,Operator Absence,2024,8,5,14500,2900
+CMM Inspection,Unplanned Breakdown,2024,8,7,23450,3350
+CMM Inspection,Program / Fixture Setup,2024,9,37,68450,1850
+CMM Inspection,Planned Maintenance,2024,9,10,30500,3050
+CMM Inspection,Probe Calibration,2024,9,4,10400,2600
+CMM Inspection,Operator Absence,2024,9,11,27500,2500
+CMM Inspection,Unplanned Breakdown,2024,9,5,15750,3150
+CMM Inspection,Program / Fixture Setup,2024,10,14,27300,1950
+CMM Inspection,Planned Maintenance,2024,10,16,50400,3150
+CMM Inspection,Probe Calibration,2024,10,9,25650,2850
+CMM Inspection,Operator Absence,2024,10,12,31200,2600
+CMM Inspection,Unplanned Breakdown,2024,10,6,17700,2950
+CMM Inspection,Program / Fixture Setup,2024,11,21,35700,1700
+CMM Inspection,Planned Maintenance,2024,11,13,38350,2950
+CMM Inspection,Probe Calibration,2024,11,4,10800,2700
+CMM Inspection,Operator Absence,2024,11,18,51300,2850
+CMM Inspection,Unplanned Breakdown,2024,11,5,14000,2800
+CMM Inspection,Program / Fixture Setup,2024,12,15,35250,2350
+CMM Inspection,Planned Maintenance,2024,12,7,21000,3000
+CMM Inspection,Probe Calibration,2024,12,32,64000,2000
+CMM Inspection,Operator Absence,2024,12,6,14700,2450
+CMM Inspection,Unplanned Breakdown,2024,12,7,23800,3400
+CNC Lathe,Tool Breakage,2023,1,19,26600,1400
+CNC Lathe,Changeover / Setup,2023,1,29,59450,2050
+CNC Lathe,Planned Maintenance,2023,1,5,15750,3150
+CNC Lathe,Coolant System Issue,2023,1,3,7200,2400
+CNC Lathe,Unplanned Breakdown,2023,1,6,15900,2650
+CNC Lathe,Tool Breakage,2023,2,38,45600,1200
+CNC Lathe,Changeover / Setup,2023,2,14,24500,1750
+CNC Lathe,Planned Maintenance,2023,2,12,34800,2900
+CNC Lathe,Coolant System Issue,2023,2,1,2600,2600
+CNC Lathe,Unplanned Breakdown,2023,2,3,8850,2950
+CNC Lathe,Tool Breakage,2023,3,41,65600,1600
+CNC Lathe,Changeover / Setup,2023,3,5,9500,1900
+CNC Lathe,Planned Maintenance,2023,3,11,29150,2650
+CNC Lathe,Coolant System Issue,2023,3,1,2400,2400
+CNC Lathe,Unplanned Breakdown,2023,3,6,18600,3100
+CNC Lathe,Tool Breakage,2023,4,26,35100,1350
+CNC Lathe,Changeover / Setup,2023,4,7,15050,2150
+CNC Lathe,Planned Maintenance,2023,4,19,53200,2800
+CNC Lathe,Coolant System Issue,2023,4,4,13000,3250
+CNC Lathe,Unplanned Breakdown,2023,4,4,9400,2350
+CNC Lathe,Tool Breakage,2023,5,32,56000,1750
+CNC Lathe,Changeover / Setup,2023,5,10,19500,1950
+CNC Lathe,Planned Maintenance,2023,5,8,22800,2850
+CNC Lathe,Coolant System Issue,2023,5,8,19200,2400
+CNC Lathe,Unplanned Breakdown,2023,5,2,6100,3050
+CNC Lathe,Tool Breakage,2023,6,25,37500,1500
+CNC Lathe,Changeover / Setup,2023,6,19,37050,1950
+CNC Lathe,Planned Maintenance,2023,6,9,25200,2800
+CNC Lathe,Coolant System Issue,2023,6,2,3700,1850
+CNC Lathe,Unplanned Breakdown,2023,6,9,27000,3000
+CNC Lathe,Tool Breakage,2023,7,20,30000,1500
+CNC Lathe,Changeover / Setup,2023,7,19,33250,1750
+CNC Lathe,Planned Maintenance,2023,7,15,39000,2600
+CNC Lathe,Coolant System Issue,2023,7,5,14250,2850
+CNC Lathe,Unplanned Breakdown,2023,7,2,6300,3150
+CNC Lathe,Tool Breakage,2023,8,36,64800,1800
+CNC Lathe,Changeover / Setup,2023,8,5,13000,2600
+CNC Lathe,Planned Maintenance,2023,8,15,37500,2500
+CNC Lathe,Coolant System Issue,2023,8,1,2400,2400
+CNC Lathe,Unplanned Breakdown,2023,8,2,5200,2600
+CNC Lathe,Tool Breakage,2023,9,24,37200,1550
+CNC Lathe,Changeover / Setup,2023,9,9,14400,1600
+CNC Lathe,Planned Maintenance,2023,9,12,33000,2750
+CNC Lathe,Coolant System Issue,2023,9,10,26500,2650
+CNC Lathe,Unplanned Breakdown,2023,9,5,15500,3100
+CNC Lathe,Tool Breakage,2023,10,26,35100,1350
+CNC Lathe,Changeover / Setup,2023,10,9,17550,1950
+CNC Lathe,Planned Maintenance,2023,10,8,20800,2600
+CNC Lathe,Coolant System Issue,2023,10,18,38700,2150
+CNC Lathe,Unplanned Breakdown,2023,10,5,16250,3250
+CNC Lathe,Tool Breakage,2023,11,13,18200,1400
+CNC Lathe,Changeover / Setup,2023,11,10,22000,2200
+CNC Lathe,Planned Maintenance,2023,11,8,24000,3000
+CNC Lathe,Coolant System Issue,2023,11,18,38700,2150
+CNC Lathe,Unplanned Breakdown,2023,11,4,13600,3400
+CNC Lathe,Tool Breakage,2023,12,27,41850,1550
+CNC Lathe,Changeover / Setup,2023,12,17,32300,1900
+CNC Lathe,Planned Maintenance,2023,12,6,17400,2900
+CNC Lathe,Coolant System Issue,2023,12,1,2350,2350
+CNC Lathe,Unplanned Breakdown,2023,12,8,26000,3250
+CNC Lathe,Tool Breakage,2024,1,17,28900,1700
+CNC Lathe,Changeover / Setup,2024,1,15,27750,1850
+CNC Lathe,Planned Maintenance,2024,1,12,33000,2750
+CNC Lathe,Coolant System Issue,2024,1,4,10600,2650
+CNC Lathe,Unplanned Breakdown,2024,1,10,31500,3150
+CNC Lathe,Tool Breakage,2024,2,13,14950,1150
+CNC Lathe,Changeover / Setup,2024,2,12,25200,2100
+CNC Lathe,Planned Maintenance,2024,2,16,48800,3050
+CNC Lathe,Coolant System Issue,2024,2,7,14000,2000
+CNC Lathe,Unplanned Breakdown,2024,2,7,23100,3300
+CNC Lathe,Tool Breakage,2024,3,23,29900,1300
+CNC Lathe,Changeover / Setup,2024,3,16,32000,2000
+CNC Lathe,Planned Maintenance,2024,3,9,26550,2950
+CNC Lathe,Coolant System Issue,2024,3,2,5500,2750
+CNC Lathe,Unplanned Breakdown,2024,3,9,28350,3150
+CNC Lathe,Tool Breakage,2024,4,21,27300,1300
+CNC Lathe,Changeover / Setup,2024,4,11,26400,2400
+CNC Lathe,Planned Maintenance,2024,4,18,46800,2600
+CNC Lathe,Coolant System Issue,2024,4,8,20800,2600
+CNC Lathe,Unplanned Breakdown,2024,4,3,9300,3100
+CNC Lathe,Tool Breakage,2024,5,17,31450,1850
+CNC Lathe,Changeover / Setup,2024,5,8,19200,2400
+CNC Lathe,Planned Maintenance,2024,5,18,50400,2800
+CNC Lathe,Coolant System Issue,2024,5,4,12400,3100
+CNC Lathe,Unplanned Breakdown,2024,5,5,14500,2900
+CNC Lathe,Tool Breakage,2024,6,36,41400,1150
+CNC Lathe,Changeover / Setup,2024,6,13,24700,1900
+CNC Lathe,Planned Maintenance,2024,6,14,37800,2700
+CNC Lathe,Coolant System Issue,2024,6,1,2550,2550
+CNC Lathe,Unplanned Breakdown,2024,6,9,27450,3050
+CNC Lathe,Tool Breakage,2024,7,31,43400,1400
+CNC Lathe,Changeover / Setup,2024,7,6,14400,2400
+CNC Lathe,Planned Maintenance,2024,7,8,21200,2650
+CNC Lathe,Coolant System Issue,2024,7,12,30600,2550
+CNC Lathe,Unplanned Breakdown,2024,7,7,21350,3050
+CNC Lathe,Tool Breakage,2024,8,37,46250,1250
+CNC Lathe,Changeover / Setup,2024,8,12,23400,1950
+CNC Lathe,Planned Maintenance,2024,8,10,29000,2900
+CNC Lathe,Coolant System Issue,2024,8,6,13500,2250
+CNC Lathe,Unplanned Breakdown,2024,8,5,9750,1950
+CNC Lathe,Tool Breakage,2024,9,39,60450,1550
+CNC Lathe,Changeover / Setup,2024,9,11,23650,2150
+CNC Lathe,Planned Maintenance,2024,9,8,20400,2550
+CNC Lathe,Coolant System Issue,2024,9,5,11500,2300
+CNC Lathe,Unplanned Breakdown,2024,9,1,3050,3050
+CNC Lathe,Tool Breakage,2024,10,27,51300,1900
+CNC Lathe,Changeover / Setup,2024,10,13,24050,1850
+CNC Lathe,Planned Maintenance,2024,10,9,25650,2850
+CNC Lathe,Coolant System Issue,2024,10,3,8700,2900
+CNC Lathe,Unplanned Breakdown,2024,10,7,24150,3450
+CNC Lathe,Tool Breakage,2024,11,10,13500,1350
+CNC Lathe,Changeover / Setup,2024,11,19,35150,1850
+CNC Lathe,Planned Maintenance,2024,11,15,40500,2700
+CNC Lathe,Coolant System Issue,2024,11,4,9200,2300
+CNC Lathe,Unplanned Breakdown,2024,11,10,33000,3300
+CNC Lathe,Tool Breakage,2024,12,14,22400,1600
+CNC Lathe,Changeover / Setup,2024,12,13,24700,1900
+CNC Lathe,Planned Maintenance,2024,12,4,12000,3000
+CNC Lathe,Coolant System Issue,2024,12,11,30800,2800
+CNC Lathe,Unplanned Breakdown,2024,12,12,31200,2600
+CNC Milling,Changeover / Setup,2023,1,32,67200,2100
+CNC Milling,Program Error / Restart,2023,1,6,20400,3400
+CNC Milling,Tool Breakage,2023,1,12,16800,1400
+CNC Milling,Planned Maintenance,2023,1,10,28000,2800
+CNC Milling,Unplanned Breakdown,2023,1,3,8850,2950
+CNC Milling,Changeover / Setup,2023,2,21,48300,2300
+CNC Milling,Program Error / Restart,2023,2,6,17700,2950
+CNC Milling,Tool Breakage,2023,2,19,29450,1550
+CNC Milling,Planned Maintenance,2023,2,10,26000,2600
+CNC Milling,Unplanned Breakdown,2023,2,4,11800,2950
+CNC Milling,Changeover / Setup,2023,3,21,46200,2200
+CNC Milling,Program Error / Restart,2023,3,4,12000,3000
+CNC Milling,Tool Breakage,2023,3,26,45500,1750
+CNC Milling,Planned Maintenance,2023,3,9,24300,2700
+CNC Milling,Unplanned Breakdown,2023,3,3,9600,3200
+CNC Milling,Changeover / Setup,2023,4,22,40700,1850
+CNC Milling,Program Error / Restart,2023,4,6,18900,3150
+CNC Milling,Tool Breakage,2023,4,17,28050,1650
+CNC Milling,Planned Maintenance,2023,4,10,28500,2850
+CNC Milling,Unplanned Breakdown,2023,4,5,17250,3450
+CNC Milling,Changeover / Setup,2023,5,34,68000,2000
+CNC Milling,Program Error / Restart,2023,5,10,32000,3200
+CNC Milling,Tool Breakage,2023,5,10,12500,1250
+CNC Milling,Planned Maintenance,2023,5,4,12400,3100
+CNC Milling,Unplanned Breakdown,2023,5,8,22000,2750
+CNC Milling,Changeover / Setup,2023,6,6,13200,2200
+CNC Milling,Program Error / Restart,2023,6,12,36600,3050
+CNC Milling,Tool Breakage,2023,6,15,24000,1600
+CNC Milling,Planned Maintenance,2023,6,2,6300,3150
+CNC Milling,Unplanned Breakdown,2023,6,21,53550,2550
+CNC Milling,Changeover / Setup,2023,7,12,27600,2300
+CNC Milling,Program Error / Restart,2023,7,14,44100,3150
+CNC Milling,Tool Breakage,2023,7,19,28500,1500
+CNC Milling,Planned Maintenance,2023,7,11,30250,2750
+CNC Milling,Unplanned Breakdown,2023,7,2,7100,3550
+CNC Milling,Changeover / Setup,2023,8,25,53750,2150
+CNC Milling,Program Error / Restart,2023,8,4,13000,3250
+CNC Milling,Tool Breakage,2023,8,19,25650,1350
+CNC Milling,Planned Maintenance,2023,8,7,19950,2850
+CNC Milling,Unplanned Breakdown,2023,8,9,27000,3000
+CNC Milling,Changeover / Setup,2023,9,16,34400,2150
+CNC Milling,Program Error / Restart,2023,9,11,40150,3650
+CNC Milling,Tool Breakage,2023,9,10,15000,1500
+CNC Milling,Planned Maintenance,2023,9,10,30500,3050
+CNC Milling,Unplanned Breakdown,2023,9,4,10600,2650
+CNC Milling,Changeover / Setup,2023,10,26,53300,2050
+CNC Milling,Program Error / Restart,2023,10,13,35750,2750
+CNC Milling,Tool Breakage,2023,10,16,30400,1900
+CNC Milling,Planned Maintenance,2023,10,5,14000,2800
+CNC Milling,Unplanned Breakdown,2023,10,3,8400,2800
+CNC Milling,Changeover / Setup,2023,11,34,69700,2050
+CNC Milling,Program Error / Restart,2023,11,6,19500,3250
+CNC Milling,Tool Breakage,2023,11,11,17600,1600
+CNC Milling,Planned Maintenance,2023,11,3,8850,2950
+CNC Milling,Unplanned Breakdown,2023,11,7,19250,2750
+CNC Milling,Changeover / Setup,2023,12,26,45500,1750
+CNC Milling,Program Error / Restart,2023,12,6,17100,2850
+CNC Milling,Tool Breakage,2023,12,4,6600,1650
+CNC Milling,Planned Maintenance,2023,12,14,42000,3000
+CNC Milling,Unplanned Breakdown,2023,12,12,35400,2950
+CNC Milling,Changeover / Setup,2024,1,13,25350,1950
+CNC Milling,Program Error / Restart,2024,1,6,19800,3300
+CNC Milling,Tool Breakage,2024,1,25,42500,1700
+CNC Milling,Planned Maintenance,2024,1,9,27000,3000
+CNC Milling,Unplanned Breakdown,2024,1,16,38400,2400
+CNC Milling,Changeover / Setup,2024,2,14,27300,1950
+CNC Milling,Program Error / Restart,2024,2,5,14750,2950
+CNC Milling,Tool Breakage,2024,2,39,52650,1350
+CNC Milling,Planned Maintenance,2024,2,7,21700,3100
+CNC Milling,Unplanned Breakdown,2024,2,6,21300,3550
+CNC Milling,Changeover / Setup,2024,3,13,26000,2000
+CNC Milling,Program Error / Restart,2024,3,16,51200,3200
+CNC Milling,Tool Breakage,2024,3,27,36450,1350
+CNC Milling,Planned Maintenance,2024,3,11,30800,2800
+CNC Milling,Unplanned Breakdown,2024,3,5,14250,2850
+CNC Milling,Changeover / Setup,2024,4,21,35700,1700
+CNC Milling,Program Error / Restart,2024,4,7,21350,3050
+CNC Milling,Tool Breakage,2024,4,9,13500,1500
+CNC Milling,Planned Maintenance,2024,4,17,49300,2900
+CNC Milling,Unplanned Breakdown,2024,4,3,9450,3150
+CNC Milling,Changeover / Setup,2024,5,24,55200,2300
+CNC Milling,Program Error / Restart,2024,5,7,22750,3250
+CNC Milling,Tool Breakage,2024,5,22,31900,1450
+CNC Milling,Planned Maintenance,2024,5,10,30000,3000
+CNC Milling,Unplanned Breakdown,2024,5,1,2900,2900
+CNC Milling,Changeover / Setup,2024,6,21,38850,1850
+CNC Milling,Program Error / Restart,2024,6,10,31500,3150
+CNC Milling,Tool Breakage,2024,6,9,13950,1550
+CNC Milling,Planned Maintenance,2024,6,13,37700,2900
+CNC Milling,Unplanned Breakdown,2024,6,5,15250,3050
+CNC Milling,Changeover / Setup,2024,7,22,45100,2050
+CNC Milling,Program Error / Restart,2024,7,8,24400,3050
+CNC Milling,Tool Breakage,2024,7,9,19350,2150
+CNC Milling,Planned Maintenance,2024,7,5,13000,2600
+CNC Milling,Unplanned Breakdown,2024,7,18,47700,2650
+CNC Milling,Changeover / Setup,2024,8,29,50750,1750
+CNC Milling,Program Error / Restart,2024,8,18,56700,3150
+CNC Milling,Tool Breakage,2024,8,4,5400,1350
+CNC Milling,Planned Maintenance,2024,8,1,3100,3100
+CNC Milling,Unplanned Breakdown,2024,8,8,25200,3150
+CNC Milling,Changeover / Setup,2024,9,27,51300,1900
+CNC Milling,Program Error / Restart,2024,9,6,18900,3150
+CNC Milling,Tool Breakage,2024,9,12,15600,1300
+CNC Milling,Planned Maintenance,2024,9,11,31350,2850
+CNC Milling,Unplanned Breakdown,2024,9,5,16500,3300
+CNC Milling,Changeover / Setup,2024,10,22,49500,2250
+CNC Milling,Program Error / Restart,2024,10,4,10600,2650
+CNC Milling,Tool Breakage,2024,10,35,57750,1650
+CNC Milling,Planned Maintenance,2024,10,8,22800,2850
+CNC Milling,Unplanned Breakdown,2024,10,2,5400,2700
+CNC Milling,Changeover / Setup,2024,11,16,32800,2050
+CNC Milling,Program Error / Restart,2024,11,7,24500,3500
+CNC Milling,Tool Breakage,2024,11,26,44200,1700
+CNC Milling,Planned Maintenance,2024,11,4,12000,3000
+CNC Milling,Unplanned Breakdown,2024,11,8,26400,3300
+CNC Milling,Changeover / Setup,2024,12,12,26400,2200
+CNC Milling,Program Error / Restart,2024,12,6,19200,3200
+CNC Milling,Tool Breakage,2024,12,18,27900,1550
+CNC Milling,Planned Maintenance,2024,12,9,23850,2650
+CNC Milling,Unplanned Breakdown,2024,12,12,39600,3300
+EDM Wire-Cut,Wire Break,2023,1,12,32400,2700
+EDM Wire-Cut,Planned Maintenance,2023,1,4,10800,2700
+EDM Wire-Cut,Changeover / Setup,2023,1,17,36550,2150
+EDM Wire-Cut,Dielectric Fluid Change,2023,1,12,29400,2450
+EDM Wire-Cut,Unplanned Breakdown,2023,1,3,7500,2500
+EDM Wire-Cut,Wire Break,2023,2,10,22000,2200
+EDM Wire-Cut,Planned Maintenance,2023,2,19,48450,2550
+EDM Wire-Cut,Changeover / Setup,2023,2,4,7000,1750
+EDM Wire-Cut,Dielectric Fluid Change,2023,2,7,17150,2450
+EDM Wire-Cut,Unplanned Breakdown,2023,2,5,18250,3650
+EDM Wire-Cut,Wire Break,2023,3,16,39200,2450
+EDM Wire-Cut,Planned Maintenance,2023,3,6,15600,2600
+EDM Wire-Cut,Changeover / Setup,2023,3,8,17200,2150
+EDM Wire-Cut,Dielectric Fluid Change,2023,3,16,32800,2050
+EDM Wire-Cut,Unplanned Breakdown,2023,3,4,13200,3300
+EDM Wire-Cut,Wire Break,2023,4,10,21000,2100
+EDM Wire-Cut,Planned Maintenance,2023,4,11,28600,2600
+EDM Wire-Cut,Changeover / Setup,2023,4,17,28900,1700
+EDM Wire-Cut,Dielectric Fluid Change,2023,4,6,14700,2450
+EDM Wire-Cut,Unplanned Breakdown,2023,4,9,26100,2900
+EDM Wire-Cut,Wire Break,2023,5,13,37050,2850
+EDM Wire-Cut,Planned Maintenance,2023,5,8,22800,2850
+EDM Wire-Cut,Changeover / Setup,2023,5,7,14350,2050
+EDM Wire-Cut,Dielectric Fluid Change,2023,5,10,23500,2350
+EDM Wire-Cut,Unplanned Breakdown,2023,5,9,25200,2800
+EDM Wire-Cut,Wire Break,2023,6,17,41650,2450
+EDM Wire-Cut,Planned Maintenance,2023,6,9,25650,2850
+EDM Wire-Cut,Changeover / Setup,2023,6,11,21450,1950
+EDM Wire-Cut,Dielectric Fluid Change,2023,6,4,9200,2300
+EDM Wire-Cut,Unplanned Breakdown,2023,6,5,15500,3100
+EDM Wire-Cut,Wire Break,2023,7,20,54000,2700
+EDM Wire-Cut,Planned Maintenance,2023,7,3,8400,2800
+EDM Wire-Cut,Changeover / Setup,2023,7,9,18000,2000
+EDM Wire-Cut,Dielectric Fluid Change,2023,7,6,15300,2550
+EDM Wire-Cut,Unplanned Breakdown,2023,7,5,16500,3300
+EDM Wire-Cut,Wire Break,2023,8,11,25850,2350
+EDM Wire-Cut,Planned Maintenance,2023,8,12,30600,2550
+EDM Wire-Cut,Changeover / Setup,2023,8,4,8600,2150
+EDM Wire-Cut,Dielectric Fluid Change,2023,8,13,35750,2750
+EDM Wire-Cut,Unplanned Breakdown,2023,8,7,20300,2900
+EDM Wire-Cut,Wire Break,2023,9,12,33000,2750
+EDM Wire-Cut,Planned Maintenance,2023,9,7,20300,2900
+EDM Wire-Cut,Changeover / Setup,2023,9,4,6400,1600
+EDM Wire-Cut,Dielectric Fluid Change,2023,9,10,26000,2600
+EDM Wire-Cut,Unplanned Breakdown,2023,9,9,31500,3500
+EDM Wire-Cut,Wire Break,2023,10,5,10250,2050
+EDM Wire-Cut,Planned Maintenance,2023,10,13,37050,2850
+EDM Wire-Cut,Changeover / Setup,2023,10,15,30000,2000
+EDM Wire-Cut,Dielectric Fluid Change,2023,10,8,18000,2250
+EDM Wire-Cut,Unplanned Breakdown,2023,10,11,26400,2400
+EDM Wire-Cut,Wire Break,2023,11,15,45750,3050
+EDM Wire-Cut,Planned Maintenance,2023,11,4,11200,2800
+EDM Wire-Cut,Changeover / Setup,2023,11,6,15000,2500
+EDM Wire-Cut,Dielectric Fluid Change,2023,11,3,7650,2550
+EDM Wire-Cut,Unplanned Breakdown,2023,11,10,31500,3150
+EDM Wire-Cut,Wire Break,2023,12,20,50000,2500
+EDM Wire-Cut,Planned Maintenance,2023,12,11,29700,2700
+EDM Wire-Cut,Changeover / Setup,2023,12,1,1950,1950
+EDM Wire-Cut,Dielectric Fluid Change,2023,12,11,28050,2550
+EDM Wire-Cut,Unplanned Breakdown,2023,12,2,6000,3000
+EDM Wire-Cut,Wire Break,2024,1,20,53000,2650
+EDM Wire-Cut,Planned Maintenance,2024,1,3,8700,2900
+EDM Wire-Cut,Changeover / Setup,2024,1,1,1850,1850
+EDM Wire-Cut,Dielectric Fluid Change,2024,1,7,19950,2850
+EDM Wire-Cut,Unplanned Breakdown,2024,1,10,29000,2900
+EDM Wire-Cut,Wire Break,2024,2,14,32200,2300
+EDM Wire-Cut,Planned Maintenance,2024,2,8,22000,2750
+EDM Wire-Cut,Changeover / Setup,2024,2,4,8800,2200
+EDM Wire-Cut,Dielectric Fluid Change,2024,2,18,38700,2150
+EDM Wire-Cut,Unplanned Breakdown,2024,2,7,19600,2800
+EDM Wire-Cut,Wire Break,2024,3,13,36400,2800
+EDM Wire-Cut,Planned Maintenance,2024,3,8,22400,2800
+EDM Wire-Cut,Changeover / Setup,2024,3,11,22550,2050
+EDM Wire-Cut,Dielectric Fluid Change,2024,3,12,33000,2750
+EDM Wire-Cut,Unplanned Breakdown,2024,3,4,11400,2850
+EDM Wire-Cut,Wire Break,2024,4,9,16650,1850
+EDM Wire-Cut,Planned Maintenance,2024,4,13,35750,2750
+EDM Wire-Cut,Changeover / Setup,2024,4,8,17600,2200
+EDM Wire-Cut,Dielectric Fluid Change,2024,4,17,39950,2350
+EDM Wire-Cut,Unplanned Breakdown,2024,4,2,6500,3250
+EDM Wire-Cut,Wire Break,2024,5,21,49350,2350
+EDM Wire-Cut,Planned Maintenance,2024,5,10,30000,3000
+EDM Wire-Cut,Changeover / Setup,2024,5,10,17500,1750
+EDM Wire-Cut,Dielectric Fluid Change,2024,5,4,11000,2750
+EDM Wire-Cut,Unplanned Breakdown,2024,5,7,20300,2900
+EDM Wire-Cut,Wire Break,2024,6,21,63000,3000
+EDM Wire-Cut,Planned Maintenance,2024,6,3,8250,2750
+EDM Wire-Cut,Changeover / Setup,2024,6,5,9500,1900
+EDM Wire-Cut,Dielectric Fluid Change,2024,6,12,27600,2300
+EDM Wire-Cut,Unplanned Breakdown,2024,6,4,11400,2850
+EDM Wire-Cut,Wire Break,2024,7,7,19600,2800
+EDM Wire-Cut,Planned Maintenance,2024,7,14,42000,3000
+EDM Wire-Cut,Changeover / Setup,2024,7,4,8200,2050
+EDM Wire-Cut,Dielectric Fluid Change,2024,7,6,14700,2450
+EDM Wire-Cut,Unplanned Breakdown,2024,7,13,46800,3600
+EDM Wire-Cut,Wire Break,2024,8,17,37400,2200
+EDM Wire-Cut,Planned Maintenance,2024,8,9,28350,3150
+EDM Wire-Cut,Changeover / Setup,2024,8,2,3700,1850
+EDM Wire-Cut,Dielectric Fluid Change,2024,8,18,44100,2450
+EDM Wire-Cut,Unplanned Breakdown,2024,8,1,2800,2800
+EDM Wire-Cut,Wire Break,2024,9,18,41400,2300
+EDM Wire-Cut,Planned Maintenance,2024,9,7,21000,3000
+EDM Wire-Cut,Changeover / Setup,2024,9,9,21150,2350
+EDM Wire-Cut,Dielectric Fluid Change,2024,9,5,12000,2400
+EDM Wire-Cut,Unplanned Breakdown,2024,9,7,23800,3400
+EDM Wire-Cut,Wire Break,2024,10,16,39200,2450
+EDM Wire-Cut,Planned Maintenance,2024,10,9,26100,2900
+EDM Wire-Cut,Changeover / Setup,2024,10,18,32400,1800
+EDM Wire-Cut,Dielectric Fluid Change,2024,10,10,21500,2150
+EDM Wire-Cut,Unplanned Breakdown,2024,10,2,5900,2950
+EDM Wire-Cut,Wire Break,2024,11,10,26000,2600
+EDM Wire-Cut,Planned Maintenance,2024,11,8,23200,2900
+EDM Wire-Cut,Changeover / Setup,2024,11,11,25300,2300
+EDM Wire-Cut,Dielectric Fluid Change,2024,11,9,18900,2100
+EDM Wire-Cut,Unplanned Breakdown,2024,11,9,27900,3100
+EDM Wire-Cut,Wire Break,2024,12,18,44100,2450
+EDM Wire-Cut,Planned Maintenance,2024,12,7,21350,3050
+EDM Wire-Cut,Changeover / Setup,2024,12,3,6150,2050
+EDM Wire-Cut,Dielectric Fluid Change,2024,12,9,22500,2500
+EDM Wire-Cut,Unplanned Breakdown,2024,12,8,26000,3250
+Surface Grinder,Wheel Dressing,2023,1,8,19200,2400
+Surface Grinder,Planned Maintenance,2023,1,4,10800,2700
+Surface Grinder,Coolant System Issue,2023,1,4,10200,2550
+Surface Grinder,Changeover / Setup,2023,1,21,40950,1950
+Surface Grinder,Unplanned Breakdown,2023,1,17,50150,2950
+Surface Grinder,Wheel Dressing,2023,2,16,41600,2600
+Surface Grinder,Planned Maintenance,2023,2,12,34800,2900
+Surface Grinder,Coolant System Issue,2023,2,13,35750,2750
+Surface Grinder,Changeover / Setup,2023,2,3,5250,1750
+Surface Grinder,Unplanned Breakdown,2023,2,3,10650,3550
+Surface Grinder,Wheel Dressing,2023,3,26,61100,2350
+Surface Grinder,Planned Maintenance,2023,3,4,11800,2950
+Surface Grinder,Coolant System Issue,2023,3,13,34450,2650
+Surface Grinder,Changeover / Setup,2023,3,6,11400,1900
+Surface Grinder,Unplanned Breakdown,2023,3,5,13500,2700
+Surface Grinder,Wheel Dressing,2023,4,12,31200,2600
+Surface Grinder,Planned Maintenance,2023,4,6,16800,2800
+Surface Grinder,Coolant System Issue,2023,4,2,4900,2450
+Surface Grinder,Changeover / Setup,2023,4,31,65100,2100
+Surface Grinder,Unplanned Breakdown,2023,4,2,5500,2750
+Surface Grinder,Wheel Dressing,2023,5,26,65000,2500
+Surface Grinder,Planned Maintenance,2023,5,7,21000,3000
+Surface Grinder,Coolant System Issue,2023,5,9,20250,2250
+Surface Grinder,Changeover / Setup,2023,5,15,31500,2100
+Surface Grinder,Unplanned Breakdown,2023,5,2,6300,3150
+Surface Grinder,Wheel Dressing,2023,6,14,39900,2850
+Surface Grinder,Planned Maintenance,2023,6,5,15000,3000
+Surface Grinder,Coolant System Issue,2023,6,11,29150,2650
+Surface Grinder,Changeover / Setup,2023,6,4,8800,2200
+Surface Grinder,Unplanned Breakdown,2023,6,11,28600,2600
+Surface Grinder,Wheel Dressing,2023,7,8,19200,2400
+Surface Grinder,Planned Maintenance,2023,7,3,8250,2750
+Surface Grinder,Coolant System Issue,2023,7,15,34500,2300
+Surface Grinder,Changeover / Setup,2023,7,8,16800,2100
+Surface Grinder,Unplanned Breakdown,2023,7,17,53550,3150
+Surface Grinder,Wheel Dressing,2023,8,9,23400,2600
+Surface Grinder,Planned Maintenance,2023,8,10,28500,2850
+Surface Grinder,Coolant System Issue,2023,8,23,54050,2350
+Surface Grinder,Changeover / Setup,2023,8,8,16400,2050
+Surface Grinder,Unplanned Breakdown,2023,8,3,10050,3350
+Surface Grinder,Wheel Dressing,2023,9,3,6900,2300
+Surface Grinder,Planned Maintenance,2023,9,14,37800,2700
+Surface Grinder,Coolant System Issue,2023,9,5,11750,2350
+Surface Grinder,Changeover / Setup,2023,9,19,38950,2050
+Surface Grinder,Unplanned Breakdown,2023,9,11,31900,2900
+Surface Grinder,Wheel Dressing,2023,10,18,48600,2700
+Surface Grinder,Planned Maintenance,2023,10,6,18600,3100
+Surface Grinder,Coolant System Issue,2023,10,13,31850,2450
+Surface Grinder,Changeover / Setup,2023,10,9,18000,2000
+Surface Grinder,Unplanned Breakdown,2023,10,4,11400,2850
+Surface Grinder,Wheel Dressing,2023,11,21,55650,2650
+Surface Grinder,Planned Maintenance,2023,11,11,31350,2850
+Surface Grinder,Coolant System Issue,2023,11,2,5000,2500
+Surface Grinder,Changeover / Setup,2023,11,4,8600,2150
+Surface Grinder,Unplanned Breakdown,2023,11,11,29700,2700
+Surface Grinder,Wheel Dressing,2023,12,18,53100,2950
+Surface Grinder,Planned Maintenance,2023,12,8,22000,2750
+Surface Grinder,Coolant System Issue,2023,12,7,16800,2400
+Surface Grinder,Changeover / Setup,2023,12,9,15300,1700
+Surface Grinder,Unplanned Breakdown,2023,12,7,21000,3000
+Surface Grinder,Wheel Dressing,2024,1,19,42750,2250
+Surface Grinder,Planned Maintenance,2024,1,5,12250,2450
+Surface Grinder,Coolant System Issue,2024,1,17,39100,2300
+Surface Grinder,Changeover / Setup,2024,1,12,22200,1850
+Surface Grinder,Unplanned Breakdown,2024,1,7,19250,2750
+Surface Grinder,Wheel Dressing,2024,2,19,44650,2350
+Surface Grinder,Planned Maintenance,2024,2,10,25000,2500
+Surface Grinder,Coolant System Issue,2024,2,14,35000,2500
+Surface Grinder,Changeover / Setup,2024,2,7,11550,1650
+Surface Grinder,Unplanned Breakdown,2024,2,4,10400,2600
+Surface Grinder,Wheel Dressing,2024,3,23,48300,2100
+Surface Grinder,Planned Maintenance,2024,3,7,20650,2950
+Surface Grinder,Coolant System Issue,2024,3,7,17500,2500
+Surface Grinder,Changeover / Setup,2024,3,11,21450,1950
+Surface Grinder,Unplanned Breakdown,2024,3,7,21700,3100
+Surface Grinder,Wheel Dressing,2024,4,25,50000,2000
+Surface Grinder,Planned Maintenance,2024,4,3,8100,2700
+Surface Grinder,Coolant System Issue,2024,4,17,41650,2450
+Surface Grinder,Changeover / Setup,2024,4,2,5000,2500
+Surface Grinder,Unplanned Breakdown,2024,4,5,15250,3050
+Surface Grinder,Wheel Dressing,2024,5,14,36400,2600
+Surface Grinder,Planned Maintenance,2024,5,6,16500,2750
+Surface Grinder,Coolant System Issue,2024,5,17,42500,2500
+Surface Grinder,Changeover / Setup,2024,5,8,18000,2250
+Surface Grinder,Unplanned Breakdown,2024,5,7,24150,3450
+Surface Grinder,Wheel Dressing,2024,6,26,74100,2850
+Surface Grinder,Planned Maintenance,2024,6,10,30500,3050
+Surface Grinder,Coolant System Issue,2024,6,3,6600,2200
+Surface Grinder,Changeover / Setup,2024,6,2,4900,2450
+Surface Grinder,Unplanned Breakdown,2024,6,7,19600,2800
+Surface Grinder,Wheel Dressing,2024,7,11,25850,2350
+Surface Grinder,Planned Maintenance,2024,7,14,37800,2700
+Surface Grinder,Coolant System Issue,2024,7,11,27500,2500
+Surface Grinder,Changeover / Setup,2024,7,16,32800,2050
+Surface Grinder,Unplanned Breakdown,2024,7,4,12000,3000
+Surface Grinder,Wheel Dressing,2024,8,16,50400,3150
+Surface Grinder,Planned Maintenance,2024,8,12,32400,2700
+Surface Grinder,Coolant System Issue,2024,8,11,23650,2150
+Surface Grinder,Changeover / Setup,2024,8,5,10250,2050
+Surface Grinder,Unplanned Breakdown,2024,8,5,17250,3450
+Surface Grinder,Wheel Dressing,2024,9,11,27500,2500
+Surface Grinder,Planned Maintenance,2024,9,8,22400,2800
+Surface Grinder,Coolant System Issue,2024,9,13,33800,2600
+Surface Grinder,Changeover / Setup,2024,9,11,18150,1650
+Surface Grinder,Unplanned Breakdown,2024,9,13,37050,2850
+Surface Grinder,Wheel Dressing,2024,10,30,75000,2500
+Surface Grinder,Planned Maintenance,2024,10,12,30600,2550
+Surface Grinder,Coolant System Issue,2024,10,5,11750,2350
+Surface Grinder,Changeover / Setup,2024,10,6,12600,2100
+Surface Grinder,Unplanned Breakdown,2024,10,4,12000,3000
+Surface Grinder,Wheel Dressing,2024,11,12,30600,2550
+Surface Grinder,Planned Maintenance,2024,11,21,57750,2750
+Surface Grinder,Coolant System Issue,2024,11,7,15050,2150
+Surface Grinder,Changeover / Setup,2024,11,9,18000,2000
+Surface Grinder,Unplanned Breakdown,2024,11,4,12200,3050
+Surface Grinder,Wheel Dressing,2024,12,31,71300,2300
+Surface Grinder,Planned Maintenance,2024,12,10,29500,2950
+Surface Grinder,Coolant System Issue,2024,12,5,10250,2050
+Surface Grinder,Changeover / Setup,2024,12,4,7400,1850
+Surface Grinder,Unplanned Breakdown,2024,12,3,8850,2950
