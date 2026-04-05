@@ -258,6 +258,7 @@ orobic-precision-parts-kpi-dashboard/
 │
 ├── powerbi/
 │   ├── dax_formulas.md
+|   ├── Orobic Precision Parts KPI Dashboard.pbix   (Power BI dashboard file)
 │   └── dashboard_guide.md
 │
 └── reports/
