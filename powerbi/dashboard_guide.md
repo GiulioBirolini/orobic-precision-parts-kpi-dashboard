@@ -74,7 +74,7 @@ Go to **Model view** and create the following relationships:
 
 ## Step 4 — Create all DAX measures
 
-Create a dedicated **Measures table** (blank table named `Measures`).
+Create a dedicated **Measures table** (blank table named `_Measures`).
 Then add every measure from `dax_formulas.md`.  Recommended grouping:
 
 | Measure group | Measures |
