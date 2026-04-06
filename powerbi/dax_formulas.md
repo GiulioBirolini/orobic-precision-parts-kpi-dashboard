@@ -24,7 +24,7 @@ downtime_analysis  ──→  kpi_monthly   (Machine + Year + Month_Num)
 defect_analysis    ──→  kpi_monthly   (Machine + Year + Month_Num)
 ```
 
-Create a shared `Date` table and relate it to `kpi_daily[Date]` and
+Create a shared `DateTable` and relate it to `kpi_daily[Date]` and
 `kpi_monthly[Year + Month_Num]` for time-intelligence functions.
 
 ---
