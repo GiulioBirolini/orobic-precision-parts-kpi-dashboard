@@ -270,7 +270,11 @@ orobic-precision-parts-kpi-dashboard/
         ├── 05_machine_heatmap.png
         ├── 06_oee_vs_downtime.png
         ├── 07_oee_distribution.png
-        └── 08_scrap_rate_trend.png
+        ├── 08_scrap_rate_trend.png
+        ├── dashboard_page1.png
+        ├── dashboard_page2.png
+        ├── dashboard_page3.png
+        └── dashboard_page4.png
 ```
 
 ---
