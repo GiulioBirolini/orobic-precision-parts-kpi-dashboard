@@ -210,7 +210,6 @@ The Power BI dashboard is built on the 5 processed CSV tables exported by the ET
 
 - Executive Summary
 - OEE Detail
-- Downtime Pareto with drill-through by machine
 - Downtime Analysis
 - Defect & Quality
 
