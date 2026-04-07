@@ -206,15 +206,18 @@ The OEE distribution chart shows, for each machine, how the daily OEE values are
 
 ## Power BI Dashboard
 
-Dashboard screenshots and `.pbix` file: coming soon.
-
 The Power BI dashboard is built on the 5 processed CSV tables exported by the ETL pipeline and includes:
 
-- KPI cards (OEE, Availability, Performance, Quality) with status colour vs 85% benchmark
-- Monthly OEE trend with machine slicer
+- Executive Summary
+- OEE Detail
 - Downtime Pareto with drill-through by machine
-- Machine performance heatmap with conditional formatting
-- Time-based calculations: month-over-month change, year-to-date cumulative, rolling 3-month average, same period prior year comparison
+- Downtime Analysis
+- Defect & Quality
+
+![Executive Summary](reports/dashboard/dashboard_page1.png)
+![OEE Detail](reports/dashboard/dashboard_page2.png)
+![Downtime Analysis](reports/dashboard/dashboard_page3.png)
+![Defect & Quality](reports/dashboard/dashboard_page4.png)
 
 All DAX measures and step-by-step build instructions are documented in `powerbi/`.
 
