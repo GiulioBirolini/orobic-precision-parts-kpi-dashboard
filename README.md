@@ -214,10 +214,10 @@ The Power BI dashboard is built on the 5 processed CSV tables exported by the ET
 - Downtime Analysis
 - Defect & Quality
 
-![dashboard_page1](reports/dashboard/dashboard_page1.png)
-![dashboard_page2](reports/dashboard/dashboard_page2.png)
-![dashboard_page3](reports/dashboard/dashboard_page3.png)
-![dashboard_page4](reports/dashboard/dashboard_page4.png)
+![dashboard_page1](reports/figures/dashboard_page1.png)
+![dashboard_page2](reports/figures/dashboard_page2.png)
+![dashboard_page3](reports/figures/dashboard_page3.png)
+![dashboard_page4](reports/figures/dashboard_page4.png)
 
 All DAX measures and step-by-step build instructions are documented in `powerbi/`.
 
